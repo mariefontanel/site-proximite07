@@ -21,6 +21,8 @@ body{
 
 .logo_site{
 	width: 20%;
+	margin-left: 3%;
+	margin-top: 3%;
 }
 
 /*HEADER*/
@@ -28,18 +30,25 @@ body{
 .bloc_nav{
 	display:block;
 	width: 80%;
+	
 }
+
+.menu{
+}
+
 .bloc_nav li{
 	list-style-type: none;
 	display:inline-block;
 }
+
+
 
 .bloc_accroche h1{
 	margin-left: 30%;
     width: 60%;
     margin-top: -10%;
 
-
+}
 /*ICONES PUBLICS CIBLES*/
 .bloc_icones{
 	width: 60%;
@@ -55,6 +64,14 @@ body{
 
 /*MAP AND INTRO*/
 
+.google_map, .intro{
+
+}
+
+.bloc_publics, .bloc_presentation{
+	margin-left:3%;
+	width:40%;
+}
 
 /*PARTCULIERS*/
 
@@ -65,5 +82,14 @@ body{
 /*COLLECTIVITES*/
 
 /*LOGOS DE FINANCEURS*/
+
+.bloc_financeurs{
+	text-align: center;
+}
+
+.logo_financeurs{
+	width: 10%;
+	margin:auto;
+}
 
 /*FOOTER*/
