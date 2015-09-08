@@ -18,6 +18,7 @@ body{
   	font-family: 'Roboto-Italic';
 }
 
+
 .bloc_logo{
 
 	display:block;
@@ -31,8 +32,14 @@ body{
 }
 
 /*HEADER*/
-
 .bloc_nav{
+	text-align: center;
+	width: 100%;
+  text-align: center;
+  margin-left: 23%;
+}
+
+.bloc_nav  ul li{
 	display:block;
 	width: 80%;
 	
@@ -41,17 +48,45 @@ body{
 .menu{
 }
 
+<<<<<<< HEAD
+a{
+	text-decoration: none;
+=======
 .bloc_nav li{
+>>>>>>> 0925ea9abbe6864a4c0c49d7d98029faeb286067
 	list-style-type: none;
-	display:inline-block;
+	width: 60%;
+	text-align: center;
+	display:flex;
+	justify-content:space-between;
+	align-content:space-around;
+	
+}
+
+
+.menu {
+	background-color: red;
+	width: 60%;
+	display:flex;
+	justify-content:space-between;
+	align-content:space-around;
+
+
+
 }
 
 
 
 .bloc_accroche h1{
 	margin-left: 30%;
+<<<<<<< HEAD
+  width: 60%;
+  margin-top: -10%;
+}
+=======
     width: 60%;
     margin-top: -10%;
+>>>>>>> 0925ea9abbe6864a4c0c49d7d98029faeb286067
 
 }
 /*ICONES PUBLICS CIBLES*/
