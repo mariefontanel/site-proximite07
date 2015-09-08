@@ -1,45 +1,46 @@
 body{
-	width:100%;
-	margin:0;
+	width: 100%;
+  margin:0;
 }
-
-.bloc_titre{
+/*header*/
+.bloc_logo{
 	display:block;
-	background-color:red;
 }
 .logo_site{
 	width:20%;
 }
 
 
-.bloc_accroche{
+.bloc_nav{
+	display:block;
+	width: 80%;
+}
+.bloc_nav li{
+	list-style-type: none;
+	display:inline-block;
+}
+
+.bloc_accroche h1{
 	margin-left: 30%;
-    width: 60%;
-    margin-top: -15%;
-
+  width: 60%;
+  margin-top: -10%;
 }
-
-
-/*.menu{
-	width:80%;
-}
-*/
 
 .nav_accueil{
 	display:block;
 }
 
-nav li{
-	list-style-type: none;
-	display: inline-block;
-}
-
-
 ul .menu{
 	width:80%;
 }
-.entree_public{
-	display:flex;
-	width: 100%;
-	justify-content:space-around;
-}
+
+.bloc-icones{
+	width: 60%;
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-content:space-around;
+	margin-top: 10%;
+	margin-left: 19%;
+	
+ }
