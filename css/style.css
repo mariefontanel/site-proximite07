@@ -28,7 +28,7 @@ body{
 .logo_site{
 	width: 20%;
 	margin-left: 3%;
-	margin-top: 3%;
+	margin-top: 2%;
 }
 
 /*HEADER*/
@@ -45,9 +45,6 @@ body{
 	
 }
 
-.menu{
-}
-
 
 a{
 	text-decoration: none;
@@ -59,7 +56,6 @@ a{
 	align-content:space-around;
 	
 }
-
 
 .menu {
 	background-color: red;
@@ -75,7 +71,7 @@ a{
   margin-top: -10%;
 }
 
-}
+
 /*ICONES PUBLICS CIBLES*/
 .bloc_icones{
 	width: 60%;
@@ -87,7 +83,6 @@ a{
 	margin-left: 19%;
 	
  }
-
 
 /*MAP AND INTRO*/
 .bloc_presentation{
