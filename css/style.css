@@ -146,6 +146,7 @@ a{
 
 .bloc_droit{
 	margin-left:56%;
+	margin-right:3%;
 	width:40%;
 }
 
@@ -160,12 +161,32 @@ a{
 .lien_retour_top{
 	float:right;
 }
+
 /*COLLECTIVITES*/
+.bloc_img_collectivite{
+	width: 80%;
+	display: flex;
+	flex-direction:row;
+	align-items: flex-start;
+	margin-left: 3%;
+	height: 500px;
+}
+
+.bloc_img_gauche{
+	width: 35%;
+	margin-left: 3%;
+}
+
+.nonieres{
+	width: 100%;
+}
+
 
 /*LOGOS DE FINANCEURS*/
 
 .bloc_financeurs{
 	text-align: center;
+	margin-bottom: 3%;
 }
 
 .logo_financeurs{
