@@ -139,8 +139,13 @@ a{
 
 }
 
-.bloc_publics{
+.bloc_gauche{
 	margin-left:3%;
+	width:40%;
+}
+
+.bloc_droit{
+	margin-left:56%;
 	width:40%;
 }
 
@@ -152,6 +157,9 @@ a{
 
 /*ASSOCIATIONS*/
 
+.lien_retour_top{
+	float:right;
+}
 /*COLLECTIVITES*/
 
 /*LOGOS DE FINANCEURS*/
