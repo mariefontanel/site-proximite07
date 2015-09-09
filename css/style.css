@@ -59,7 +59,6 @@ a{
 	
 }
 
-
 .menu {
 	background-color: red;
 	width: 60%;
@@ -74,6 +73,10 @@ a{
   	margin-top: -10%;
 }
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> decebac831641914cd1e47a4bf0dc897aa1356da
 /*ICONES PUBLICS CIBLES*/
 .bloc_icones{
 	width: 60%;
@@ -85,7 +88,6 @@ a{
 	margin-left: 19%;
 	
  }
-
 
 /*MAP AND INTRO*/
 /*.bloc_presentation{
