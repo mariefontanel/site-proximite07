@@ -174,3 +174,42 @@ a{
 }
 
 /*FOOTER*/
+footer{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	justify-content:space-between;
+	background-color: grey;
+	width: 100%;
+	font-size: 11px;
+	text-align: center;
+}
+
+.infos_legales{
+	margin-top: 2%;
+	margin-left: 3%;
+	text-decoration: underline;
+	width: 20%;
+	
+}
+
+.plan_site{
+	margin-top: 2%;
+	margin-left: -5%;
+	width: 20%;
+	text-decoration: underline;
+	
+}
+
+.coordonnees{
+	margin-left: -5%;
+	margin-right: 3%;
+	margin-top: 2%;
+	line-height: 1%;
+	width: 25%;
+	
+}
+.intitule_coordonnees{
+	text-decoration: underline;
+
+}
