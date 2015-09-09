@@ -5,13 +5,51 @@
 				<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 	        	<link rel="stylesheet" href="css/style.css" />
 	        	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" />
-	       <!--  	/*<style type="text/css">
+	        	<style type="text/css">
 				    html { height: 100% }
 				    body { height: 100%; margin: 0px; padding: 0px }
 				    #map_canvas { height: 100% ; width:100%;}
-				</style>*/ -->
-				 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script> 
-				
+				</style>
+				<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script> 
+				<script type="text/javascript">
+				 
+				//     var previousPosition = null;
+				   
+				//     function initialize() {
+				//       map = new google.maps.Map(document.getElementById("map_canvas"), {
+				//             zoom: 19,
+				//             center: new google.maps.LatLng(44.93782,4.36905),
+				//             mapTypeId: google.maps.MapTypeId.ROADMAP
+				//           });   
+				//     }
+				       
+				//     if (navigator.geolocation)
+				//       var watchId = navigator.geolocation.watchPosition(successCallback, null, {enableHighAccuracy:true});
+				//     else
+				//       alert("Votre navigateur ne prend pas en compte la géolocalisation HTML5");
+				       
+				//     function successCallback(position){
+				//       map.panTo(new google.maps.LatLng(position.coords.latitude, position.coords.longitude));
+				//       var marker = new google.maps.Marker({
+				//         position: new google.maps.LatLng(position.coords.latitude, position.coords.longitude), 
+				//         map: map
+				//       });  
+				//       if (previousPosition){
+				//         var newLineCoordinates = [
+				//            new google.maps.LatLng(previousPosition.coords.latitude, previousPosition.coords.longitude),
+				//            new google.maps.LatLng(position.coords.latitude, position.coords.longitude)];
+				         
+				//         var newLine = new google.maps.Polyline({
+				//           path: newLineCoordinates,        
+				//           strokeColor: "#FF0000",
+				//           strokeOpacity: 1.0,
+				//           strokeWeight: 2
+				//         });
+				//         newLine.setMap(map);
+				//       }
+				//       previousPosition = position;
+				//     };    
+				//   </script>
 	 	   	<!--[if lt IE 9]>
 	        	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	        	<![endif]-->
@@ -44,48 +82,12 @@
 
 			<div class="bloc_presentation">
 				
-				<div id="map_canvas"></div>
-				 <script type="text/javascript">
-				 
-				    var previousPosition = null;
-				   
-				    function initialize() {
-				      map = new google.maps.Map(document.getElementById("map_canvas"), {
-				            zoom: 19,
-				            center: new google.maps.LatLng(44.93782,4.36905),
-				            mapTypeId: google.maps.MapTypeId.ROADMAP
-				          });   
-				    }
-				       
-				    if (navigator.geolocation)
-				      var watchId = navigator.geolocation.watchPosition(successCallback, null, {enableHighAccuracy:true});
-				    else
-				      alert("Votre navigateur ne prend pas en compte la géolocalisation HTML5");
-				       
-				    function successCallback(position){
-				      map.panTo(new google.maps.LatLng(position.coords.latitude, position.coords.longitude));
-				      var marker = new google.maps.Marker({
-				        position: new google.maps.LatLng(position.coords.latitude, position.coords.longitude), 
-				        map: map
-				      });  
-				      if (previousPosition){
-				        var newLineCoordinates = [
-				           new google.maps.LatLng(previousPosition.coords.latitude, previousPosition.coords.longitude),
-				           new google.maps.LatLng(position.coords.latitude, position.coords.longitude)];
-				         
-				        var newLine = new google.maps.Polyline({
-				          path: newLineCoordinates,        
-				          strokeColor: "#FF0000",
-				          strokeOpacity: 1.0,
-				          strokeWeight: 2
-				        });
-				        newLine.setMap(map);
-				      }
-				      previousPosition = position;
-				    };    
-				  </script>
+				<!-- <div id="map_canvas"></div> -->
+				 <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1441785993253" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 				<div class="introduction">
-					<p>intro</p>
+					<p class="texte_presentation">Le Site de proximité est un pôle d’ingénierie locale pour la création et le développement des activités et des emplois. Il s’adresse, aux particuliers, aux entreprises et aux associations de son périmètre d’action et à ceux qui veulent venir s’y installer. Il offre également des services aux collectivités. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at.</p>
+
 				</div>
 				
 			</div>
