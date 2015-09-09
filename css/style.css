@@ -110,14 +110,6 @@ a{
 }*/
 
 .introduction{
-/*	width: 304px;
-    height: 370px;
-    margin-left: 3%;
-    margin-right: 3%;
-    margin-top: 5%;
-	background-color: yellow;
-	margin-bottom: 5*/
-
 	width: 400px;
     height: 442px;
     margin-right: 15%;
@@ -138,7 +130,9 @@ a{
 }
 
 /*PARTCULIERS*/
-
+#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+	margin-top: 5%;
+}
 /*ENTREPRISES*/
 
 /*ASSOCIATIONS*/
