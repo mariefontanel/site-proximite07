@@ -7,10 +7,15 @@
 }
 
 
+html{
+	width: 100%;
+}
+
 body{
 	width: 100%;
-  margin:0;
- 	font-family: 'Roboto-Italic';
+  	margin:0;
+  	padding: 0;
+  	font-family: 'Roboto-Italic';
 }
 
 
@@ -85,12 +90,23 @@ a{
 
 
 /*MAP AND INTRO*/
-
-.google_map, .intro{
+.bloc_presentation{
+	width:100%;
 
 }
 
-.bloc_publics, .bloc_presentation{
+#map_canvas{
+	width: 50%; 
+	height: 50%;
+	border:1px solid red;
+}
+
+.introduction{
+	width:50%;
+	background-color: red;
+}
+
+.bloc_publics{
 	margin-left:3%;
 	width:40%;
 }
