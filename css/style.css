@@ -73,10 +73,7 @@ a{
   	margin-top: -10%;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 99d200fe7573215dcbb65f95d90bbd4fc91e4d52
 /*ICONES PUBLICS CIBLES*/
 
 .bloc_icones a{
@@ -152,19 +149,56 @@ width: 20%;
 
 .texte_presentation{
 	text-align: center;
-
+}
+.bloc_img_txt{
+	display:flex;
+	flex-direction:row;
+	width: 100%;
+}
+.bloc_img_particuliers{
+ width: 75%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ margin-left: 3%;
+ height: 500px;
 }
 
+.bloc_img_gauche{
+	width: 35%;
+	margin-left: 3%;
+}
+
+.reunion{
+	width: 53%;
+}
+
+.bloc_img_entreprises{
+ width: 75%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ margin-left: 3%;
+ height: 500px;
+} 
+
+.entreprises{
+ width: 53%;
+ margin-top: 15%;
+
+}
 .bloc_gauche{
 	margin-left:3%;
 	width:40%;
+
 }
 
-.bloc_droit{
-	margin-left:56%;
-	margin-right:3%;
-	width:40%;
+.bloc_droit {
+	margin-left: 50%;
+  margin-right: 3%;
+  width: 40%;
 }
+
 
 /*PARTCULIERS*/
 #bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
@@ -180,7 +214,7 @@ width: 20%;
 
 /*COLLECTIVITES*/
 .bloc_img_collectivite{
-	width: 80%;
+	width: 75%;
 	display: flex;
 	flex-direction:row;
 	align-items: flex-start;
