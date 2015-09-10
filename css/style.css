@@ -75,7 +75,7 @@ a{
 }
 
 .formulaire_contact{
-	margin: 0 auto;
+		margin: 0 auto;
     width: 400px;
     /* Pour voir les limites du formulaire */
     padding: 1em;
