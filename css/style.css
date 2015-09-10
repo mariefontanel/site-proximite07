@@ -37,8 +37,8 @@ body{
 .bloc_nav{
 	text-align: center;
 	width: 100%;
-  text-align: center;
-  margin-left: 23%;
+  	text-align: center;
+  	margin-left: 23%;
 }
 
 .bloc_nav  ul li{
@@ -53,7 +53,7 @@ a{
 	list-style-type: none;
 	width: 60%;
 	text-align: center;
-	display:flex;
+	/*display:flex;*/
 	justify-content:space-between;
 	align-content:space-around;
 	
@@ -73,8 +73,20 @@ a{
   	margin-top: -10%;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 99d200fe7573215dcbb65f95d90bbd4fc91e4d52
 /*ICONES PUBLICS CIBLES*/
+
+.bloc_icones a{
+	text-decoration: none;
+	list-style-type: none;
+	width: 60%;
+	text-align: center;
+	justify-content:space-between;
+	align-content:space-around;
+}
 .bloc_icones{
 	width: 60%;
 	display: flex;
@@ -85,6 +97,14 @@ a{
 	margin-left: 19%;
 	
  }
+
+/* .bloc_icone_particuliers {
+ 	display:flex;
+ 	flex-direction:column;
+ 	align-items: flex-start;
+ }*/
+
+
 
 /*MAP AND INTRO*/
 /*.bloc_presentation{
@@ -121,14 +141,6 @@ width: 20%;
 }*/
 
 .introduction{
-/*	width: 304px;
-    height: 370px;
-    margin-left: 3%;
-    margin-right: 3%;
-    margin-top: 5%;
-	background-color: yellow;
-	margin-bottom: 5*/
-
 	width: 400px;
     height: 442px;
     margin-right: 15%;
@@ -143,23 +155,54 @@ width: 20%;
 
 }
 
-.bloc_publics{
+.bloc_gauche{
 	margin-left:3%;
 	width:40%;
 }
 
-/*PARTCULIERS*/
+.bloc_droit{
+	margin-left:56%;
+	margin-right:3%;
+	width:40%;
+}
 
+/*PARTCULIERS*/
+#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+	margin-top: 5%;
+}
 /*ENTREPRISES*/
 
 /*ASSOCIATIONS*/
 
+.lien_retour_top{
+	float:right;
+}
+
 /*COLLECTIVITES*/
+.bloc_img_collectivite{
+	width: 80%;
+	display: flex;
+	flex-direction:row;
+	align-items: flex-start;
+	margin-left: 3%;
+	height: 500px;
+}
+
+.bloc_img_gauche{
+	width: 35%;
+	margin-left: 3%;
+}
+
+.nonieres{
+	width: 100%;
+}
+
 
 /*LOGOS DE FINANCEURS*/
 
 .bloc_financeurs{
 	text-align: center;
+	margin-bottom: 3%;
 }
 
 .logo_financeurs{
@@ -168,3 +211,42 @@ width: 20%;
 }
 
 /*FOOTER*/
+footer{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	justify-content:space-between;
+	background-color: grey;
+	width: 100%;
+	font-size: 11px;
+	text-align: center;
+}
+
+.infos_legales{
+	margin-top: 2%;
+	margin-left: 3%;
+	text-decoration: underline;
+	width: 20%;
+	
+}
+
+.plan_site{
+	margin-top: 2%;
+	margin-left: -5%;
+	width: 20%;
+	text-decoration: underline;
+	
+}
+
+.coordonnees{
+	margin-left: -5%;
+	margin-right: 3%;
+	margin-top: 2%;
+	line-height: 1%;
+	width: 25%;
+	
+}
+.intitule_coordonnees{
+	text-decoration: underline;
+
+}
