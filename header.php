@@ -4,6 +4,7 @@
 		</div>
 		<nav class="bloc_nav">
 		<ul class="menu">
+			<a href="index.php"><li><i class="fa fa-home fa-2x"></i></li></a>
 			<a href="presentation.php"><li>Qui sommes-nous ?</li></a>
 			<a href="equipe.php"><li>Notre équipe</li></a>
 			<a href="lieux_accueil.php"><li>Nos lieux d'accueil</li></a>
@@ -13,4 +14,5 @@
 		<div class="bloc_accroche">
 			<h1>Votre outil pour l'emploi et la création d'activités</h1>
 		</div>
+
 </header>
