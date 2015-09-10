@@ -1,64 +1,9 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-				<meta charset="utf-8" />
-				<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-	        	<link rel="stylesheet" href="css/style.css" />
-	        	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" />
-	        	<style type="text/css">
-				    html { height: 100% }
-				    body { height: 100%; margin: 0px; padding: 0px }
-				    #map_canvas { height: 100% ; width:100%;}
-				</style>
-				<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script> 
-				<script type="text/javascript">
-				 
-				//     var previousPosition = null;
-				   
-				//     function initialize() {
-				//       map = new google.maps.Map(document.getElementById("map_canvas"), {
-				//             zoom: 19,
-				//             center: new google.maps.LatLng(44.93782,4.36905),
-				//             mapTypeId: google.maps.MapTypeId.ROADMAP
-				//           });   
-				//     }
-				       
-				//     if (navigator.geolocation)
-				//       var watchId = navigator.geolocation.watchPosition(successCallback, null, {enableHighAccuracy:true});
-				//     else
-				//       alert("Votre navigateur ne prend pas en compte la géolocalisation HTML5");
-				       
-				//     function successCallback(position){
-				//       map.panTo(new google.maps.LatLng(position.coords.latitude, position.coords.longitude));
-				//       var marker = new google.maps.Marker({
-				//         position: new google.maps.LatLng(position.coords.latitude, position.coords.longitude), 
-				//         map: map
-				//       });  
-				//       if (previousPosition){
-				//         var newLineCoordinates = [
-				//            new google.maps.LatLng(previousPosition.coords.latitude, previousPosition.coords.longitude),
-				//            new google.maps.LatLng(position.coords.latitude, position.coords.longitude)];
-				         
-				//         var newLine = new google.maps.Polyline({
-				//           path: newLineCoordinates,        
-				//           strokeColor: "#FF0000",
-				//           strokeOpacity: 1.0,
-				//           strokeWeight: 2
-				//         });
-				//         newLine.setMap(map);
-				//       }
-				//       previousPosition = position;
-				//     };    
-				//   </script>
-	 	   	<!--[if lt IE 9]>
-	        	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	        	<![endif]-->
-	        <title>Site de proximité des Boutières</title>
-		</head>
+		<?php include("head.php"); ?>
 		<body onload="initialize()">
 			<div id="top"></div>
 			<header>
-				<div class="bloc_logo">
+				<?php include("header.php"); ?>
+				<!-- <div class="bloc_logo">
 					<img src="images/logo.jpg" class="logo_site">
 				</div>
 				<nav class="bloc_nav">
@@ -71,7 +16,7 @@
 				</nav>
 				<div class="bloc_accroche">
 					<h1>Votre outil pour l'emploi et la création d'activités</h1>
-				</div>
+				</div> -->
 			</header>
 
 			<article class="bloc_icones">
@@ -96,10 +41,22 @@
 				</div>
 				
 			</div>
+<<<<<<< HEAD:index.html
 					<div class="bloc_img_txt">
 						<div class="bloc_gauche" id="bloc_particuliers">
 							<h2>Particuliers</h2>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+=======
+			<div class="bloc_gauche" id="bloc_particuliers">
+				<h2>Particuliers</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+
+				<p>Curabitur ut egestas erat. Nam dictum turpis sed velit pulvinar posuere. Donec sit amet nulla ac risus semper porta. Mauris pellentesque id mi ut pretium. Nunc risus dolor, ullamcorper eget sagittis porttitor, aliquam a enim. Sed elementum risus quis tortor lacinia ultrices. Suspendisse et arcu ac turpis lacinia rhoncus. Aliquam vulputate pharetra velit ac pulvinar. Sed in nulla auctor, placerat enim malesuada, aliquam nibh. Quisque rutrum dolor quis faucibus laoreet. Phasellus nisi enim, eleifend tempor tincidunt at, congue et erat. Morbi facilisis vel sem id ornare. Morbi elit nunc, viverra id dolor non, rutrum laoreet nibh. Vivamus eget lacus quis erat varius maximus.</p>
+			</div>
+			<div class="bloc_droit" id="bloc_entreprises">
+				<h2>entreprises</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+>>>>>>> dc4a5aae3e1158d77b479c648cb7656c516671d1:index.php
 
 								<p>Curabitur ut egestas erat. Nam dictum turpis sed velit pulvinar posuere. Donec sit amet nulla ac risus semper porta. Mauris pellentesque id mi ut pretium. Nunc risus dolor, ullamcorper eget sagittis porttitor, aliquam a enim. Sed elementum risus quis tortor lacinia ultrices. Suspendisse et arcu ac turpis lacinia rhoncus. Aliquam vulputate pharetra velit ac pulvinar. Sed in nulla auctor, placerat enim malesuada, aliquam nibh.
 								</p>
@@ -137,29 +94,10 @@
 			</div>
 			<hr>
 			<div class="bloc_financeurs">
-				<img src="images/logo_ue_2013.png" class="logo_financeurs">
-				<img src="images/logo_fse.png" class="logo_financeurs">
-				<img src="images/logo_leader.png" class="logo_financeurs">
-				<img src="images/logo_rra_2015.png" class="logo_financeurs">
-				<img src="images/logo_capca.jpg" class="logo_financeurs">
-				<img src="images/logo_cc_lamastre.jpg" class="logo_financeurs">
-				<img src="images/logo_valeyrieux.png" class="logo_financeurs">
+				<?php include("financeurs.php"); ?>
 			</div>
-		
 			<footer>
-				<div class="infos_legales">
-					<a href="infos_legales.html" >Infos légales</a>
-				</div>
-				<div class="plan_site">Plan du site</div>
-				<div class="coordonnees">
-					<p class="intitule_coordonnees">Coordonnées:</p>
-					<br>
-					<p>Quartier Le Pont</p>
-					<p>07310 St Martin de Valamas</p>
-					<p>Téléphone: 04 75 30 50 82</p>
-					<p>Email : <a href="mailto:site.proximite.boutieres@orange.fr">site.proximite.boutieres@orange.fr</a></p>
-				</div>
-						                  
+				<?php include("footer.php"); ?>
 			</footer>
 			</div>
 		</body>
