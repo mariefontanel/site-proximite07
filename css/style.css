@@ -73,10 +73,7 @@ a{
   	margin-top: -10%;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> decebac831641914cd1e47a4bf0dc897aa1356da
 /*ICONES PUBLICS CIBLES*/
 .bloc_icones{
 	width: 60%;
@@ -98,8 +95,20 @@ a{
 	margin-top: 12%;
 	background-color: blue;
 }*/
+.icone_particuliers{
+	display:flex;
+	float:left;
+	width: 20%;
+}
+.icone_entreprises{
+width: 20%;
+}
+.icone_associations{
+width: 20%;
+}
+.icone_collectivites{
 
-
+}
 .map{
 	margin-left: 3%;
 	margin-top: 5%;
