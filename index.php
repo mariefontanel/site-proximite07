@@ -14,6 +14,8 @@
 				</a>
 				<a href="#bloc_collectivites"><div class="titre_bloc_icone">Collectivités</div><i class="fa fa-users fa-3x"></i>
 				</a>
+				<a href="#bloc_territoire"><div class="titre_bloc_icone">Territoire et acteurs</div><i class="fa fa-globe fa-3x"></i>
+				</a>
 			</article>
 
 			<div class="bloc_presentation">
@@ -90,6 +92,12 @@
 
 				</div>
 			</div>
+
+			<div class="bloc_gauche" id="bloc_territoire">
+				<h2>Territoire et acteurs</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+			</div>
+
 
 			<hr>
 			<div class="bloc_financeurs">
