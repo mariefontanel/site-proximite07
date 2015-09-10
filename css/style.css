@@ -30,7 +30,7 @@ body{
 
 .logo_site{
 	width: 20%;
-	margin-left: 3%;
+	margin-left: 2%;
 	margin-top: 2%;
 	vertical-align: text-top;
 }
@@ -155,7 +155,7 @@ width: 20%;
 
 }
 .map{
-	margin-left: 3%;
+	margin-left: 2%;
 	margin-top: 5%;
 }
 
@@ -184,29 +184,30 @@ width: 20%;
 	width: 100%;
 }
 .bloc_img_particuliers{
- width: 75%;
+ width: 90%;
  display: flex;
  flex-direction: row;
  justify-content: space-around;
- margin-left: 3%;
- height: 500px;
+ margin-left: 2%;
+ height: 70%;
 }
 
 .bloc_img_gauche{
 	width: 35%;
-	margin-left: 3%;
+	margin-left: 2%;
 }
 
 .reunion{
-	width: 53%;
+	display: block;
+	width: 35%;
 }
 
 .bloc_img_entreprises{
- width: 75%;
+ width: 80%;
  display: flex;
  flex-direction: row;
  justify-content: space-around;
- margin-left: 3%;
+ margin-left: 2%;
  height: 500px;
 } 
 
@@ -216,8 +217,9 @@ width: 20%;
 
 }
 .bloc_gauche{
-	margin-left:3%;
-	width:40%;
+	margin-left:2%;
+	width:35%;
+	display: block;
 
 }
 
@@ -246,13 +248,13 @@ width: 20%;
 	display: flex;
 	flex-direction:row;
 	align-items: flex-start;
-	margin-left: 3%;
+	margin-left: 2%;
 	height: 500px;
 }
 
 .bloc_img_gauche{
 	width: 35%;
-	margin-left: 3%;
+	margin-left: 2%;
 }
 
 .nonieres{
@@ -286,7 +288,7 @@ footer{
 
 .infos_legales{
 	margin-top: 2%;
-	margin-left: 3%;
+	margin-left: 2%;
 	text-decoration: underline;
 	width: 20%;
 	
