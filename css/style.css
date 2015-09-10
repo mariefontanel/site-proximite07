@@ -201,7 +201,7 @@ width: 20%;
 	 justify-content: space-around;
 	 margin-left: 2%;
 	 height: 70%;
-	 background-color: white;
+	 /*background-color: white;*/
 }
 
 .bloc_img_gauche{
@@ -212,7 +212,7 @@ width: 20%;
 
 .reunion{
 	display: block;
-	width: 35%;
+	width: 50%;
 }
 
 .bloc_img_entreprises{
@@ -222,7 +222,7 @@ width: 20%;
 	 justify-content: space-around;
 	 margin-left: 2%;
 	 height: 500px;
-	 background-color: white;
+	 
 } 
 
 .entreprises{
@@ -232,8 +232,12 @@ width: 20%;
 }
 .bloc_gauche{
 	margin-left:2%;
-	width:35%;
+	width:45%;
+	height: 400px;
 	display: block;
+	background-color: white;
+	margin-top:0;
+	padding: 1%;
 
 
 }
@@ -242,6 +246,8 @@ width: 20%;
 	margin-left: 50%;
   	margin-right: 3%;
   	width: 40%;
+  	background-color: white;
+  	padding: 1%;
 }
 
 

@@ -24,10 +24,10 @@
 				<div class="introduction">
 					<p>Le Site de proximité est un pôle d’ingénierie locale pour la création et le développement des activités et des emplois. Il s’adresse, aux particuliers, aux entreprises et aux associations de son périmètre d’action et à ceux qui veulent venir s’y installer.</p>
 					<p> Il offre également ses services aux collectivités locales.</p>
-					<p>Le Site de proximité des Boutières est une association loi 1901, financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
+					<p>Le Site de proximité des Boutières est une association loi 1901 (<a href="presentation.php">en savoir plus ...</a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
 					<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
 					<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
-					<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans 5 lieux différents : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+					<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 				</div>
 				
 			</div>
@@ -35,10 +35,32 @@
 			<div class="bloc_img_particuliers">
 				<div class="bloc_gauche" id="bloc_particuliers">
 					<h2>Particuliers</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+					<h3>Vous êtes à la recherche d’un emploi ?</h3>
+					<p>Le site de proximité vous propose un accompagnement individualisé pour :</p>
+						<ul>
+							<li>faire le point sur vos compétences ;</li>
+							<li>vous informer sur l’activité locale, les secteurs qui recrutent, les perspectives ;</li>
+							<li>Vous outiller dans votre recherche d’emploi (CV, lettres de motivation, préparations d’entretien…) ;</li>
+							<li>Vous mettre en relation avec les offres d’emploi locales.</li>
+							<li>Sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la Mission locale nord Ardèche. A ce titre, il accompagne tout particulièrement les jeunes dans leur insertion sociale et professionnelle.</li>
+						</ul>
 				</div>
 				<img src="images/reunion.jpg" class="reunion">
+				</div>
+			<div class="bloc_droit">
+					<h3>Vous souhaitez créer votre entreprise, une association ?</h3>
+					<p>Que vous ayez ou pas une idée d’activité, l’Atelier des projets est fait pour vous !</p>
+					<p>L’atelier des projets vous propose :</p>
+						<ul>
+							<li>Un accompagnement individualisé pour valider votre idée, vous apporter un appui méthodologique pour construire votre projet et le formaliser</li>
+							<li>Des temps collectifs avec d’autres personnes souhaitant créer leur activité, pour enrichir votre idée, </li>
+							<li>Des « agendas pour comprendre » pour  explorer un secteur d’activités, un statut, repérer des potentiels de création,</li>
+							<li>Une orientation vers les partenaires de la création (Cci, Chambre de métiers, Chambre d’agriculture…) pour finaliser votre projet</li>
+						</ul>
+					<p>Le Site de proximité est labellisé porte d’entrée « Je crée en Rhône-Alpes » dispositif régional d’accompagnement à la création d’entreprises.</p>
+
 			</div>
+
 
 			<div class="bloc_droit" id="bloc_entreprises">
 				<h2>entreprises</h2>
