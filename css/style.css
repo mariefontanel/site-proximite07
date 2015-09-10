@@ -74,15 +74,33 @@ a{
   	color:#25AFBA;
 }
 
+.titre_form{
+	text-align: center;
+	font-weight: 1%;
+}
+
 .formulaire_contact{
-		margin: 0 auto;
-    width: 400px;
+	color:white;
+	margin: 0 auto;
+    width: 70%;
+    height: 50%;
     /* Pour voir les limites du formulaire */
     padding: 1em;
     border: 1px solid #CCC;
-    border-radius: 1em;
+    background-color: #6D6B6C;
+    border-radius: 0.5em;
+    margin-top: 10%;
+    margin-bottom: 10%;
    }
 
+.champ_form{
+	line-height: 3.5em;
+	margin-left:30%;
+}
+
+.button{
+	text-align: center;
+}
 
 /*ICONES PUBLICS CIBLES*/
 
