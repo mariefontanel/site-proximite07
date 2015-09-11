@@ -189,11 +189,11 @@ width: 20%;
 .texte_presentation{
 	text-align: center;
 }
-.bloc_img_txt{
+/*.bloc_img_txt{
 	display:flex;
 	flex-direction:row;
-	width: 100%;
-}
+	width: 100%;*/
+
 .bloc_img_particuliers{
 	 width: 90%;
 	 display: flex;
@@ -201,7 +201,7 @@ width: 20%;
 	 justify-content: space-around;
 	 margin-left: 2%;
 	 height: 70%;
-	 /*background-color: white;*/
+	 
 }
 
 .bloc_img_gauche{
@@ -215,23 +215,40 @@ width: 20%;
   height: 438px;
   margin-right: -7%;
   display: block;
-}
+  width: 650px;
+  padding-top: 5%;
+ }
 
 .bloc_img_entreprises{
 	width: 100%;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	margin-left: 0%;
-	height: 70%;
-	 
+	margin-left: 2%;
+	height: 90%;
+	
 } 
 
-.entreprises{
-	 width: 53%;
-	 margin-top: 15%;
-
+.img_entreprise{
+	 margin-right: -7%;
+   display: block;
+   padding: 2%;
+   width: 650px;
+   height: 438px;
+   padding-top: 5%;
 }
+
+
+.entreprise{
+margin-left: 9%;
+margin-right: 3%;
+width: 50%;
+/*background-color: #FFF;*/
+padding: 1%;
+height: 92%;
+background-color: white;
+}
+	
 .bloc_gauche{
 	margin-left: 2%;
 	width: 650px;
@@ -240,14 +257,28 @@ width: 20%;
 	background-color: #FFF;
 	margin-top: 0px;
 	padding: 1%;
+	padding-bottom: 6%;
 }
+
+/*h2 h3 p ul li {
+	display:block;
+	padding: auto;
+	text-align: center;*/
+	/*margin-left: 2%;
+	width: 46%;
+	height: 400px;
+	display: block;
+	background-color: #FFF;
+	margin-top: 0px;
+	padding: 1%;*/
+/*}*/
 
 .bloc_droit {
 	margin-left: 50%;
-  	margin-right: 3%;
-  	width: 40%;
-  	background-color: white;
-  	padding: 1%;
+  margin-right: 3%;
+  width: 40%;
+  background-color: white;
+  padding: 1%;
 }
 
 

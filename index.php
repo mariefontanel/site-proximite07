@@ -63,21 +63,48 @@
 
 			</div>
 
+			<div class="bloc_img_entreprises">
+			<img src="images/entreprise.jpg" class="img_entreprise">
+				<div class="entreprise" id="bloc_entreprises">
 
-			<div class="bloc_droit" id="bloc_entreprises">
-				<h2>Entreprises</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
-				<p>Curabitur ut egestas erat. Nam dictum turpis sed velit pulvinar posuere. Donec sit amet nulla ac risus semper porta. Mauris pellentesque id mi ut pretium. Nunc risus dolor, ullamcorper eget sagittis porttitor, aliquam a enim. Sed elementum risus quis tortor lacinia ultrices. Suspendisse et arcu ac turpis lacinia rhoncus. Aliquam vulputate pharetra velit ac pulvinar. Sed in nulla auctor, placerat enim malesuada, aliquam nibh.</p>
-			</div>
-				
+					<h2>Entreprises</h2>
+						<h3>Vous souhaitez développer ou diversifier votre activité ?</h3>
+						<p>Le Site de proximité vous propose :</p>
+							<ul>
+								<li>Un appui à la validation et la mise en œuvre de votre projet.</li>
+								<li>Une orientation vers les structures spécialisées pour un appui technique, un financement…</li>
+						</ul>
+						<h3>Vous voulez recruter ?</h3>	
+							<p>Nous disposons d'informations sur :</p>	
+							<ul>
+								<li>Les différents types de contrats.</li>
+								<li>Les aides à l’embauche.</li>
+								<li>La définition du poste proposé.</li>
+								<li>La liste de diffusion des offres.</li>
+								<li>Une mise en relation avec des candidats.</li>
+								<li>Une aide à la sélection et au suivi de l’intégration de la personne recrutée.</li>
+								<li>Un accompagnement spécifique pour les formalités liées à votre première embauche.</li>
+							</ul>
+						<h3>Vous recherchez des locaux ?</h3>
+							<p>Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
+						<h3>Vous projetez de transmettre votre entreprise ?</h3>
+							<p>Le Site de proximité vous accompagne dans la recherche de candidats repreneurs.</p>
+				</div>
+
+			</div>	
 				
 			<a href="#top" class ="lien_retour_top">haut de page</a>
 			
 			<div class="bloc_gauche" id="bloc_associations">
 				<h2>Associations</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
-
-				<p>Curabitur ut egestas erat. Nam dictum turpis sed velit pulvinar posuere. Donec sit amet nulla ac risus semper porta. Mauris pellentesque id mi ut pretium. Nunc risus dolor, ullamcorper eget sagittis porttitor, aliquam a enim. Sed elementum risus quis tortor lacinia ultrices. Suspendisse et arcu ac turpis lacinia rhoncus. Aliquam vulputate pharetra velit ac pulvinar. Sed in nulla auctor, placerat enim malesuada, aliquam nibh. Quisque rutrum dolor quis faucibus laoreet. Phasellus nisi enim, eleifend tempor tincidunt at, congue et erat. Morbi facilisis vel sem id ornare. Morbi elit nunc, viverra id dolor non, rutrum laoreet nibh. Vivamus eget lacus quis erat varius maximus.</p>
+					<h3>Vous souhaitez développer un nouveau projet ? 
+Le Site de proximité vous propose :un appui à la validation et la mise en œuvre de vos projets, , lune orientation vers les structures spécialisées
+vous voulez recruter ?
+Le Site de proximité vous propose Un appui au recrutement : information sur les différents types de contrats, les aides à l’embauche, aide à la définition du poste proposé, diffusion de l’offre, mise en relation avec des candidats, appui à la sélection, suivi de l’intégration de la personne recrutée, appui spécifique pour les formalités liées à votre première embauche. 
+Vous avez besoin d’un appui dans l’organisation de votre association ?
+Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation
+Vous recherchez des locaux ?
+Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins
 			</div>
 			
 			<div class="bloc_img_collectivites">
