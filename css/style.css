@@ -63,10 +63,12 @@ a{
 	align-content:space-around;
 	
 }
+a:hover { 
+   color:#E44772;
+}
 
 .menu {
-  	background-color: #DBDBDB;
-	width: 60%;
+  	width: 60%;
 	display:flex;
 	justify-content:space-between;
 	align-content:space-around;
@@ -148,16 +150,20 @@ a{
 .icone_particuliers{
 	display:flex;
 	float:left;
-	width: 20%;
+	width: 60%;
 }
 .icone_entreprises{
-width: 20%;
+	width: 60%;
 }
 .icone_associations{
-width: 20%;
+	width: 50%;
 }
 .icone_collectivites{
+	width: 60%;
+}
 
+.icone_territoire{
+	width: 60%;
 }
 
 .bloc_presentation{
@@ -335,4 +341,48 @@ footer{
 .intitule_coordonnees{
 	text-decoration: underline;
 
+}
+
+
+/*QUI SOMMES-NOUS ?*/
+
+.presentation_asso{
+	margin-top:15%;
+	margin-left: 2%;
+	width:50%;
+
+}
+
+.texte_asso{
+
+}
+
+.
+/*EQUIPE*/
+
+/*PAGE LIEUX ACCUEIL*/
+.lieux{
+	width:80%;
+	display:flex;
+	flex-direction:row;
+	margin-top:20%;
+	margin-left: 2%;
+}
+
+.stagreve{
+	display:flex;
+	width: 40%;
+	border: 1px solid black;
+}
+
+.stmartin{
+	width: 40 %;
+}
+
+.cheylard{
+	width: 40 %;
+}
+
+.lamastre{
+	width: 40 %;
 }

@@ -10,18 +10,18 @@
 				</a>
 				<a href="#bloc_entreprises"><div class="titre_bloc_icone">Entreprises</div><i class="fa fa-industry fa-3x"></i>
 				</a> 
-				<a href="#bloc_associations"><div class="titre_bloc_icone">Associations</div><i class="fa fa-hand-paper-o fa-3x"></i>
+				<a href="#bloc_associations"><img src="images/associations2.jpg" class="icone_associations"><div class="titre_bloc_icone">Associations</div><!-- <i class="fa fa-hand-paper-o fa-3x"> --></i>
 				</a>
-				<a href="#bloc_collectivites"><div class="titre_bloc_icone">Collectivités</div><i class="fa fa-users fa-3x"></i>
+				<a href="#bloc_collectivites"><img src="images/collectivites2.jpg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div><!-- <i class="fa fa-users fa-3x"> --></i>
 				</a>
-				<a href="#bloc_territoire"><div class="titre_bloc_icone">Territoire et acteurs</div><i class="fa fa-globe fa-3x"></i>
+				<a href="#bloc_territoire"><img src="images/territoires2.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
 				</a>
 			</article>
 
 			<div class="bloc_presentation">
 				
 				<!-- <div id="map_canvas"></div> -->
-				
+
 				 <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1441785993253" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 				<div class="introduction">
@@ -76,9 +76,26 @@
 			
 			<div class="bloc_gauche" id="bloc_associations">
 				<h2>Associations</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
-
-				<p>Curabitur ut egestas erat. Nam dictum turpis sed velit pulvinar posuere. Donec sit amet nulla ac risus semper porta. Mauris pellentesque id mi ut pretium. Nunc risus dolor, ullamcorper eget sagittis porttitor, aliquam a enim. Sed elementum risus quis tortor lacinia ultrices. Suspendisse et arcu ac turpis lacinia rhoncus. Aliquam vulputate pharetra velit ac pulvinar. Sed in nulla auctor, placerat enim malesuada, aliquam nibh. Quisque rutrum dolor quis faucibus laoreet. Phasellus nisi enim, eleifend tempor tincidunt at, congue et erat. Morbi facilisis vel sem id ornare. Morbi elit nunc, viverra id dolor non, rutrum laoreet nibh. Vivamus eget lacus quis erat varius maximus.</p>
+					<h3>Vous souhaitez développer un nouveau projet ? </h3>
+					<p>Le Site de proximité vous propose :</p>
+						<ul>
+							<li>un appui à la validation et la mise en œuvre de vos projets,</li>
+							<li>une orientation vers les structures spécialisées</li>
+						</ul>
+					<h3>vous voulez recruter ?</h3>
+					<p>Le Site de proximité vous propose un appui au recrutement : </p>
+						<ul>
+							<li>information sur les différents types de contrats,</li>
+							<li>les aides à l’embauche,</li>
+							<li> aide à la définition du poste proposé, </li>
+							<li>diffusion de l’offre, mise en relation avec des candidats, </li>
+							<li>appui à la sélection,</li>
+							<li>suivi de l’intégration de la personne recrutée,</li>
+							<li>appui spécifique pour les formalités liées à votre première embauche. </li>
+					<h3>Vous avez besoin d’un appui dans l’organisation de votre association ?</h3>
+						<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
+					<h3>Vous recherchez des locaux ?</h3>
+						<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
 			</div>
 			
 			<div class="bloc_img_collectivites">
@@ -87,10 +104,14 @@
 				</div>
 				<div  class="bloc_droit" id="bloc_collectivites">
 					<h2>Collectivités</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
-
-					<p>Curabitur ut egestas erat. Nam dictum turpis sed velit pulvinar posuere. Donec sit amet nulla ac risus semper porta. Mauris pellentesque id mi ut pretium. Nunc risus dolor, ullamcorper eget sagittis porttitor, aliquam a enim. Sed elementum risus quis tortor lacinia ultrices. Suspendisse et arcu ac turpis lacinia rhoncus. Aliquam vulputate pharetra velit ac pulvinar. Sed in nulla auctor, placerat enim malesuada, aliquam nibh. Quisque rutrum dolor quis faucibus laoreet. Phasellus nisi enim, eleifend tempor tincidunt at, congue et erat. Morbi facilisis vel sem id ornare. Morbi elit nunc, viverra id dolor non, rutrum laoreet nibh. Vivamus eget lacus quis erat varius maximus.</p>
-
+						<h3>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h3>
+						<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
+						<h3>Vous voulez recruter ?</h3>
+						<p>Le Site de proximité vous propose un appui au recrutement : </p>
+							<li>information sur les différents types de contrats, 
+							<li>les aides à l’embauche, aide à la définition du poste proposé,</li>
+							<li> diffusion de l’offre, mise en relation avec des candidats,</li>
+							<li> appui à la sélection, suivi de l’intégration de la personne recrutée. </li>
 				</div>
 			</div>
 
