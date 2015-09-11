@@ -10,11 +10,11 @@
 				</a>
 				<a href="#bloc_entreprises"><div class="titre_bloc_icone">Entreprises</div><i class="fa fa-industry fa-3x"></i>
 				</a> 
-				<a href="#bloc_associations"><img src="images/associations2.jpg" class="icone_associations"><div class="titre_bloc_icone">Associations</div><!-- <i class="fa fa-hand-paper-o fa-3x"> --></i>
+				<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div><!-- <i class="fa fa-hand-paper-o fa-3x"> --></i>
 				</a>
-				<a href="#bloc_collectivites"><img src="images/collectivites2.jpg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div><!-- <i class="fa fa-users fa-3x"> --></i>
+				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div><!-- <i class="fa fa-users fa-3x"> --></i>
 				</a>
-				<a href="#bloc_territoire"><img src="images/territoires2.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
+				<a href="#bloc_territoire"><img src="images/territoires.svg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
 				</a>
 			</article>
 
