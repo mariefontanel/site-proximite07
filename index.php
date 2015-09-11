@@ -101,19 +101,19 @@
 						<h3>Vous souhaitez développer un nouveau projet ? </h3>
 							<p>Le Site de proximité vous propose :</p>
 								<ul>
-									<li>un appui à la validation et la mise en œuvre de vos projets,</li>
-									<li>une orientation vers les structures spécialisées</li>
+									<li>Un appui à la validation et la mise en œuvre de vos projets.</li>
+									<li>Une orientation vers les structures spécialisées.</li>
 								</ul>
 						<h3>vous voulez recruter ?</h3>
 							<p>Le Site de proximité vous propose un appui au recrutement : </p>
 								<ul>
-									<li>information sur les différents types de contrats,</li>
-									<li>les aides à l’embauche,</li>
-									<li>aide à la définition du poste proposé, </li>
-									<li>diffusion de l’offre, mise en relation avec des candidats, </li>
-									<li>appui à la sélection,</li>
-									<li>suivi de l’intégration de la personne recrutée,</li>
-									<li>appui spécifique pour les formalités liées à votre première embauche. </li>
+									<li>Information sur les différents types de contrats.</li>
+									<li>Aides à l’embauche.</li>
+									<li>Une aide à la définition du poste proposé. </li>
+									<li>Diffusion de l’offre, mise en relation avec des candidats.</li>
+									<li>Appui à la sélection.</li>
+									<li>Suivi de l’intégration de la personne recrutée.</li>
+									<li>Appui spécifique pour les formalités liées à votre première embauche.</li>
 								</ul>	
 						<h3>Vous avez besoin d’un appui dans l’organisation de votre association ?</h3>
 							<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
@@ -130,10 +130,10 @@
 						<h3>Vous voulez recruter ?</h3>
 							<p>Le Site de proximité vous propose un appui au recrutement : </p>
 								<ul>
-									<li>information sur les différents types de contrats, 
-									<li>les aides à l’embauche, aide à la définition du poste proposé,</li>
-									<li> diffusion de l’offre, mise en relation avec des candidats,</li>
-									<li> appui à la sélection, suivi de l’intégration de la personne recrutée. </li>
+									<li>Information sur les différents types de contrats. 
+									<li>Les aides à l’embauche, aide à la définition du poste proposé.</li>
+									<li>La diffusion de l’offre, mise en relation avec des candidats.</li>
+									<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
 							</ul>
 				</div>
 			</div>

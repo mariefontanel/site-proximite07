@@ -18,7 +18,7 @@ body{
   	padding: 0;
   	font-family: 'Roboto-Italic';
   	overflow-x: hidden;
-  	background-color: #f5f5f5;
+  	background-color:F7F4F1;
 }
 
 
@@ -183,23 +183,22 @@ a:hover {
 
 .introduction{
 	width: 500px;
-    height: 430px;
-    margin-right: 8%;
-    background-color: white;
-    margin-bottom: 5%;
-    float: right;
-    margin-top: 5%;
-    padding: 1%;
+  height: 430px;
+  margin-right: 8%;
+  margin-bottom: 5%;
+  float: right;
+  margin-top: 5%;
+  padding: 1%;
 }
 
 .texte_presentation{
 	text-align: center;
 }
-/*.bloc_img_txt{
-	display:flex;
-	flex-direction:row;
-	width: 100%;*/
 
+/*PARTCULIERS*/
+#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+	margin-top: 5%;
+}
 .bloc_img_particuliers{
 	 width: 90%;
 	 display: flex;
@@ -207,13 +206,20 @@ a:hover {
 	 justify-content: space-around;
 	 margin-left: 2%;
 	 height: 70%;
-	 
 }
 
 .bloc_img_gauche{
 	width: 35%;
 	margin-left: 2%;
+}
 
+.bloc_gauche{
+	 margin-left: 2%;
+   margin-right: 2%;
+   width: 45%;
+   padding: 1%;
+   height: 80%;
+   line-height: 1.5em;
 }
 
 .reunion{
@@ -225,6 +231,12 @@ a:hover {
   padding-top: 5%;
  }
 
+/*ENTREPRISES*/
+.bloc_creation{
+	width: 80%;
+	margin-left: 15%;
+	line-height: 1.5em;
+}	
 .bloc_img_entreprises{
 	width: 100%;
 	display: flex;
@@ -232,7 +244,6 @@ a:hover {
 	justify-content: space-between;
 	margin-left: 2%;
 	height: 90%;
-	
 } 
 
 .img_entreprise{
@@ -244,32 +255,24 @@ a:hover {
 }
 
 .entreprise{
-margin-left: 9%;
-margin-right: 3%;
-width: 50%;
-padding: 1%;
-height: 92%;
-background-color: white;
+	margin-left: 9%;
+	margin-right: 3%;
+	width: 50%;
+	padding: 1%;
+	height: 92%;
+	line-height: 1.5em;
 }
 	
-.bloc_gauche{
-	margin-left: 2%;
-	width: 650px;
-	height: 400px;
-	display: block;
-	background-color: #FFF;
-	margin-top: 0px;
-	padding: 1%;
-	padding-bottom: 6%;
-}
 
+/*ASSOCIATIONS*/
 .associations{
- margin-left: 2%;
- margin-right: 2%;
- width: 45%;
- padding: 1%;
- height: 85%;
- background-color: #FFF;
+ 	margin-left: 2%;
+ 	margin-right: 2%;
+ 	width: 45%;
+ 	padding: 1%;
+	height: 89%;
+	line-height: 1.5em;
+
 }
 
 .bloc_img_associations{
@@ -280,53 +283,34 @@ background-color: white;
   margin-left: 2%;
   height: 90%;
 }
-.bloc_creation{
-	width: 80%;
-	margin-left: 15%;
-}	
 
 
 .bloc_droit {
 	margin-left: 50%;
   margin-right: 3%;
   width: 40%;
-  background-color: white;
   padding: 1%;
+  line-height: 1.5em;
 }
-
-
-/*PARTCULIERS*/
-#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
-	margin-top: 5%;
-}
-/*ENTREPRISES*/
-
-/*ASSOCIATIONS*/
-
 .lien_retour_top{
+	
 	float:right;
 }
 
 /*COLLECTIVITES*/
 .bloc_img_collectivite{
-	width: 75%;
-	display: flex;
-	flex-direction:row;
-	align-items: flex-start;
-	margin-left: 2%;
-	height: 500px;
-	background-color: white;
+	width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 2%;
+  height: 90%;
 }
 
 .bloc_img_gauche{
 	width: 35%;
 	margin-left: 2%;
 }
-
-.nonieres{
-	width: 100%;
-}
-
 
 /*LOGOS DE FINANCEURS*/
 
