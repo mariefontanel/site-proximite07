@@ -6,6 +6,14 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Roboto-Condensed';
+	src: url('../fonts/Roboto-Condensed/Roboto-Condensed.eot');
+	src: local('☺'), url('../fonts/Roboto-Condensed/Roboto-Condensed.woff') format('woff'), url('../fonts/Roboto-Condensed/Roboto-Condensed.ttf') format('truetype'), url('../fonts/Roboto-Condensed/Roboto-Condensed.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 
 html{
 	width: 100%;
@@ -16,7 +24,7 @@ body{
 	height: 100%;
   	margin:0;
   	padding: 0;
-  	font-family: 'Roboto-Italic';
+  	font-family: 'Roboto-Condensed';
   	overflow-x: hidden;
   	background-color: #f5f5f5;
 }
@@ -79,6 +87,7 @@ a:hover {
 	margin-left: 30%;
   	margin-top: -5%;
   	color:#25AFBA;
+  	font-family: 'Roboto-Italic';
 }
 
 .titre_form{
