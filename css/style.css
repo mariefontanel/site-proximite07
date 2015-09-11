@@ -381,16 +381,22 @@ footer{
 	margin-top:15%;
 	margin-left: 2%;
 	width:50%;
-
+	background-color: white;
 }
 
 .texte_asso{
 
 }
 
-.
-/*EQUIPE*/
 
+/*EQUIPE*/
+.equipe{
+	width:80%;
+	margin-top:15%;
+	margin-left:2%;
+	background-color: white;
+
+}
 /*PAGE LIEUX ACCUEIL*/
 .lieux{
 	width:80%;
@@ -398,6 +404,7 @@ footer{
 	flex-direction:row;
 	margin-top:20%;
 	margin-left: 2%;
+	background-color: white;
 }
 
 .stagreve{

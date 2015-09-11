@@ -14,10 +14,10 @@ sudo chmod -R 755 /opt/lampp/htdocs.
 
 
 #Dans le terminal, lancer le serveur en local (localhost):
-> "sudo /opt/lampp/lampp start"
-> pour fermer "sudo /opt/lampp/lampp stop"
+> sudo /opt/lampp/lampp start 
+> pour fermer sudo /opt/lampp/lampp star
 
 #Aller dans votre navigateur habituel :
->Tapez"localhost/site-proximite07"
+>tapez : localhost/site-proximite07
 
 
