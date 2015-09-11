@@ -50,7 +50,7 @@
 				</div>
 				<img src="images/reunion.jpg" class="reunion">
 				</div>
-			<div class="bloc_droit">
+			<div class="bloc_creation">
 					<h3>Vous souhaitez créer votre entreprise, une association ?</h3>
 					<p>Que vous ayez ou pas une idée d’activité, l’Atelier des projets est fait pour vous !</p>
 					<p>L’atelier des projets vous propose :</p>
@@ -65,7 +65,7 @@
 			</div>
 
 			<div class="bloc_img_entreprises">
-			<img src="images/entreprise.jpg" class="img_entreprise">
+			<img src="images/local.jpg" class="img_entreprise">
 				<div class="entreprise" id="bloc_entreprises">
 
 					<h2>Entreprises</h2>
@@ -95,46 +95,46 @@
 			</div>	
 				
 			<a href="#top" class ="lien_retour_top">haut de page</a>
-			
-			<div class="bloc_gauche" id="bloc_associations">
-
-					<h3>Vous souhaitez développer un nouveau projet ? </h3>
-					<p>Le Site de proximité vous propose :</p>
-						<ul>
-							<li>un appui à la validation et la mise en œuvre de vos projets,</li>
-							<li>une orientation vers les structures spécialisées</li>
-						</ul>
-					<h3>vous voulez recruter ?</h3>
-					<p>Le Site de proximité vous propose un appui au recrutement : </p>
-						<ul>
-							<li>information sur les différents types de contrats,</li>
-							<li>les aides à l’embauche,</li>
-							<li> aide à la définition du poste proposé, </li>
-							<li>diffusion de l’offre, mise en relation avec des candidats, </li>
-							<li>appui à la sélection,</li>
-							<li>suivi de l’intégration de la personne recrutée,</li>
-							<li>appui spécifique pour les formalités liées à votre première embauche. </li>
-					<h3>Vous avez besoin d’un appui dans l’organisation de votre association ?</h3>
-						<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
-					<h3>Vous recherchez des locaux ?</h3>
-						<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
-
+			<div class="bloc_img_associations">
+				<div class="associations" id="bloc_associations">
+					<h2>Associations</h2>
+						<h3>Vous souhaitez développer un nouveau projet ? </h3>
+							<p>Le Site de proximité vous propose :</p>
+								<ul>
+									<li>un appui à la validation et la mise en œuvre de vos projets,</li>
+									<li>une orientation vers les structures spécialisées</li>
+								</ul>
+						<h3>vous voulez recruter ?</h3>
+							<p>Le Site de proximité vous propose un appui au recrutement : </p>
+								<ul>
+									<li>information sur les différents types de contrats,</li>
+									<li>les aides à l’embauche,</li>
+									<li>aide à la définition du poste proposé, </li>
+									<li>diffusion de l’offre, mise en relation avec des candidats, </li>
+									<li>appui à la sélection,</li>
+									<li>suivi de l’intégration de la personne recrutée,</li>
+									<li>appui spécifique pour les formalités liées à votre première embauche. </li>
+								</ul>	
+						<h3>Vous avez besoin d’un appui dans l’organisation de votre association ?</h3>
+							<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
+						<h3>Vous recherchez des locaux ?</h3>
+							<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
 			</div>
-			
+		</div>	
 			<div class="bloc_img_collectivites">
-				<div class="bloc_img_gauche">
-					<img src="images/nonieres.jpg" class="nonieres">
-				</div>
+				<div class="bloc_img_gauche"></div>
 				<div  class="bloc_droit" id="bloc_collectivites">
 					<h2>Collectivités</h2>
 						<h3>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h3>
-						<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
+							<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
 						<h3>Vous voulez recruter ?</h3>
-						<p>Le Site de proximité vous propose un appui au recrutement : </p>
-							<li>information sur les différents types de contrats, 
-							<li>les aides à l’embauche, aide à la définition du poste proposé,</li>
-							<li> diffusion de l’offre, mise en relation avec des candidats,</li>
-							<li> appui à la sélection, suivi de l’intégration de la personne recrutée. </li>
+							<p>Le Site de proximité vous propose un appui au recrutement : </p>
+								<ul>
+									<li>information sur les différents types de contrats, 
+									<li>les aides à l’embauche, aide à la définition du poste proposé,</li>
+									<li> diffusion de l’offre, mise en relation avec des candidats,</li>
+									<li> appui à la sélection, suivi de l’intégration de la personne recrutée. </li>
+							</ul>
 				</div>
 			</div>
 

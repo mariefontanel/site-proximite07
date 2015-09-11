@@ -236,20 +236,17 @@ a:hover {
 } 
 
 .img_entreprise{
-	 margin-right: -7%;
-   display: block;
-   padding: 2%;
-   width: 650px;
-   height: 438px;
-   padding-top: 5%;
+	margin-right: -10%;
+	display: block;
+	padding: 5% 2% 2%;
+	width: 46%;
+	height: 94%
 }
-
 
 .entreprise{
 margin-left: 9%;
 margin-right: 3%;
 width: 50%;
-/*background-color: #FFF;*/
 padding: 1%;
 height: 92%;
 background-color: white;
@@ -266,18 +263,28 @@ background-color: white;
 	padding-bottom: 6%;
 }
 
-/*h2 h3 p ul li {
-	display:block;
-	padding: auto;
-	text-align: center;*/
-	/*margin-left: 2%;
-	width: 46%;
-	height: 400px;
-	display: block;
-	background-color: #FFF;
-	margin-top: 0px;
-	padding: 1%;*/
-/*}*/
+.associations{
+ margin-left: 2%;
+ margin-right: 2%;
+ width: 45%;
+ padding: 1%;
+ height: 85%;
+ background-color: #FFF;
+}
+
+.bloc_img_associations{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 2%;
+  height: 90%;
+}
+.bloc_creation{
+	width: 80%;
+	margin-left: 15%;
+}	
+
 
 .bloc_droit {
 	margin-left: 50%;
