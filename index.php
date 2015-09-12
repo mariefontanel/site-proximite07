@@ -32,8 +32,8 @@
 					<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 					<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 				</div>
-				
 			</div>
+
 
 			<div class="bloc_img_particuliers">
 				<div class="bloc_gauche" id="bloc_particuliers">
@@ -64,6 +64,7 @@
 				
 			<div class="bloc_creation">
 				<img src="images/reunion.jpg" class="reunion">
+				<div class="texte_creation">
 					<h3>Vous souhaitez créer votre entreprise, une association ?</h3>
 					<p>Que vous ayez ou pas une idée d’activité, l’Atelier des projets est fait pour vous !</p>
 					<p>L’atelier des projets vous propose :</p>
@@ -74,10 +75,11 @@
 							<li>Une orientation vers les partenaires de la création (Cci, Chambre de métiers, Chambre d’agriculture…) pour finaliser votre projet</li>
 						</ul>
 					<p>Le Site de proximité est labellisé porte d’entrée « Je crée en Rhône-Alpes » dispositif régional d’accompagnement à la création d’entreprises.</p>
+				</div>
 			</div>
-
+			<hr>
 			<div class="bloc_img_entreprises">
-			<img src="images/local.jpg" class="img_entreprise">
+				<img src="images/local.jpg" class="img_entreprise">
 				<div class="texte_entreprise" id="bloc_entreprises">
 
 					<h2>Entreprises</h2>
@@ -106,7 +108,8 @@
 
 			</div>	
 				
-			<a href="#top" class ="lien_retour_top">haut de page</a>
+			<!-- <a href="#top" class ="lien_retour_top">haut de page</a> -->
+			<hr>
 			<div class="bloc_img_associations">
 				<div class="texte_associations" id="bloc_associations">
 					<h2>Associations</h2>
@@ -133,6 +136,7 @@
 							<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
 				</div>
 			</div>	
+			<hr>
 			<div class="bloc_img_collectivites">
 				<div class="bloc_img_gauche">
 					
@@ -151,6 +155,7 @@
 							</ul>
 				</div>
 			</div>
+			<hr>
 			<div class="bloc_img_territoire">
 				<div class="bloc_gauche" id="bloc_territoires">
 					<h2>Territoire et acteurs</h2>
