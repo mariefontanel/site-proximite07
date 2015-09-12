@@ -14,7 +14,7 @@
 				</a>
 				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div><!-- <i class="fa fa-users fa-3x"> --></i>
 				</a>
-				<a href="#bloc_territoire"><img src="images/territoires.svg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
+				<a href="#bloc_territoires"><img src="images/territoires.svg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
 				</a>
 			</article>
 
@@ -48,9 +48,22 @@
 							<li>Sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la Mission locale nord Ardèche. A ce titre, il accompagne tout particulièrement les jeunes dans leur insertion sociale et professionnelle.</li>
 						</ul>
 				</div>
-				<img src="images/reunion.jpg" class="reunion">
+					
+				<div class="offres_particuliers">
+					<img src="images/loupe.svg" class="img_loupe">
+					<div class="texte_offres">
+						<h3>A consulter :</h3>
+						<ul>
+							<li>offres d'emplois</li>
+							<li>offres d'opportunités</li>
+							<li>offres de locaux professionnels</li>
+						</ul>
+					</div>
 				</div>
+			</div>
+				
 			<div class="bloc_creation">
+				<img src="images/reunion.jpg" class="reunion">
 					<h3>Vous souhaitez créer votre entreprise, une association ?</h3>
 					<p>Que vous ayez ou pas une idée d’activité, l’Atelier des projets est fait pour vous !</p>
 					<p>L’atelier des projets vous propose :</p>
@@ -61,12 +74,11 @@
 							<li>Une orientation vers les partenaires de la création (Cci, Chambre de métiers, Chambre d’agriculture…) pour finaliser votre projet</li>
 						</ul>
 					<p>Le Site de proximité est labellisé porte d’entrée « Je crée en Rhône-Alpes » dispositif régional d’accompagnement à la création d’entreprises.</p>
-
 			</div>
 
 			<div class="bloc_img_entreprises">
 			<img src="images/local.jpg" class="img_entreprise">
-				<div class="entreprise" id="bloc_entreprises">
+				<div class="texte_entreprise" id="bloc_entreprises">
 
 					<h2>Entreprises</h2>
 						<h3>Vous souhaitez développer ou diversifier votre activité ?</h3>
@@ -96,7 +108,7 @@
 				
 			<a href="#top" class ="lien_retour_top">haut de page</a>
 			<div class="bloc_img_associations">
-				<div class="associations" id="bloc_associations">
+				<div class="texte_associations" id="bloc_associations">
 					<h2>Associations</h2>
 						<h3>Vous souhaitez développer un nouveau projet ? </h3>
 							<p>Le Site de proximité vous propose :</p>
@@ -119,10 +131,12 @@
 							<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
 						<h3>Vous recherchez des locaux ?</h3>
 							<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
-			</div>
-		</div>	
+				</div>
+			</div>	
 			<div class="bloc_img_collectivites">
-				<div class="bloc_img_gauche"></div>
+				<div class="bloc_img_gauche">
+					
+				</div>
 				<div  class="bloc_droit" id="bloc_collectivites">
 					<h2>Collectivités</h2>
 						<h3>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h3>
@@ -137,12 +151,15 @@
 							</ul>
 				</div>
 			</div>
-
-			<div class="bloc_gauche" id="bloc_territoire">
-				<h2>Territoire et acteurs</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+			<div class="bloc_img_territoire">
+				<div class="bloc_gauche" id="bloc_territoires">
+					<h2>Territoire et acteurs</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+				</div>
+				<div class="bloc_carte_territoires">
+					<img src="images/territoires-petit.jpg">
+				</div>
 			</div>
-
 
 			<hr>
 			<div class="bloc_financeurs">

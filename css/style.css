@@ -30,6 +30,9 @@ body{
 
 }
 
+h2{
+	color:#25AFBA;
+}
 
 .bloc_logo{
 
@@ -206,16 +209,21 @@ a:hover {
 }
 
 /*PARTCULIERS*/
-#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+/*#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
 	margin-top: 5%;
-}
+}*/
+
+
 .bloc_img_particuliers{
-	 width: 90%;
+	 width: 100%;
 	 display: flex;
 	 flex-direction: row;
 	 justify-content: space-around;
+	 justify-content: space-between;
 	 margin-left: 2%;
+	 margin-right:2%;
 	 height: 70%;
+	 align-items:flex-start;
 }
 
 .bloc_img_gauche{
@@ -224,12 +232,42 @@ a:hover {
 }
 
 .bloc_gauche{
-	 margin-left: 2%;
    margin-right: 2%;
    width: 45%;
    padding: 1%;
-   height: 80%;
+   height: 50%;
    line-height: 1.5em;
+ }
+
+
+.offres_particuliers{
+	border:1px solid #25AFBA;
+	height: 50%;
+	width:25%;
+	margin-top: 2%;
+	margin-left:10%;
+	margin-right: 15%;
+	margin-bottom: 2%;
+	padding: 1%;
+
+}
+
+.texte_offres{
+	margin-top: 0;
+	padding: 20%;
+	margin-right: auto;
+	display:block;
+}
+.texte_offres h3{
+	margin-top: 0;
+}
+
+.img_loupe{
+	display: block;
+    margin-left: auto;
+    margin-right: 45%;
+    margin-top: 0;
+    width:20%;
 }
 
 .reunion{
@@ -264,7 +302,7 @@ a:hover {
 	height: 94%
 }
 
-.entreprise{
+.texte_entreprise{
 	margin-left: 9%;
 	margin-right: 3%;
 	width: 50%;
@@ -275,16 +313,6 @@ a:hover {
 	
 
 /*ASSOCIATIONS*/
-.associations{
- 	margin-left: 2%;
- 	margin-right: 2%;
- 	width: 45%;
- 	padding: 1%;
-	height: 89%;
-	line-height: 1.5em;
-
-}
-
 .bloc_img_associations{
   width: 100%;
   display: flex;
@@ -292,23 +320,36 @@ a:hover {
   justify-content: space-between;
   margin-left: 2%;
   height: 90%;
+  
 }
+.texte_associations{
+ 	/*margin-left: 2%;*/
+ 	margin-right: 2%;
+ 	width: 45%;
+ 	padding: 1%;
+	height: 89%;
+	line-height: 1.5em;
+}
+
 
 
 .bloc_droit {
 margin-left: 50%;
   margin-right: 3%;
-  width: 40%;
+  width: 50%;
   padding: 1%;
   line-height: 1.5em;
-}
+ }
+
 .lien_retour_top{
 	
 	float:right;
 }
 
 /*COLLECTIVITES*/
-.bloc_img_collectivite{
+
+.bloc_img_collectivites{
+	margin-top:2%;
 	width: 100%;
   display: flex;
   flex-direction: row;
@@ -322,7 +363,21 @@ margin-left: 50%;
 	margin-left: 2%;
 }
 
+/*TERRITOIRES ET ACTEURS*/
+.bloc_img_territoire{
+	margin-top:2%;
+	margin-left: 2%;
+	width: 100%;
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+
+.bloc_carte_territoires{
+	margin-right: 10%;
+}
 /*LOGOS DE FINANCEURS*/
+
 
 .bloc_financeurs{
 	text-align: center;
@@ -333,6 +388,7 @@ margin-left: 50%;
 	width: 10%;
 	margin:auto;
 }
+
 
 /*FOOTER*/
 footer{

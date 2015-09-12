@@ -1,6 +1,6 @@
 <header>
 		<div class="bloc_logo">
-			<a href="index.php"><img src="images/logo.jpg" class="logo_site"></a>
+			<a href="index.php"><img src="images/logo_petit.jpg" class="logo_site"></a>
 		</div>
 		<div class="bloc_accroche">
 			<h1>Votre outil pour l'emploi et la création d'activités</h1>
