@@ -6,14 +6,16 @@
 
 #Cloner le repository site-proximite07 via le Terminal à la racine de votre machine :
 
-> Tapez cd /opt/lampp/htdocs
-> Tapez Git clone https://github.com/pipay07/site-proximite07.git
-> Tapez cd site-proximite07 pour aller sur le projet, puis ...
+>Tapez cd /opt/lampp/htdocs
+>Tapez Git clone https://github.com/pipay07/site-proximite07.git
+>Tapez cd site-proximite07 pour aller sur le projet, puis ...
 
 #Lancer le serveur local (localhost) dans votre terminal :
->tapez sudo /opt/lampp/lampp start
+>Tapez sudo /opt/lampp/lampp start (pour démarrer)
+>Tapez sudo /opt/lampp/lampp stop (pour l'arrêter)
+
 
 # Visualiser le projet dans votre navigateur habituel (firefox de préférence):
-> Tapez localhost/site-proximite07
+>Tapez localhost/site-proximite07
 
 vous y êtes !
