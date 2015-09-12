@@ -282,12 +282,7 @@ a:hover {
 
 
 .reunion{
- /* width:40%;
-  margin-right: -7%;
-  display: block;
-  padding-top: 5%;*/
-
-  margin-right: -10%;
+	margin-right: -10%;
 	display: block;
 	padding: 5% 2% 2%;
 	width: 40%;
@@ -358,8 +353,12 @@ margin-left: 50%;
   line-height: 1.5em;
  }
 
-.lien_retour_top{
+.bloc_img_droit{
 	
+	border: 1px solid black;
+}
+
+.lien_retour_top{
 	float:right;
 }
 
@@ -367,24 +366,38 @@ margin-left: 50%;
 
 .bloc_img_collectivites{
 	margin-top:2%;
+  	margin-left: 2%;
+  	margin-right: 0;
 	width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-left: 2%;
-  height: 90%;
-}
+  	display: flex;
+  	/*flex-direction: row;*/
+  	/*justify-content: space-between;*/
+  	height: 50%;
+  }
 
 .bloc_img_gauche{
-	width: 35%;
-	margin-left: 2%;
+	/*margin-left: 0;*/
+	border: 1px solid black;
 }
+
+
+.bloc_texte_collectivite {
+  margin-left: 20%;
+  margin-right: 3%;
+  width: 50%;
+  padding: 1%;
+  line-height: 1.5em;
+ }
+
+
+
 
 /*TERRITOIRES ET ACTEURS*/
 .bloc_img_territoire{
 	margin-top:2%;
 	margin-left: 2%;
 	width: 100%;
+	height: 90%;
 	display: flex;
 	flex-direction:row;
 	justify-content:space-between;
