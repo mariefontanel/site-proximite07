@@ -172,25 +172,10 @@ a:hover {
 }
 
 .formulaire_contact{
-<<<<<<< HEAD
-	color: #FFF;
-width: 70%;
-height: 50%;
-padding: 1em;
-border: 1px solid #CCC;
-background-color: #6D6B6C;
-border-radius: 0.5em;
-margin: 10% 3% 2% 15%;
-	/*color:white;
-	margin: 0 auto;
-  width: 70%;
-  height: 50%;*/
-=======
 	color:grey;
 	margin-left: 3%;
   width: 50%;
   height: 50%;
->>>>>>> 2d6f7d64d8fed8c0bd552ab88af75df287ed183f
     /* Pour voir les limites du formulaire */
   /*
   padding: 1em;
