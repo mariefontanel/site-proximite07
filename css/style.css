@@ -56,7 +56,7 @@ h2{
 	width: 100%;
 	height: 20%;
   	text-align: center;
-  	margin-left: 37%;
+  	margin-left: 35%;
   	margin-top: -12%;
 	padding: 1%;
 
@@ -141,13 +141,7 @@ justify-content: space-between;
 
 }
 .lieux{
-	/*width:80%;
-	display:flex;
-	flex-direction:row;
-	margin-top:20%;
-	margin-left: 2%;
-	background-color: white;*/
-	width: 70%;
+  width: 62%;
   margin-top: 15%;
   margin-left: 3%;
   margin-bottom: 12%;
@@ -285,9 +279,9 @@ margin-right: 5%;
 }*/
 
 .introduction{
-	width: 500px;
+	width: 40%;
  /* height: 430px;*/
-  margin-right: 8%;
+  margin-right: 5%;
   margin-bottom: 5%;
   float: right;
   margin-top: 5%;
@@ -298,9 +292,9 @@ margin-right: 5%;
   box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
-.texte_presentation{
+/*.texte_presentation{
 	text-align: center;
-}
+}*/
 
 /*PARTCULIERS*/
 #bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
@@ -318,6 +312,7 @@ margin-right: 5%;
 	 margin-right:2%;
 	 height: 70%;
 	 align-items:flex-start;
+	 background-color: yellow;
 }
 
 .bloc_img_gauche{
@@ -327,7 +322,7 @@ margin-right: 5%;
 
 .bloc_gauche {
   margin-right: 2%;
-  width: 45%;
+  width: 42%;
   padding: 1%;
   height: 50%;
   border: 1px solid #DBDBDB;
@@ -373,14 +368,17 @@ margin-right: 5%;
 	flex-direction: row;
 	justify-content: space-between;
 	height: 90%;
-	margin-top: 2%;
+	margin-top: 3%;
+	margin-left: 3%;
+	background-color: yellow;
+
 }	
 
 
 .reunion{
 	margin-right: -10%;
 	display: block;
-	padding: 5% 2% 2%;
+	/*padding: 5% 2% 2%;*/
 	width: 40%;
 	height: 94%
  }
@@ -389,12 +387,13 @@ margin-right: 5%;
 
 .texte_creation {
   width: 40%;
-  margin-right: 3%;
-  float: right;
+  margin-right: 8%;
+  /*float: right;*/
   border: 1px solid #DBDBDB;
   -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
   -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
    box-shadow: 2px 3px 5px 3px #DBDBDB;
+
 }
 
 /*ENTREPRISES*/
@@ -405,10 +404,11 @@ margin-right: 5%;
 	justify-content: space-between;
 	height: 90%;
 	margin-top: 3%;
+	margin-left: 3%;
 } 
 
 .img_entreprise{
-	margin-right: -10%;
+	margin-right: 4%;
   display: block;
   padding: 6% 2% 2%;
   width: 40%;
@@ -416,9 +416,9 @@ margin-right: 5%;
 }
 
 .texte_entreprise{
-	margin-left: 9%;
-	margin-right: 3%;
-	width: 50%;
+	/*margin-left: 9%;
+	margin-right: 8%;*/
+	width: 42%;
 	padding: 1%;
 	height: 92%;
 	border:1px solid #DBDBDB;
@@ -441,7 +441,7 @@ margin-right: 5%;
 
 .texte_associations{
   margin-right: 2%;
-  width: 45%;
+  width: 42%;
   padding: 1%;
   height: 89%;
   border: 1px solid #DBDBDB;
@@ -450,7 +450,16 @@ margin-right: 5%;
   box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
-
+/*.texte_associations{
+  margin-right: 2%;
+  width: 45%;
+  padding: 1%;
+  height: 89%;
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
+}*/
 
 .bloc_droit {
 margin-left: 50%;
@@ -472,7 +481,7 @@ margin-left: 50%;
 
 .bloc_img_collectivites{
 	margin-top: 3%;
-  margin-left: 2%;
+  margin-left: 3%;
   margin-right: 0;
 	width: 100%;
   display: flex;
@@ -481,16 +490,16 @@ margin-left: 50%;
   height: 50%;
  }
 
-.bloc_img_gauche{
-	/*margin-left: 0;*/
+/*.bloc_img_gauche{
+	margin-left: 0;
 	border: 1px solid black;
-}
+}*/
 
 
 .bloc_texte_collectivite {
-  margin-left: 20%;
-  margin-right: 3%;
-  width: 50%;
+  /*margin-left: 3%;*/
+  margin-right: 5%;
+  width: 42%;
   padding: 1%;
   border: 1px solid #DBDBDB;
   -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;

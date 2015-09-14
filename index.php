@@ -23,11 +23,9 @@
 				
 				<!-- <div id="map_canvas"></div> -->
 
-		<!-- 		 <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1441785993253" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-
 				<div class="introduction">
 					<p>Le Site de proximité est un pôle d’ingénierie locale pour la création et le développement des activités et des emplois. Il s’adresse, aux particuliers, aux entreprises et aux associations de son périmètre d’action et à ceux qui veulent venir s’y installer.</p>
-					<p> Il offre également ses services aux collectivités locales.</p>
+					<p>Il offre également ses services aux collectivités locales.</p>
 					<p>Le Site de proximité des Boutières est une association loi 1901 (<a href="presentation.php">en savoir plus ...</a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
 					<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
 					<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
@@ -80,7 +78,6 @@
 			</div>
 			
 			<div class="bloc_img_entreprises">
-				<img src="images/local.jpg" class="img_entreprise">
 				<div class="texte_entreprise" id="bloc_entreprises">
 
 					<h2>Entreprises</h2>
@@ -106,6 +103,7 @@
 						<h3>Vous projetez de transmettre votre entreprise ?</h3>
 							<p>Le Site de proximité vous accompagne dans la recherche de candidats repreneurs.</p>
 				</div>
+				<img src="images/local.jpg" class="img_entreprise">
 
 			</div>	
 				
@@ -142,9 +140,6 @@
 			</div>	
 			
 			<div class="bloc_img_collectivites">
-				<div class="bloc_img_gauche">
-				
-				</div>
 				<div  class="bloc_texte_collectivite" id="bloc_collectivites">
 					<h2>Collectivités</h2>
 						<h3>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h3>
@@ -157,6 +152,9 @@
 									<li>La diffusion de l’offre, mise en relation avec des candidats.</li>
 									<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
 							</ul>
+				</div>
+				<div class="bloc_img_droite">
+				
 				</div>
 			</div>
 			
