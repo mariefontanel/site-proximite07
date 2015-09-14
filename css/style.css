@@ -110,7 +110,7 @@ a:hover {
 
 .presentation_asso{
 	margin-top:15%;
-	margin-left: 2%;
+	margin-left: 3%;
 	width:50%;
 	background-color: white;
 }
@@ -172,15 +172,15 @@ a:hover {
 }
 
 .formulaire_contact{
-	color:white;
-	margin: 0 auto;
-  width: 70%;
+	color:grey;
+	margin-left: 3%;
+  width: 50%;
   height: 50%;
     /* Pour voir les limites du formulaire */
   
   padding: 1em;
   border: 1px solid #CCC;
-  background-color: #6D6B6C;
+  /*background-color: #6D6B6C;*/
   border-radius: 0.5em;
   margin-top: 10%;
   margin-bottom: 10%;
