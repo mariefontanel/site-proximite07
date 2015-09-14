@@ -6,15 +6,15 @@
 			</header>
 
 			<article class="bloc_icones">
-				<a href="#bloc_particuliers"><i class="fa fa-user fa-3x"></i><div class="titre_bloc_icone">Particuliers</div>
+				<a href="#bloc_particuliers"><div class="titre_bloc_icone">Particuliers</div><img src="images/particuliergris1.jpg" class="icone_particuliers"></i>
 				</a>
-				<a href="#bloc_entreprises"><i class="fa fa-industry fa-3x"></i><div class="titre_bloc_icone">Entreprises</div>
+				<a href="#bloc_entreprises"><div class="titre_bloc_icone">Entreprises</div><i class="fa fa-industry fa-3x"></i>
 				</a> 
 				<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div><!-- <i class="fa fa-hand-paper-o fa-3x"> --></i>
 				</a>
 				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div><!-- <i class="fa fa-users fa-3x"> --></i>
 				</a>
-				<a href="#bloc_territoires"><img src="images/territoires.svg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
+				<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
 				</a>
 			</article>
 
@@ -172,9 +172,9 @@
 			<div class="bloc_financeurs">
 				<?php include("financeurs.php"); ?>
 			</div>
-			<footer>
+			
 				<?php include("footer.php"); ?>
-			</footer>
+			
 			</div>
 		</body>
 	</html>

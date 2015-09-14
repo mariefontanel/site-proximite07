@@ -277,7 +277,7 @@ a:hover {
 }
 
 .img_loupe{
-	display: block;
+  display: block;
   margin-left: auto;
   margin-right: 45%;
   margin-top: 0;
@@ -426,11 +426,10 @@ margin-left: 50%;
 
 .bloc_financeurs{
 	text-align: center;
-	margin-top: 3%;
-	/*background-color: #807E7F;*/
 	background-image: linear-gradient(white,#706E6F);
 	width: 100%;
-	display: flex;
+	margin-top: 3%;
+	display:flex;
 	justify-content:space-between;
 
 }
