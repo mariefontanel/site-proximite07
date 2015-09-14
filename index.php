@@ -6,16 +6,17 @@
 			</header>
 
 			<article class="bloc_icones">
-				<a href="#bloc_particuliers"><div class="titre_bloc_icone"><img src="images/particuliergris1.jpg" class="icone_particuliers">Particuliers</div>
+				<a href="#bloc_particuliers"><img src="images/particuliergris1.jpg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 				</a>
-				<a href="#bloc_entreprises"><div class="titre_bloc_icone"></div><img src="images/entreprisegris1.jpg" class="icone_entreprises">Entreprises</div>
+				<a href="#bloc_entreprises"><img src="images/entreprisegris1.jpg" class="icone_entreprises"><div class="titre_bloc_icone">Entreprises</div>
 				</a> 
 				<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div>
 				</a>
-				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div>
+				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_collectivites"><div class="titre_bloc_icone">Collectivités</div>
 				</a>
-				<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div>
+				<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_territoires"><div class="titre_bloc_icone">Territoire et acteurs</div>
 				</a>
+
 			</article>
 
 			<div class="bloc_presentation">

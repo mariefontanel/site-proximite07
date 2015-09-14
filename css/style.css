@@ -27,7 +27,7 @@ body{
  	font-family: 'Roboto-Condensed';
  	overflow-x: hidden;
   	/*background-color:F7F4F1;*/
-	background-color:#FEFDFD;
+	/*background-color:#DADADA;*/
 	line-height: 1.5em;
 }
 
@@ -106,12 +106,73 @@ a:hover {
   	font-family: 'Roboto-Italic';
 }
 
+/*QUI SOMMES-NOUS ?*/
+
+.presentation_asso{
+	margin-top:15%;
+	margin-left: 3%;
+	width:50%;
+	background-color: white;
+}
+
+.texte_asso{
+
+}
+
+
+/*EQUIPE*/
+.equipe{
+	width: 50%;
+  margin-top: 15%;
+  margin-left: 3%;
+  margin-bottom: 12%;
+}
+
+
+/*PAGE LIEUX ACCUEIL*/
+.lieux{
+	/*width:80%;
+	display:flex;
+	flex-direction:row;
+	margin-top:20%;
+	margin-left: 2%;
+	background-color: white;*/
+	width: 70%;
+  margin-top: 15%;
+  margin-left: 3%;
+  margin-bottom: 12%;
+}
+
+.stagreve{
+	/*display:flex;*/
+	width: 40%;
+/*	border: 1px solid black;*/
+}
+
+.stmartin{
+	width: 40 %;
+}
+
+.cheylard{
+	width: 40 %;
+}
+
+.lamastre{
+	width: 40 %;
+}
+.intitule_coordonnees{
+	text-decoration: underline;
+
+}
+
+/*FORMULAIRE DE CONTACT*/
 .titre_form{
 	text-align: center;
 	font-weight: 1%;
 }
 
 .formulaire_contact{
+<<<<<<< HEAD
 	color: #FFF;
 width: 70%;
 height: 50%;
@@ -124,11 +185,17 @@ margin: 10% 3% 2% 15%;
 	margin: 0 auto;
   width: 70%;
   height: 50%;*/
+=======
+	color:grey;
+	margin-left: 3%;
+  width: 50%;
+  height: 50%;
+>>>>>>> 2d6f7d64d8fed8c0bd552ab88af75df287ed183f
     /* Pour voir les limites du formulaire */
   /*
   padding: 1em;
   border: 1px solid #CCC;
-  background-color: #6D6B6C;
+  /*background-color: #6D6B6C;*/
   border-radius: 0.5em;
   /*margin-top: 10%;*/
   /*margin-bottom: 10%;*/*/
@@ -181,9 +248,9 @@ margin: 10% 3% 2% 15%;
 	margin-top: 12%;
 	background-color: blue;
 }*/
+
 .icone_particuliers{
-	display:flex;
-	float:left;
+	
 	width: 60%;
 }
 .icone_entreprises{
@@ -196,7 +263,7 @@ margin: 10% 3% 2% 15%;
 	width: 60%;
 }
 
-.icone_territoire{
+.icone_territoires{
 	width: 60%;
 }
 
@@ -484,13 +551,11 @@ footer{
 	line-height: 1%;
 	width: 25%;
 	
-}
-.intitule_coordonnees{
-	text-decoration: underline;
 
 }
 
 
+<<<<<<< HEAD
 /*QUI SOMMES-NOUS ?*/
 
 .presentation_asso{
@@ -545,3 +610,5 @@ footer{
 .lamastre{
 	width: 40 %;
 }
+=======
+>>>>>>> 2d6f7d64d8fed8c0bd552ab88af75df287ed183f
