@@ -6,9 +6,9 @@
 			</header>
 
 			<article class="bloc_icones">
-				<a href="#bloc_particuliers"><i class="fa fa-user fa-3x"></i><div class="titre_bloc_icone">Particuliers</div>
+				<a href="#bloc_particuliers"><div class="titre_bloc_icone">Particuliers</div><i class="fa fa-user fa-3x"></i>
 				</a>
-				<a href="#bloc_entreprises"><i class="fa fa-industry fa-3x"></i><div class="titre_bloc_icone">Entreprises</div>
+				<a href="#bloc_entreprises"><div class="titre_bloc_icone">Entreprises</div><i class="fa fa-industry fa-3x"></i>
 				</a> 
 				<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div><!-- <i class="fa fa-hand-paper-o fa-3x"> --></i>
 				</a>
@@ -172,9 +172,9 @@
 			<div class="bloc_financeurs">
 				<?php include("financeurs.php"); ?>
 			</div>
-			<footer>
+			
 				<?php include("footer.php"); ?>
-			</footer>
+			
 			</div>
 		</body>
 	</html>
