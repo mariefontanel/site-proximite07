@@ -22,13 +22,13 @@ html{
 body{
 	width: 100%;
 	height: 100%;
-  margin:0;
-  padding: 0;
-  font-family: 'Roboto-Condensed';
-  overflow-x: hidden;
-  background-color:F7F4F1;
-  line-height: 1.5em;
-
+ 	margin:0;
+	padding: 0;
+ 	font-family: 'Roboto-Condensed';
+ 	overflow-x: hidden;
+  	/*background-color:F7F4F1;*/
+	background-color:#FEFDFD;
+	line-height: 1.5em;
 }
 
 h2{
@@ -49,15 +49,25 @@ h2{
 }
 
 /*HEADER*/
+
+
 .bloc_nav{
 	text-align: center;
 	width: 100%;
+	height: 20%;
   	text-align: center;
   	margin-left: 35%;
-  	margin-top: -10%;
-
+  	margin-top: -12%;
+	padding: 1%;
 
   }
+
+.bloc_nav  ul{
+	border:1px solid #DBDBDB;
+  	/*background-color: #DBDBDB;*/
+  	padding: 0;
+  	
+}
 
 .bloc_nav  ul li{
 	display:block;
@@ -85,6 +95,7 @@ a:hover {
 	display:flex;
 	justify-content:space-between;
 	align-content:space-around;
+	border:1 px black solid;
 }
 
 
