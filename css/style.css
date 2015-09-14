@@ -27,7 +27,7 @@ body{
  	font-family: 'Roboto-Condensed';
  	overflow-x: hidden;
   	/*background-color:F7F4F1;*/
-	background-color:#FEFDFD;
+	/*background-color:#DADADA;*/
 	line-height: 1.5em;
 }
 
@@ -174,8 +174,7 @@ a:hover {
 	background-color: blue;
 }*/
 .icone_particuliers{
-	display:flex;
-	float:left;
+	
 	width: 60%;
 }
 .icone_entreprises{
@@ -188,7 +187,7 @@ a:hover {
 	width: 60%;
 }
 
-.icone_territoire{
+.icone_territoires{
 	width: 60%;
 }
 
