@@ -130,6 +130,16 @@ a:hover {
 
 
 /*PAGE LIEUX ACCUEIL*/
+.bloc_lieux{
+display: flex;
+flex-direction: row;
+margin-left: 3%;
+margin-top: 15%;
+width: 100%;
+justify-content: space-between;
+	
+
+}
 .lieux{
 	/*width:80%;
 	display:flex;
@@ -176,6 +186,7 @@ a:hover {
 	margin-left: 3%;
   width: 50%;
   height: 50%;
+  margin-top: 12%;
     /* Pour voir les limites du formulaire */
   /*
   padding: 1em;
@@ -258,8 +269,14 @@ a:hover {
 }
 
 .map{
-	margin-top: 5%;
+margin-top: 5%;
+display: block;
+width: 40%;
+float: right;
+margin-left: -10%;
+margin-right: 5%;
 }
+
 
 /*#map_canvas{
 	width: 50%; 
@@ -540,7 +557,6 @@ footer{
 }
 
 
-<<<<<<< HEAD
 /*QUI SOMMES-NOUS ?*/
 
 .presentation_asso{
@@ -573,8 +589,6 @@ footer{
 	margin-left: 2%;
 	background-color: white;*/
 	width: 70%;
-  margin-top: 15%;
-  margin-left: 3%;
   margin-bottom: 8.5%;
 }
 
@@ -595,5 +609,4 @@ footer{
 .lamastre{
 	width: 40 %;
 }
-=======
->>>>>>> 2d6f7d64d8fed8c0bd552ab88af75df287ed183f
+
