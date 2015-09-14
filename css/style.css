@@ -22,13 +22,13 @@ html{
 body{
 	width: 100%;
 	height: 100%;
-  	margin:0;
-  	padding: 0;
-  	font-family: 'Roboto-Condensed';
-  	overflow-x: hidden;
+ 	margin:0;
+	padding: 0;
+ 	font-family: 'Roboto-Condensed';
+ 	overflow-x: hidden;
   	/*background-color:F7F4F1;*/
-  		background-color:#FEFDFD;
-
+	background-color:#FEFDFD;
+	line-height: 1.5em;
 }
 
 h2{
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .menu {
-  	width: 60%;
+  width: 60%;
 	display:flex;
 	justify-content:space-between;
 	align-content:space-around;
@@ -114,16 +114,17 @@ a:hover {
 .formulaire_contact{
 	color:white;
 	margin: 0 auto;
-    width: 70%;
-    height: 50%;
+  width: 70%;
+  height: 50%;
     /* Pour voir les limites du formulaire */
-    padding: 1em;
-    border: 1px solid #CCC;
-    background-color: #6D6B6C;
-    border-radius: 0.5em;
-    margin-top: 10%;
-    margin-bottom: 10%;
-   }
+  
+  padding: 1em;
+  border: 1px solid #CCC;
+  background-color: #6D6B6C;
+  border-radius: 0.5em;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  }
 
 .champ_form{
 	line-height: 3.5em;
@@ -208,12 +209,13 @@ a:hover {
 
 .introduction{
 	width: 500px;
-  height: 430px;
+ /* height: 430px;*/
   margin-right: 8%;
   margin-bottom: 5%;
   float: right;
   margin-top: 5%;
   padding: 1%;
+  border:1px solid #C5C2FF;
 }
 
 .texte_presentation{
@@ -243,13 +245,13 @@ a:hover {
 	margin-left: 2%;
 }
 
-.bloc_gauche{
-   margin-right: 2%;
-   width: 45%;
-   padding: 1%;
-   height: 50%;
-   line-height: 1.5em;
- }
+.bloc_gauche {
+  margin-right: 2%;
+  width: 45%;
+  padding: 1%;
+  height: 50%;
+  border: 1px solid #C5C2FF;
+}
 
 
 .offres_particuliers{
@@ -276,10 +278,10 @@ a:hover {
 
 .img_loupe{
 	display: block;
-    margin-left: auto;
-    margin-right: 45%;
-    margin-top: 0;
-    width:20%;
+  margin-left: auto;
+  margin-right: 45%;
+  margin-top: 0;
+  width:20%;
 }
 
 .bloc_creation{
@@ -289,7 +291,7 @@ a:hover {
 	justify-content: space-between;
 	height: 90%;
 	margin-top: 2%;
-/*	line-height: 1.5em;*/
+
 }	
 
 
@@ -303,12 +305,12 @@ a:hover {
 
 
 
- .texte_creation{
- 	width:40%;
- 	float:right;
-
- }
-
+.texte_creation {
+  width: 40%;
+  margin-right: 3%;
+  float: right;
+  border: 1px solid #C5C2FF;
+}
 /*ENTREPRISES*/
 .bloc_img_entreprises{
 	width: 100%;
@@ -320,10 +322,10 @@ a:hover {
 
 .img_entreprise{
 	margin-right: -10%;
-	display: block;
-	padding: 5% 2% 2%;
-	width: 46%;
-	height: 94%
+  display: block;
+  padding: 6% 2% 2%;
+  width: 40%;
+  height: 93%;
 }
 
 .texte_entreprise{
@@ -332,7 +334,7 @@ a:hover {
 	width: 50%;
 	padding: 1%;
 	height: 92%;
-	line-height: 1.5em;
+	border:1px solid #C5C2FF;
 }
 	
 
@@ -344,15 +346,14 @@ a:hover {
   justify-content: space-between;
   margin-left: 2%;
   height: 90%;
-  
 }
+
 .texte_associations{
- 	/*margin-left: 2%;*/
- 	margin-right: 2%;
- 	width: 45%;
- 	padding: 1%;
-	height: 89%;
-	line-height: 1.5em;
+  margin-right: 2%;
+  width: 45%;
+  padding: 1%;
+  height: 89%;
+  border: 1px solid #C5C2FF;
 }
 
 
@@ -362,8 +363,7 @@ margin-left: 50%;
   margin-right: 3%;
   width: 50%;
   padding: 1%;
-  line-height: 1.5em;
- }
+}
 
 .bloc_img_droit{
 	
@@ -398,7 +398,8 @@ margin-left: 50%;
   margin-right: 3%;
   width: 50%;
   padding: 1%;
-  line-height: 1.5em;
+  border: 1px solid #C5C2FF;
+ 
  }
 
 
