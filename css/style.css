@@ -235,7 +235,7 @@ justify-content: space-between;
 
 
 
-/*MAP AND INTRO*/
+/*INTRODUCTION*/
 /*.bloc_presentation{
 	width:95%;
 	margin-left: 3%;
@@ -292,7 +292,10 @@ margin-right: 5%;
   float: right;
   margin-top: 5%;
   padding: 1%;
-  border:1px solid #C5C2FF;
+  border:1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
 .texte_presentation{
@@ -300,9 +303,9 @@ margin-right: 5%;
 }
 
 /*PARTCULIERS*/
-/*#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
 	margin-top: 5%;
-}*/
+}
 
 
 .bloc_img_particuliers{
@@ -327,7 +330,10 @@ margin-right: 5%;
   width: 45%;
   padding: 1%;
   height: 50%;
-  border: 1px solid #C5C2FF;
+  border: 1px solid #DBDBDB;
+ -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
 
@@ -368,7 +374,6 @@ margin-right: 5%;
 	justify-content: space-between;
 	height: 90%;
 	margin-top: 2%;
-
 }	
 
 
@@ -386,8 +391,12 @@ margin-right: 5%;
   width: 40%;
   margin-right: 3%;
   float: right;
-  border: 1px solid #C5C2FF;
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+   box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
+
 /*ENTREPRISES*/
 .bloc_img_entreprises{
 	width: 100%;
@@ -412,7 +421,10 @@ margin-right: 5%;
 	width: 50%;
 	padding: 1%;
 	height: 92%;
-	border:1px solid #C5C2FF;
+	border:1px solid #DBDBDB;
+	-webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  	-moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+   	box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 	
 
@@ -432,7 +444,10 @@ margin-right: 5%;
   width: 45%;
   padding: 1%;
   height: 89%;
-  border: 1px solid #C5C2FF;
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
 
@@ -477,8 +492,10 @@ margin-left: 50%;
   margin-right: 3%;
   width: 50%;
   padding: 1%;
-  border: 1px solid #C5C2FF;
- 
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
  }
 
 
