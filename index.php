@@ -15,6 +15,7 @@
 				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div>
 				</a>
 				<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div>
+				</a>
 			</article>
 
 			<div class="bloc_presentation">
