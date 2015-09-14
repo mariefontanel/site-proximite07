@@ -159,12 +159,12 @@
 			</div>
 			
 			<div class="bloc_img_territoire">
-				<div class="bloc_gauche" id="bloc_territoires">
-					<h2>Territoire et acteurs</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
-				</div>
 				<div class="bloc_carte_territoires">
 					<img src="images/territoires-petit.jpg">
+				</div>
+				<div class="bloc_texte_territoire" id="bloc_territoires">
+					<h2>Territoire et acteurs</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
 				</div>
 			</div>
 

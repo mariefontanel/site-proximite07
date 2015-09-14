@@ -524,6 +524,17 @@ margin-left: 50%;
 .bloc_carte_territoires{
 	margin-right: 10%;
 }
+
+.bloc_texte_territoire {
+  margin-right: 2%;
+  width: 42%;
+  padding: 1%;
+  height: 50%;
+  border: 1px solid #DBDBDB;
+ -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
+}
 /*LOGOS DE FINANCEURS*/
 
 
