@@ -112,7 +112,6 @@ a:hover {
 	margin-top:15%;
 	margin-left: 3%;
 	width:50%;
-	background-color: white;
 }
 
 .texte_asso{
@@ -312,7 +311,6 @@ margin-right: 5%;
 	 margin-right:2%;
 	 height: 70%;
 	 align-items:flex-start;
-	 background-color: yellow;
 }
 
 .bloc_img_gauche{
@@ -370,8 +368,6 @@ margin-right: 5%;
 	height: 90%;
 	margin-top: 3%;
 	margin-left: 3%;
-	background-color: yellow;
-
 }	
 
 
@@ -435,13 +431,13 @@ margin-right: 5%;
   flex-direction: row;
   justify-content: space-between;
   margin-left: 3%;
+  margin-right: 8%;
   height: 90%;
   margin-top: 3%;
 }
 
 .texte_associations{
-  margin-right: 2%;
-  width: 42%;
+  width: 57%;
   padding: 1%;
   height: 89%;
   border: 1px solid #DBDBDB;
@@ -461,16 +457,15 @@ margin-right: 5%;
   box-shadow: 2px 3px 5px 3px #DBDBDB;
 }*/
 
-.bloc_droit {
+/*.bloc_droit {
 margin-left: 50%;
   margin-right: 3%;
   width: 50%;
   padding: 1%;
-}
+}*/
 
-.bloc_img_droit{
-	
-	border: 1px solid black;
+.img_associations{
+	margin: auto;
 }
 
 .lien_retour_top{
@@ -490,13 +485,12 @@ margin-left: 50%;
   height: 50%;
  }
 
-/*.bloc_img_gauche{
-	margin-left: 0;
-	border: 1px solid black;
-}*/
+.img_collectivites{
+	
+}
 
 
-.bloc_texte_collectivite {
+.texte_collectivite {
   /*margin-left: 3%;*/
   margin-right: 5%;
   width: 42%;
@@ -521,12 +515,12 @@ margin-left: 50%;
 	justify-content:space-between;
 }
 
-.bloc_carte_territoires{
-	margin-right: 10%;
+.img_territoire{
+
 }
 
 .bloc_texte_territoire {
-  margin-right: 2%;
+  margin-right: 8%;
   width: 42%;
   padding: 1%;
   height: 50%;

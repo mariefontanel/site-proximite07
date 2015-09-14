@@ -110,6 +110,9 @@
 			<!-- <a href="#top" class ="lien_retour_top">haut de page</a> -->
 			
 			<div class="bloc_img_associations">
+				<div class="img_associations">
+					<img src="images/asso.jpg" class="img_asso">
+				</div>
 				<div class="texte_associations" id="bloc_associations">
 					<h2>Associations</h2>
 						<h3>Vous souhaitez développer un nouveau projet ? </h3>
@@ -134,13 +137,10 @@
 						<h3>Vous recherchez des locaux ?</h3>
 							<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
 				</div>
-				<div class="bloc_img_droit">
-				
-				</div>
 			</div>	
 			
 			<div class="bloc_img_collectivites">
-				<div  class="bloc_texte_collectivite" id="bloc_collectivites">
+				<div  class="texte_collectivite" id="bloc_collectivites">
 					<h2>Collectivités</h2>
 						<h3>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h3>
 							<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
@@ -153,13 +153,13 @@
 									<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
 							</ul>
 				</div>
-				<div class="bloc_img_droite">
-				
+				<div class="img_collectivites">
+					<img src="images/territoires-petit.jpg">
 				</div>
 			</div>
 			
 			<div class="bloc_img_territoire">
-				<div class="bloc_carte_territoires">
+				<div class="img_territoire">
 					<img src="images/territoires-petit.jpg">
 				</div>
 				<div class="bloc_texte_territoire" id="bloc_territoires">
