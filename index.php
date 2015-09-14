@@ -169,7 +169,6 @@
 				</div>
 			</div>
 
-			<hr>
 			<div class="bloc_financeurs">
 				<?php include("financeurs.php"); ?>
 			</div>
