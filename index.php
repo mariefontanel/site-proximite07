@@ -6,16 +6,15 @@
 			</header>
 
 			<article class="bloc_icones">
-				<a href="#bloc_particuliers"><div class="titre_bloc_icone">Particuliers</div><img src="images/particuliergris1.jpg" class="icone_particuliers"></i>
+				<a href="#bloc_particuliers"><div class="titre_bloc_icone"><img src="images/particuliergris1.jpg" class="icone_particuliers">Particuliers</div>
 				</a>
-				<a href="#bloc_entreprises"><div class="titre_bloc_icone">Entreprises</div><i class="fa fa-industry fa-3x"></i>
+				<a href="#bloc_entreprises"><div class="titre_bloc_icone"></div><img src="images/entreprisegris1.jpg" class="icone_entreprises">Entreprises</div>
 				</a> 
-				<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div><!-- <i class="fa fa-hand-paper-o fa-3x"> --></i>
+				<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div>
 				</a>
-				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div><!-- <i class="fa fa-users fa-3x"> --></i>
+				<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_associations"><div class="titre_bloc_icone">Collectivités</div>
 				</a>
-				<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div><!-- <i class="fa fa-globe fa-3x"> --></i>
-				</a>
+				<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_associations"><div class="titre_bloc_icone">Territoire et acteurs</div>
 			</article>
 
 			<div class="bloc_presentation">
@@ -77,7 +76,7 @@
 					<p>Le Site de proximité est labellisé porte d’entrée « Je crée en Rhône-Alpes » dispositif régional d’accompagnement à la création d’entreprises.</p>
 				</div>
 			</div>
-			<hr>
+			
 			<div class="bloc_img_entreprises">
 				<img src="images/local.jpg" class="img_entreprise">
 				<div class="texte_entreprise" id="bloc_entreprises">
@@ -109,7 +108,7 @@
 			</div>	
 				
 			<!-- <a href="#top" class ="lien_retour_top">haut de page</a> -->
-			<hr>
+			
 			<div class="bloc_img_associations">
 				<div class="texte_associations" id="bloc_associations">
 					<h2>Associations</h2>
@@ -139,7 +138,7 @@
 				
 				</div>
 			</div>	
-			<hr>
+			
 			<div class="bloc_img_collectivites">
 				<div class="bloc_img_gauche">
 				
@@ -158,7 +157,7 @@
 							</ul>
 				</div>
 			</div>
-			<hr>
+			
 			<div class="bloc_img_territoire">
 				<div class="bloc_gauche" id="bloc_territoires">
 					<h2>Territoire et acteurs</h2>
@@ -169,11 +168,9 @@
 				</div>
 			</div>
 
-			<div class="bloc_financeurs">
-				<?php include("financeurs.php"); ?>
-			</div>
+			<?php include("financeurs.php"); ?>
 			
-				<?php include("footer.php"); ?>
+			<?php include("footer.php"); ?>
 			
 			</div>
 		</body>
