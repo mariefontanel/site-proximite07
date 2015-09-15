@@ -1,5 +1,5 @@
 <?php include("head.php"); ?>
-<?php include("header.php"); ?>
+<?php include("_header.php"); ?>
 
 <div class="equipe">
 	<h2>Notre équipe</h2>
@@ -12,4 +12,4 @@
 
 </div>
 
-<?php include("footer.php"); ?>
+<?php include("_footer.php"); ?>

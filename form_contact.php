@@ -1,9 +1,9 @@
 <?php include("head.php"); ?>
 <body>
-	<?php include("header.php"); ?>
+	<?php include("_header.php"); ?>
 		<div class="formulaire_contact">
 			<h2 class="titre_form">Formulaire de contact</h2>
-			<form action="/ma-page-de-traitement" method="post">
+			<form action="/traitement_form.php" method="get">
 		    	<div class="champ_form">
 					<label for="nom">Nom :</label>
 					<input type="text" id="nom"  size="30" placeholder="votre nom ..." />
@@ -29,6 +29,6 @@
 		    	</div>
 			</form>
 		</div>
-	<?php include("footer.php"); ?>
+	<?php include("_footer.php"); ?>
 </body>
 
