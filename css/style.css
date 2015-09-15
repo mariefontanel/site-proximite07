@@ -56,7 +56,7 @@ h2{
 	width: 100%;
 	height: 20%;
   	text-align: center;
-  	margin-left: 37%;
+  	margin-left: 35%;
   	margin-top: -12%;
 	padding: 1%;
 
@@ -112,7 +112,6 @@ a:hover {
 	margin-top:15%;
 	margin-left: 3%;
 	width:50%;
-	background-color: white;
 }
 
 .texte_asso{
@@ -130,14 +129,18 @@ a:hover {
 
 
 /*PAGE LIEUX ACCUEIL*/
+.bloc_lieux{
+display: flex;
+flex-direction: row;
+margin-left: 3%;
+margin-top: 15%;
+width: 100%;
+justify-content: space-between;
+	
+
+}
 .lieux{
-	/*width:80%;
-	display:flex;
-	flex-direction:row;
-	margin-top:20%;
-	margin-left: 2%;
-	background-color: white;*/
-	width: 70%;
+  width: 62%;
   margin-top: 15%;
   margin-left: 3%;
   margin-bottom: 12%;
@@ -176,11 +179,15 @@ a:hover {
   margin-left: 3%;
   width: 50%;
   height: 50%;
+  margin-top: 12%;
+    /* Pour voir les limites du formulaire */
+  /*
+>>>>>>> 919745911ed36e60454feeec3f7077d7d9d15c18
   padding: 1em;
   border: 1px solid #CCC;
   border-radius: 0.5em;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  /*margin-top: 10%;*/
+  /*margin-bottom: 10%;*/*/
   }
 
 .champ_form{
@@ -221,7 +228,7 @@ a:hover {
 
 
 
-/*MAP AND INTRO*/
+/*INTRODUCTION*/
 /*.bloc_presentation{
 	width:95%;
 	margin-left: 3%;
@@ -255,8 +262,14 @@ a:hover {
 }
 
 .map{
-	margin-top: 5%;
+margin-top: 5%;
+display: block;
+width: 40%;
+float: right;
+margin-left: -10%;
+margin-right: 5%;
 }
+
 
 /*#map_canvas{
 	width: 50%; 
@@ -265,24 +278,27 @@ a:hover {
 }*/
 
 .introduction{
-	width: 500px;
+	width: 40%;
  /* height: 430px;*/
-  margin-right: 8%;
+  margin-right: 5%;
   margin-bottom: 5%;
   float: right;
   margin-top: 5%;
   padding: 1%;
-  border:1px solid #C5C2FF;
+  border:1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
-.texte_presentation{
+/*.texte_presentation{
 	text-align: center;
-}
+}*/
 
 /*PARTCULIERS*/
-/*#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
 	margin-top: 5%;
-}*/
+}
 
 
 .bloc_img_particuliers{
@@ -304,10 +320,13 @@ a:hover {
 
 .bloc_gauche {
   margin-right: 2%;
-  width: 45%;
+  width: 42%;
   padding: 1%;
   height: 50%;
-  border: 1px solid #C5C2FF;
+  border: 1px solid #DBDBDB;
+ -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
 
@@ -347,15 +366,15 @@ a:hover {
 	flex-direction: row;
 	justify-content: space-between;
 	height: 90%;
-	margin-top: 2%;
-
+	margin-top: 3%;
+	margin-left: 3%;
 }	
 
 
 .reunion{
 	margin-right: -10%;
 	display: block;
-	padding: 5% 2% 2%;
+	/*padding: 5% 2% 2%;*/
 	width: 40%;
 	height: 94%
  }
@@ -364,10 +383,15 @@ a:hover {
 
 .texte_creation {
   width: 40%;
-  margin-right: 3%;
-  float: right;
-  border: 1px solid #C5C2FF;
+  margin-right: 8%;
+  /*float: right;*/
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+   box-shadow: 2px 3px 5px 3px #DBDBDB;
+
 }
+
 /*ENTREPRISES*/
 .bloc_img_entreprises{
 	width: 100%;
@@ -376,10 +400,11 @@ a:hover {
 	justify-content: space-between;
 	height: 90%;
 	margin-top: 3%;
+	margin-left: 3%;
 } 
 
 .img_entreprise{
-	margin-right: -10%;
+	margin-right: 4%;
   display: block;
   padding: 6% 2% 2%;
   width: 40%;
@@ -387,12 +412,15 @@ a:hover {
 }
 
 .texte_entreprise{
-	margin-left: 9%;
-	margin-right: 3%;
-	width: 50%;
+	/*margin-left: 9%;
+	margin-right: 8%;*/
+	width: 42%;
 	padding: 1%;
 	height: 92%;
-	border:1px solid #C5C2FF;
+	border:1px solid #DBDBDB;
+	-webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  	-moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+   	box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 	
 
@@ -403,30 +431,41 @@ a:hover {
   flex-direction: row;
   justify-content: space-between;
   margin-left: 3%;
+  margin-right: 8%;
   height: 90%;
   margin-top: 3%;
 }
 
 .texte_associations{
+  width: 57%;
+  padding: 1%;
+  height: 89%;
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
+}
+
+/*.texte_associations{
   margin-right: 2%;
   width: 45%;
   padding: 1%;
   height: 89%;
-  border: 1px solid #C5C2FF;
-}
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
+}*/
 
-
-
-.bloc_droit {
+/*.bloc_droit {
 margin-left: 50%;
   margin-right: 3%;
   width: 50%;
   padding: 1%;
-}
+}*/
 
-.bloc_img_droit{
-	
-	border: 1px solid black;
+.img_associations{
+	margin: auto;
 }
 
 .lien_retour_top{
@@ -437,7 +476,7 @@ margin-left: 50%;
 
 .bloc_img_collectivites{
 	margin-top: 3%;
-  margin-left: 2%;
+  margin-left: 3%;
   margin-right: 0;
 	width: 100%;
   display: flex;
@@ -446,19 +485,20 @@ margin-left: 50%;
   height: 50%;
  }
 
-.bloc_img_gauche{
-	/*margin-left: 0;*/
-	border: 1px solid black;
+.img_collectivites{
+	
 }
 
 
-.bloc_texte_collectivite {
-  margin-left: 20%;
-  margin-right: 3%;
-  width: 50%;
+.texte_collectivite {
+  /*margin-left: 3%;*/
+  margin-right: 5%;
+  width: 42%;
   padding: 1%;
-  border: 1px solid #C5C2FF;
- 
+  border: 1px solid #DBDBDB;
+  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
  }
 
 
@@ -475,8 +515,19 @@ margin-left: 50%;
 	justify-content:space-between;
 }
 
-.bloc_carte_territoires{
-	margin-right: 10%;
+.img_territoire{
+
+}
+
+.bloc_texte_territoire {
+  margin-right: 8%;
+  width: 42%;
+  padding: 1%;
+  height: 50%;
+  border: 1px solid #DBDBDB;
+ -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
+  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 /*LOGOS DE FINANCEURS*/
 
@@ -536,4 +587,57 @@ footer{
 
 }
 
+
+/*QUI SOMMES-NOUS ?*/
+
+.presentation_asso{
+	margin-top:15%;
+	margin-left: 2%;
+	width:50%;
+	background-color: white;
+}
+
+.texte_asso{
+
+}
+
+
+/*EQUIPE*/
+.equipe{
+	width: 50%;
+  margin-top: 15%;
+  margin-left: 3%;
+  margin-bottom: 12%;
+}
+
+
+/*PAGE LIEUX ACCUEIL*/
+.lieux{
+	/*width:80%;
+	display:flex;
+	flex-direction:row;
+	margin-top:20%;
+	margin-left: 2%;
+	background-color: white;*/
+	width: 70%;
+  margin-bottom: 8.5%;
+}
+
+.stagreve{
+	/*display:flex;*/
+	width: 40%;
+/*	border: 1px solid black;*/
+}
+
+.stmartin{
+	width: 40 %;
+}
+
+.cheylard{
+	width: 40 %;
+}
+
+.lamastre{
+	width: 40 %;
+}
 
