@@ -1,5 +1,5 @@
 <?php include("head.php"); ?>
-<?php include("header.php"); ?>
+<?php include("_header.php"); ?>
 
 <div class="texte_infos_legales">
 	<h3>Mentions légales</h3>

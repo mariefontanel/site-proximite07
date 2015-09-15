@@ -1,5 +1,5 @@
 <?php include("head.php"); ?>
-<?php include("header.php"); ?>
+<?php include("_header.php"); ?>
 <div class="bloc_lieux">
 	<div class="texte_lieux">
 		<h2>Lieux d'accueil</h2>
@@ -21,4 +21,4 @@
 
 
 
-<?php include("footer.php"); ?>
+<?php include("_footer.php"); ?>
