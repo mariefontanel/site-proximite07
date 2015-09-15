@@ -54,13 +54,14 @@ h2{
 
 	
 a{
-	text-decoration: none;
+	/*text-decoration: none;*/
 	list-style-type: none;
 	width: 60%;
 	text-align: center;
 	justify-content:space-between;
 	align-content:space-around;
-	
+	color:#25AFBA;
+	font-weight: bold;
 }
 a:hover { 
    color:#E44772;
@@ -77,9 +78,9 @@ a:hover {
 
 .bloc_accroche {
 	margin-left: 30%;
-  	margin-top: -5%;
-  	color:#25AFBA;
-  	font-family: 'Roboto-Italic';
+  margin-top: -5%;
+  color:#25AFBA;
+  font-family: 'Roboto-Italic';
 }
 
 /*QUI SOMMES-NOUS ?*/
@@ -352,8 +353,6 @@ margin-right: 5%;
 }
 
 .texte_entreprise{
-	/*margin-left: 9%;
-	margin-right: 8%;*/
 	width: 42%;
 	padding: 1%;
 	height: 92%;
@@ -461,10 +460,13 @@ margin-right: 5%;
 	justify-content:space-between;
 
 }
-
-.logo_financeurs{
+/*BANDEAU LOGOS FINANCEURS
+*/.logo_financeurs{
 	width: 10%;
 	margin:auto;
+}
+.titre_financeurs{
+	text-align: center;
 }
 
 
@@ -538,4 +540,9 @@ footer{
 	
 }
 
-
+/*TEXTES LIENS FOOTER*/
+.texte_infos_legales{
+	margin-top: 10%;
+	margin-left: 3%;
+	line-height: 1em;
+}
