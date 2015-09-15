@@ -1,6 +1,6 @@
 			<footer>
 				<div class="infos_legales">
-					<a href="infos_legales.html" >Infos légales</a>
+					<a href="infos_legales.php" >Infos légales</a>
 				</div>
 				<div class="plan_site">Plan du site</div>
 				<div class="coordonnees">

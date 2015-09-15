@@ -8,7 +8,7 @@
 		<li>Nelle Bernanose, chargée de l'appui à la création d'activités.</li>
 		<li>Sandrine Imbert animatrice emploi formation et conseillère Mission locale, sur les secteurs de Saint-Martin-De-Valamas, Saint-Agrève, Les Ollières.</li>
 		<li>Sylvie Martin animatrice emploi formation, et conseillère Mission locale, sur les secteurs de Saint-Martin-De-Valamas, Saint-Agrève, Lamastre.</li>
-	</ul>git
+	</ul>
 
 </div>
 
