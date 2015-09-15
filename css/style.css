@@ -7,9 +7,9 @@
 }
 
 @font-face {
-	font-family: 'Roboto-Condensed';
-	src: url('../fonts/Roboto-Condensed/Roboto-Condensed.eot');
-	src: local('☺'), url('../fonts/Roboto-Condensed/Roboto-Condensed.woff') format('woff'), url('../fonts/Roboto-Condensed/Roboto-Condensed.ttf') format('truetype'), url('../fonts/Roboto-Condensed/Roboto-Condensed.svg') format('svg');
+	font-family: 'Roboto-Thin';
+	src: url('../fonts/Roboto-Thin.eot');
+	src: local('☺'), url('../fonts/Roboto-Thin.woff') format('woff'), url('../fonts/Roboto-Thin.ttf') format('truetype'), url('../fonts/Roboto-Thin.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,7 +24,9 @@ body{
 	height: 100%;
  	margin:0;
 	padding: 0;
- 	font-family: 'Roboto-Condensed';
+ 	font-family: 'Roboto-Thin';
+ 	font-size:1.1em;
+ 	color:#333;
  	overflow-x: hidden;
   	/*background-color:F7F4F1;*/
 	/*background-color:#DADADA;*/
