@@ -111,7 +111,7 @@
 							<li>Un appui à la validation et la mise en œuvre de vos projets.</li>
 							<li>Une orientation vers les structures spécialisées.</li>
 						</ul>
-				<h3>vous voulez recruter ?</h3>
+				<h3>Vous voulez recruter ?</h3>
 					<p>Le Site de proximité vous propose un appui au recrutement : </p>
 						<ul>
 							<li>Information sur les différents types de contrats.</li>

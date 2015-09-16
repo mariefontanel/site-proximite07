@@ -17,7 +17,6 @@
 		</ul>
 		<p>L’actuel président du Site de proximité, Mr Yves Le Bon, est issu du troisième collège.</p>
 		<p>Le Site de proximité des Boutières fait partie du réseau régional des Sites de proximité qui compte aujourd’hui 3 autres structures :</p>
-
 			<ul>
 				<li><a href="http://www.amesud.fr" target="_blank">AmeSud, Site de proximité sud Ardèche</a> </li>
 				<li><a href="http://www.msmf.fr" target="_blank">Maison des services des monts du Forez (Loire)</a></li>

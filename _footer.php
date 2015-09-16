@@ -5,7 +5,7 @@
                 <a href="presentation.php"><li>Qui sommes-nous ?</li></a>
                 <a href="equipe.php"><li>Notre équipe</li></a>
                 <a href="lieux_accueil.php"><li>Nos lieux d'accueil</li></a>
-                <a href="form_contact.php"><li>Nous contactez</li></a>
+                <a href="form_contact.php"><li>Nous contacter</li></a>
 				<a href="infos_legales.php" class="infos_legales" >Infos légales</a>
      </ul>
 		

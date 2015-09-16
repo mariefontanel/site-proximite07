@@ -31,7 +31,7 @@ body{
   	/*background-color:F7F4F1;*/
 	/*background-color:#DADADA;*/
 	line-height: 1.5em;
-}
+	}
 
 h2{
 	color:#25AFBA;
@@ -117,14 +117,14 @@ justify-content: space-between;
 
 }
 .texte_lieux{
-  width: 62%;
+  width:70%;
   margin-top: 15%;
-  margin-left: 3%;
+  margin-left: 0%;
   margin-bottom: 12%;
 }
 
 .stagreve{
-	width: 43%;
+	width: 57%;
 
 }
 
@@ -139,6 +139,10 @@ justify-content: space-between;
 .lamastre{
 	width: 40 %;
 }
+.ollieres{
+	width: 84%;
+}	
+
 .intitule_coordonnees{
 	text-decoration: underline;
 
@@ -260,7 +264,7 @@ margin-right: 5%;
 .bloc_gauche {
   margin-right: 2%;
   width: 42%;
-  padding: 1%;
+  padding: 2%;
   height: 50%;
   border: 1px solid #DBDBDB;
 }
@@ -345,7 +349,7 @@ margin-right: 5%;
 
 .texte_entreprise{
 	width: 42%;
-	padding: 1%;
+	padding: 2%;
 	height: 92%;
 	border:1px solid #DBDBDB;
 }
@@ -365,7 +369,7 @@ margin-right: 5%;
 
 .texte_associations{
   width: 57%;
-  padding: 1%;
+  padding: 2%;
   height: 89%;
   border: 1px solid #DBDBDB;
  }
@@ -398,7 +402,7 @@ margin-right: 5%;
 .texte_collectivite {
   margin-right: 5%;
   width: 42%;
-  padding: 1%;
+  padding: 2%;
   border: 1px solid #DBDBDB;
  }
 
@@ -423,7 +427,7 @@ margin-right: 5%;
 .bloc_texte_territoire {
   margin-right: 8%;
   width: 42%;
-  padding: 1%;
+  padding: 2%;
   height: 50%;
   border: 1px solid #DBDBDB;
 }
@@ -521,7 +525,8 @@ footer{
 
 /*TEXTES LIENS FOOTER*/
 .texte_infos_legales{
-	margin-top: 10%;
+	margin-top: 12%;
 	margin-left: 3%;
 	line-height: 1em;
+	margin-right: 3%;
 }
