@@ -17,7 +17,7 @@
 
 	<div class="bloc_presentation">
 		<div class="introduction">
-			<p>Le Site de proximité est un pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </p>
+			<h2>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h2>
 			<p>Association loi 1901 (<a href="presentation.php">en savoir plus ...</a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
 			<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
 			<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
