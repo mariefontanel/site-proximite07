@@ -17,19 +17,11 @@
 		</ul>
 		<p>L’actuel président du Site de proximité, Mr Yves Le Bon, est issu du troisième collège.</p>
 		<p>Le Site de proximité des Boutières fait partie du réseau régional des Sites de proximité qui compte aujourd’hui 3 autres structures :</p>
-<<<<<<< HEAD
 			<ul>
 				<li><a href="http://www.amesud.fr" target="_blank">AmeSud, Site de proximité sud Ardèche</a> </li>
 				<li><a href="http://www.msmf.fr" target="_blank">Maison des services des monts du Forez (Loire)</a></li>
 				<li><a href="http://www.ccpu.fr" target="_blank">Site de proximité Aix-Urfé Roannais Agglomération-COPLER (Loire)</a></li>
 			</ul>
-=======
-		<ul>
-			<li><a href="www.amesud.fr" target="_blank">AmeSud, Site de proximité sud Ardèche</a> </li>
-			<li><a href="www.msmf.fr" target="_blank">Maison des services des monts du Forez (Loire)</a></li>
-			<li><a href="http://www.ccpu.fr" target="_blank">Site de proximité Aix-Urfé Roannais Agglomération-COPLER (Loire)</a></li>
-		</ul>
->>>>>>> 66348ae851ff585ab778de56cf92b23bde63962a
 		<p>L’objectif de ce réseau est l’échange de pratiques entre les chargés de mission, la production d’outils et méthodes, la réflexion sur l’évolution des missions, des partenariats et des financements, la conduite de projets communs.</p>
 	</div>
 </div>
