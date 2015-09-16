@@ -235,11 +235,7 @@ margin-right: 5%;
   margin-top: 5%;
   padding: 2%;
   border:1px solid #DBDBDB;
-  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  box-shadow: 2px 3px 5px 3px #DBDBDB;
-}
-
+  }
 /*PARTCULIERS*/
 #bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
 	margin-top: 5%;
@@ -269,9 +265,6 @@ margin-right: 5%;
   padding: 2%;
   height: 50%;
   border: 1px solid #DBDBDB;
- -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 
 
@@ -331,10 +324,13 @@ margin-right: 5%;
   margin-right: 8%;
   /*float: right;*/
   border: 1px solid #DBDBDB;
+<<<<<<< HEAD
   -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
   -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
    box-shadow: 2px 3px 5px 3px #DBDBDB;
    padding: 2%;
+=======
+>>>>>>> c6d793d9382e970c780470e87151c1e389965197
 }
 
 /*ENTREPRISES*/
@@ -384,10 +380,7 @@ margin-right: 5%;
   padding: 2%;
   height: 89%;
   border: 1px solid #DBDBDB;
-  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  box-shadow: 2px 3px 5px 3px #DBDBDB;
-}
+ }
 
 
 .img_associations{
@@ -419,9 +412,6 @@ margin-right: 5%;
   width: 42%;
   padding: 2%;
   border: 1px solid #DBDBDB;
-  -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  box-shadow: 2px 3px 5px 3px #DBDBDB;
  }
 
 
@@ -448,9 +438,6 @@ margin-right: 5%;
   padding: 2%;
   height: 50%;
   border: 1px solid #DBDBDB;
- -webkit-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  -moz-box-shadow: 2px 3px 5px 3px #DBDBDB;
-  box-shadow: 2px 3px 5px 3px #DBDBDB;
 }
 /*LOGOS DE FINANCEURS*/
 
