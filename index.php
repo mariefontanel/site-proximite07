@@ -1,9 +1,7 @@
 <?php include("head.php"); ?>
 <body onload="initialize()">
 	<div id="top"></div>
-	<header>
-		<?php include("_header.php"); ?>
-	</header>
+	<?php include("_header.php"); ?>
 	<article class="bloc_icones">
 		<a href="#bloc_particuliers"><img src="images/particuliergris1.jpg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 		</a>
@@ -19,9 +17,8 @@
 
 	<div class="bloc_presentation">
 		<div class="introduction">
-			<p>Le Site de proximité est un pôle d’ingénierie locale pour la création et le développement des activités et des emplois. Il s’adresse, aux particuliers, aux entreprises et aux associations de son périmètre d’action et à ceux qui veulent venir s’y installer.</p>
-			<p>Il offre également ses services aux collectivités locales.</p>
-			<p>Le Site de proximité des Boutières est une association loi 1901 (<a href="presentation.php">en savoir plus ...</a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
+			<p>Le Site de proximité est un pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </p>
+			<p>Association loi 1901 (<a href="presentation.php">en savoir plus ...</a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
 			<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
 			<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 			<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
