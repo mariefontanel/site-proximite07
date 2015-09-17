@@ -92,13 +92,15 @@ a:hover {
 /*QUI SOMMES-NOUS ?*/
 
 .presentation_asso{
+	display:flex;
+	flex-direction:row;
 	margin-top:15%;
 	margin-left: 3%;
+	width:100%;
 	width:50%;
 }
 
 .texte_asso{
-
 }
 
 
@@ -136,7 +138,7 @@ margin-bottom:5%;
 }
 
 .texte_lieux{
-  width:70%;
+  width:55%;
   margin-top: 15%;
   margin-left: 0%;
   margin-bottom: 12%;
@@ -558,13 +560,12 @@ footer{
 /*}*/
 
 .menu {
-  width: 60%;
+  	width: 60%;
 	display:flex;
 	justify-content:space-between;
 	align-content:space-around;
 	border:1 px black solid;
 	margin-left: 3%;
-	background-color: yellow;
 }
 
 .nav{
@@ -573,12 +574,14 @@ footer{
 }
 
 .nav ul{
+	width: 100%;
 	font-size: 12px;
+	background-color: yellow;
 }
 
 
 .coordonnees{
-	margin-left: -5%;
+  margin-left: -5%;
   margin-right: 3%;
   margin-top: 2%;
   width: 33%;
