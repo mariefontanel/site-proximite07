@@ -68,7 +68,7 @@ a:hover {
    color:#E44772;
 }
 .home{
-	margin-left: 95%;
+	margin-left: 92%;
 	margin-top:-8%;
 	
 }
@@ -104,7 +104,7 @@ a:hover {
 
 /*EQUIPE*/
 .equipe{
-	width: 50%;
+  width: 50%;
   margin-top: 15%;
   margin-left: 3%;
   margin-bottom: 12%;
@@ -120,9 +120,8 @@ margin-top: 15%;
 width: 100%;
 justify-content: space-between;
 margin-bottom:5%;
-	
-
 }
+
 .texte_lieux{
   width:70%;
   margin-top: 15%;
@@ -178,7 +177,7 @@ margin-bottom:5%;
 .button{
 	text-align: center;
 }
-7
+
 
 /*ICONES PUBLICS CIBLES*/
 
@@ -224,12 +223,12 @@ margin-bottom:5%;
 	margin-left: 3%;
 }
 .map{
-margin-top: 5%;
-display: block;
-width: 40%;
-float: left;
-margin-left: 3%;
-margin-right: 5%;
+	margin-top: 5%;
+	display: block;
+	width: 40%;
+	float: left;
+	margin-left: 3%;
+	margin-right: 5%;
 }
 
 
@@ -242,8 +241,8 @@ margin-right: 5%;
   margin-top: 5%;
   padding: 2%;
   border-width: 1px 1px 3px 3px;
-border-style: solid;
-border-color: #DBDBDB;
+  border-style: solid;
+  border-color: #DBDBDB;
 
   }
 
@@ -259,10 +258,12 @@ border-color: #DBDBDB;
 	 flex-direction: row;
 	 justify-content: space-around;
 	 justify-content: space-between;
-	 margin-left: 3%;
+	 /*margin-left: 3%;*/
 	 margin-right:2%;
 	 height: 70%;
 	 align-items:flex-start;
+	 background-color: #DBDBDB;
+
 }
 
 .bloc_img_gauche{
@@ -275,10 +276,11 @@ border-color: #DBDBDB;
   width: 42%;
   padding: 2%;
   height: 50%;
-  border-width: 3px 3px 1px 1px;
+  /*border-width: 3px 3px 1px 1px;
 	border-style: solid;
-	border-color: #DBDBDB;
+	border-color: #DBDBDB;*/
   /*border: 1px solid #DBDBDB;*/
+  margin-left: 3%;
   
 }
 
@@ -319,13 +321,15 @@ border-color: #DBDBDB;
 	flex-direction: row;
 	justify-content: space-between;
 	height: 90%;
-	margin-top: 3%;
-	margin-left: 3%;
+	/*margin-top: 3%;*/
+	/*margin-left: 3%;*/
+	background-color: #DBDBDB;
 }	
 
 
 .reunion{
-	margin-right: -10%;
+	/*margin-right: -10%;*/
+	margin:auto;
 	display: block;
 	/*padding: 5% 2% 2%;*/
 	width: 40%;
@@ -336,13 +340,13 @@ border-color: #DBDBDB;
 
 .texte_creation {
   width: 40%;
-  margin-right: 8%;
+  margin-right: 3%;
   /*float: right;*/
   /*border: 1px solid #DBDBDB;*/
   padding-left:2%;
-  border-width: 1px 1px 3px 3px;
-	border-style: solid;
-	border-color: #DBDBDB;
+ /* border-width: 1px 1px 3px 3px;*/
+	/*border-style: solid;
+	border-color: #DBDBDB;*/
 
 }
 
@@ -354,7 +358,7 @@ border-color: #DBDBDB;
 	justify-content: space-between;
 	height: 90%;
 	margin-top: 3%;
-	margin-left: 3%;
+/*	margin-left: 3%;*/
 } 
 
 .img_entreprise{
@@ -369,9 +373,10 @@ border-color: #DBDBDB;
 	width: 42%;
 	padding: 2%;
 	height: 92%;
-	border-width: 3px 3px 1px 1px;
+	/*border-width: 3px 3px 1px 1px;
 	border-style: solid;
-	border-color: #DBDBDB;
+	border-color: #DBDBDB;*/
+	margin-left: 3%;
 }
 	
 
@@ -381,20 +386,22 @@ border-color: #DBDBDB;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-left: 3%;
+  /*margin-left: 3%;*/
   margin-right: 8%;
   height: 90%;
   margin-top: 3%;
+   background-color: #DBDBDB;
 }
 
 .texte_associations{
-  width: 57%;
+  width: 45%;
   padding: 2%;
   height: 89%;
  /* border: 1px solid #DBDBDB;*/
  	border-width: 3px 1px 1px 3px;
 	border-style: solid;
 	border-color: #DBDBDB;
+	margin-right: 3%;
 
  }
 
@@ -411,7 +418,7 @@ border-color: #DBDBDB;
 
 .bloc_img_collectivites{
 	margin-top: 3%;
-  margin-left: 3%;
+/*s*/
   margin-right: 0;
 	width: 100%;
   display: flex;
@@ -419,17 +426,18 @@ border-color: #DBDBDB;
  }
 
 .img_collectivites{
-	
+	margin: auto;
 }
 
 
 .texte_collectivite {
   margin-right: 5%;
+  margin-left: 3%;
   width: 42%;
   padding: 2%;
-  border-width: 3px 3px 1px 1px;
+ /* border-width: 3px 3px 1px 1px;
 	border-style: solid;
-	border-color: #DBDBDB;
+	border-color: #DBDBDB*/;
 
  }
 
@@ -439,27 +447,29 @@ border-color: #DBDBDB;
 /*TERRITOIRES ET ACTEURS*/
 .bloc_img_territoire{
 	margin-top: 3%;
-	margin-left: 3%;
+	/*margin-left: 3%;*/
 	width: 100%;
 	height: 90%;
 	display: flex;
 	flex-direction:row;
 	justify-content:space-between;
+	background-color: #DBDBDB;
 }
 
 .img_territoire{
+	margin:auto;
 
 }
 
 .bloc_texte_territoire {
-  margin-right: 8%;
+  margin-right: 3%;
   width: 42%;
   padding: 2%;
   height: 50%;
-  border-width: 3px 1px 1px 3px;
-	border-style: solid;
-	border-color: #DBDBDB;
-	border-radius:2px;
+/*  border-width: 3px 1px 1px 3px;
+  border-style: solid;
+  border-color: #DBDBDB;*/
+  
 }
 /*LOGOS DE FINANCEURS*/
 
@@ -484,7 +494,7 @@ border-color: #DBDBDB;
 	color:white;
 	margin-left: 3%;
 	margin-bottom: 0;
-	
+	margin-top: 0;
 }
 .bloc_titre_financeurs{
 	width: 100%;

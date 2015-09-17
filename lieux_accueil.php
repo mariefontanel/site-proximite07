@@ -17,6 +17,7 @@
 				<li><div class="stmartin">A Saint Martin De Valamas (07310) : Quartier le Pont(siège)</div></li>
 			</ul>
 	</div>
+	
 </div>	
 
 <?php include("_footer.php"); ?>

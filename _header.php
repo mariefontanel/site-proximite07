@@ -7,6 +7,7 @@
 		</div>
 	  <div class="home">
         <a href="index.php"><i class="fa fa-home fa-2x"></i></a>
+        <a href="form_contact.php"><i class="fa fa-envelope fa-2x"></i></a>
     </div>
 
 </header>
