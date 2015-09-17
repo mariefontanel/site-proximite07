@@ -159,7 +159,7 @@
 		</div>
 	</div>
 	<div class="bloc_titre_financeurs">
-			<h4 class ="titre_financeurs">Nos financeurs</h4>
+			<p class ="titre_financeurs">Nos financeurs :</p>
 		</div>
 	<?php include("_financeurs.php"); ?>
 	<?php include("_footer.php"); ?>
