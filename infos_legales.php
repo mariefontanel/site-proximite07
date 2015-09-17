@@ -19,3 +19,4 @@
 			<p>Tel 04 75 30 50 82</p>
 </div>
 
+<?php include("_footer.php"); ?>
