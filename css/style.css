@@ -156,6 +156,8 @@ margin-bottom:5%;
 }
 
 /*FORMULAIRE DE CONTACT*/
+
+
 .titre_form{
 	text-align: center;
 	font-weight: 1%;
@@ -171,14 +173,33 @@ margin-bottom:5%;
   }
 
 .champ_form{
-	line-height: 3.5em;
-	margin-left:30%;
+	line-height: 2.5em;
+  margin-left: 30%;
+  width: 14%;
+  padding:1%;
 }
+#nom{
+	margin-left:2%;
+}
+	
+#prenom{
+	margin-left: 2%;
 
+}
+#telephone{
+	margin-left: 2%;
+
+}
+#email{
+	margin-left: 2%;
+
+}
 .button{
 	text-align: center;
+  text-align: center;
+  margin-bottom: 2%;
+  margin-left: -15%;
 }
-7
 
 /*ICONES PUBLICS CIBLES*/
 
@@ -560,7 +581,6 @@ footer{
 	margin-top: 2%;
 	line-height: 1%;
 	width: 25%;
-	
 }
 
 /*TEXTES LIENS FOOTER*/
