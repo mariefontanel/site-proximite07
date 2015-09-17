@@ -1,8 +1,8 @@
-<?php include("head.php"); ?>
+<?php include("_head.php"); ?>
 <?php include("_header.php"); ?>
 <div class="bloc_lieux">
 	<div class="texte_lieux">
-		<h2>Lieux d'accueil</h2>
+		<h3>Lieux d'accueil</h3>
 			<h4>Nous sommes présents sur rendez-vous dans les lieux suivants: </h4>
 			<ul>
 				<li><div class="stagreve">A Saint Agrève (07320): Centre socio culturel, Place Verdun</div></li>

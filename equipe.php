@@ -1,8 +1,8 @@
-<?php include("head.php"); ?>
+<?php include("_head.php"); ?>
 <?php include("_header.php"); ?>
 
 <div class="equipe">
-	<h2>Notre équipe</h2>
+	<h3>Notre équipe</h3>
 	<ul>
 		<li>Jacqueline Dudal, responsable, chargée de la construction d’offres d’activités.</li>
 		<li>Nelle Bernanose, chargée de l'appui à la création d'activités.</li>

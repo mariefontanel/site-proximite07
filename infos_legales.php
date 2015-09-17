@@ -1,4 +1,4 @@
-<?php include("head.php"); ?>
+<?php include("_head.php"); ?>
 <?php include("_header.php"); ?>
 
 <div class="texte_infos_legales">

@@ -1,8 +1,8 @@
-<?php include("head.php"); ?>
+<?php include("_head.php"); ?>
 <body>
 	<?php include("_header.php"); ?>
 		<div class="formulaire_contact">
-			<h2 class="titre_form">Formulaire de contact</h2>
+			<h3 class="titre_form">Formulaire de contact</h3>
 			<form action="traitement_form.php" target="_blank" method="post">
 		    	<div class="champ_form">
 					<label for="nom">Nom :</label>
