@@ -1,5 +1,5 @@
+
 	<div class="bloc_financeurs">
-		<h4 class ="titre_financeurs">Nos financeurs</h4>
 				<img src="images/logo_ue_2013.png" class="logo_financeurs">
 				<img src="images/logo_fse.png" class="logo_financeurs">
 				<img src="images/logo_leader.png" class="logo_financeurs">
