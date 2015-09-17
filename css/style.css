@@ -566,11 +566,11 @@ footer{
 
 .coordonnees{
 	margin-left: -5%;
-	margin-right: 3%;
-	margin-top: 2%;
-	line-height: 1%;
-	width: 25%;
-	
+  margin-right: 3%;
+  margin-top: 2%;
+  width: 33%;
+  font-size: 0.8em;
+
 }
 
 /*TEXTES LIENS FOOTER*/

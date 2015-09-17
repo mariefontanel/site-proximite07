@@ -10,9 +10,8 @@
 	 </div>
 		
 	<div class="coordonnees">
-	<!--  -->
-		<p>Quartier Le Pont,07310 St Martin de Valamas</p>
-		<p>Tél. : 04.75.30.50.82</p>
+	<p>Nos coordonnées</p>
+		<p>Quartier Le Pont,07310 St Martin de Valamas Tél.: 04.75.30.50.82 </p>
 		<p>Email : <a href="mailto:site.proximite.boutieres@orange.fr">site.proximite.boutieres@orange.fr</a></p>
 	</div>
 	
