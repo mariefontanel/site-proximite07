@@ -263,8 +263,8 @@ margin-right: 5%;
   margin-top: 5%;
   padding: 2%;
   border-width: 1px 1px 3px 3px;
-border-style: solid;
-border-color: #DBDBDB;
+	border-style: solid;
+	border-color: #DBDBDB;
 
   }
 
@@ -590,10 +590,11 @@ footer{
 
 .coordonnees{
 	margin-left: -5%;
-	margin-right: 3%;
-	margin-top: 2%;
-	line-height: 1%;
-	width: 25%;
+  margin-right: 3%;
+  margin-top: 2%;
+  width: 33%;
+  font-size: 0.8em;
+
 }
 
 /*TEXTES LIENS FOOTER*/
