@@ -1,6 +1,5 @@
 <?php include("_head.php"); ?>
 <body onload="initialize()">
-    <div id="top"></div>
     <?php include("_header.php"); ?>
     <article class="bloc_icones">
 		<a href="#bloc_particuliers"><img src="images/particuliergris1.jpg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
