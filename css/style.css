@@ -50,8 +50,6 @@ h2{
 
 /*HEADER*/
 
-
-
 	
 a{
 	/*text-decoration: none;*/
@@ -77,8 +75,8 @@ a:hover {
 
 
 .bloc_accroche {
-	margin-left: 30%;
-  margin-top: -5%;
+	margin-left: 35%;
+  margin-top: -8%;
   color:#25AFBA;
   font-family: 'Roboto-Italic';
 }
@@ -233,9 +231,12 @@ margin-right: 5%;
   float: right;
   margin-top: 5%;
   padding: 2%;
-  border:1px solid #DBDBDB;
-  border-left: 3px solid #DBDBDB;
-  border-bottom: 3px solid #DBDBDB;
+  /*border:3px 1px 1px 3px solid #DBDBDB;*/
+  /*border-left: 3px solid #DBDBDB;
+  border-bottom: 3px solid #DBDBDB;*/
+  border-width: 1px 1px 3px 3px;
+border-style: solid;
+border-color: #DBDBDB;
   }
 
 /*PARTCULIERS*/
@@ -266,7 +267,11 @@ margin-right: 5%;
   width: 42%;
   padding: 2%;
   height: 50%;
-  border: 1px solid #DBDBDB;
+  border-width: 3px 3px 1px 1px;
+	border-style: solid;
+	border-color: #DBDBDB;
+  /*border: 1px solid #DBDBDB;*/
+  
 }
 
 
@@ -325,7 +330,12 @@ margin-right: 5%;
   width: 40%;
   margin-right: 8%;
   /*float: right;*/
-  border: 1px solid #DBDBDB;
+  /*border: 1px solid #DBDBDB;*/
+  padding-left:2%;
+  border-width: 1px 1px 3px 3px;
+	border-style: solid;
+	border-color: #DBDBDB;
+
 }
 
 /*ENTREPRISES*/
@@ -351,7 +361,9 @@ margin-right: 5%;
 	width: 42%;
 	padding: 2%;
 	height: 92%;
-	border:1px solid #DBDBDB;
+	border-width: 3px 3px 1px 1px;
+	border-style: solid;
+	border-color: #DBDBDB;
 }
 	
 
@@ -371,7 +383,11 @@ margin-right: 5%;
   width: 57%;
   padding: 2%;
   height: 89%;
-  border: 1px solid #DBDBDB;
+ /* border: 1px solid #DBDBDB;*/
+ 	border-width: 3px 1px 1px 3px;
+	border-style: solid;
+	border-color: #DBDBDB;
+
  }
 
 
@@ -403,7 +419,10 @@ margin-right: 5%;
   margin-right: 5%;
   width: 42%;
   padding: 2%;
-  border: 1px solid #DBDBDB;
+  border-width: 3px 3px 1px 1px;
+	border-style: solid;
+	border-color: #DBDBDB;
+
  }
 
 
@@ -429,7 +448,9 @@ margin-right: 5%;
   width: 42%;
   padding: 2%;
   height: 50%;
-  border: 1px solid #DBDBDB;
+  border-width: 3px 1px 1px 3px;
+	border-style: solid;
+	border-color: #DBDBDB;
 }
 /*LOGOS DE FINANCEURS*/
 
@@ -467,6 +488,7 @@ footer{
 }
 
 .bloc_nav{
+	margin-left: 50%;
 	text-align: center;
 	width: 100%;
 	height: 20%;
@@ -476,6 +498,7 @@ footer{
 	padding: 1%;
 
   }
+
 
 .bloc_nav  ul{
 	border:1px solid #DBDBDB;
