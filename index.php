@@ -16,7 +16,6 @@
 	</article>
 
 	<div class="bloc_presentation">
-		<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1441785993253" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 		<div class="introduction">
 			<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
@@ -99,7 +98,6 @@
 
 	</div>	
 		
-	<!-- <a href="#top" class ="lien_retour_top">haut de page</a> -->
 	
 	<div class="bloc_img_associations">
 		<div class="img_associations">
@@ -160,7 +158,9 @@
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
 		</div>
 	</div>
-
+	<div class="bloc_titre_financeurs">
+			<h4 class ="titre_financeurs">Nos financeurs</h4>
+		</div>
 	<?php include("_financeurs.php"); ?>
 	<?php include("_footer.php"); ?>
 	
