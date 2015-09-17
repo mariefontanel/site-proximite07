@@ -163,6 +163,6 @@
 
 	<?php include("_financeurs.php"); ?>
 	<?php include("_footer.php"); ?>
-	</div>
+	
 </body>
 </html>
