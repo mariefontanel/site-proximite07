@@ -68,7 +68,7 @@ a:hover {
    color:#E44772;
 }
 .home{
-	margin-left: 90%;
+	margin-left: 95%;
 	margin-top:-8%;
 	
 }
@@ -156,8 +156,6 @@ margin-bottom:5%;
 }
 
 /*FORMULAIRE DE CONTACT*/
-
-
 .titre_form{
 	text-align: center;
 	font-weight: 1%;
@@ -173,33 +171,14 @@ margin-bottom:5%;
   }
 
 .champ_form{
-	line-height: 2.5em;
-  margin-left: 30%;
-  width: 14%;
-  padding:1%;
+	line-height: 3.5em;
+	margin-left:30%;
 }
-#nom{
-	margin-left:2%;
-}
-	
-#prenom{
-	margin-left: 2%;
 
-}
-#telephone{
-	margin-left: 2%;
-
-}
-#email{
-	margin-left: 2%;
-
-}
 .button{
 	text-align: center;
-  text-align: center;
-  margin-bottom: 2%;
-  margin-left: -15%;
 }
+7
 
 /*ICONES PUBLICS CIBLES*/
 
@@ -480,6 +459,7 @@ margin-right: 5%;
   border-width: 3px 1px 1px 3px;
 	border-style: solid;
 	border-color: #DBDBDB;
+	border-radius:2px;
 }
 /*LOGOS DE FINANCEURS*/
 
@@ -566,27 +546,13 @@ footer{
 
 .nav{
 	width:100%;
+	margin-top: 10%;
 }
 
 .nav ul{
 	font-size: 12px;
 }
 
-/*.infos_legales{
-	margin-top: 2%;
-	margin-left: 2%;
-	text-decoration: underline;
-	width: 35%;
-	
-}*/
-
-/*.plan_site{
-	margin-top: 2%;
-	margin-left: -5%;
-	width: 20%;
-	text-decoration: underline;
-	
-}*/
 
 .coordonnees{
 	margin-left: -5%;
