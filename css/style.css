@@ -32,8 +32,11 @@ body{
 	/*background-color:#DADADA;*/
 	line-height: 1.5em;
 	}
-
-h2{
+.background{
+	background-image: url(images/feuille_logo.svg);
+	opacity: 0.2;
+}
+h3{
 	color:#25AFBA;
 }
 
@@ -219,14 +222,14 @@ justify-content: space-between;
 margin-top: 5%;
 display: block;
 width: 40%;
-float: right;
-margin-left: -10%;
+float: left;
+margin-left: 3%;
 margin-right: 5%;
 }
 
 
 .introduction{
-	width: 50%;
+	width: 40%;
  /* height: 430px;*/
   margin-right: 5%;
   margin-bottom: 5%;
