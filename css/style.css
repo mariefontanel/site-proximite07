@@ -32,10 +32,8 @@ body{
 	/*background-color:#DADADA;*/
 	line-height: 1.5em;
 	}
-.background{
-	background-image: url(images/feuille_logo.svg);
-	opacity: 0.2;
-}
+
+
 h3{
 	color:#25AFBA;
 }
@@ -277,7 +275,7 @@ margin-bottom:5%;
 	 margin-right:2%;
 	 height: 70%;
 	 align-items:flex-start;
-	 background-color: #DBDBDB;
+	 background-color: #f3f3f3;
 
 }
 
