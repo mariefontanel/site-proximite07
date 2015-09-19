@@ -15,14 +15,15 @@
 	</article>
 
 	<div class="bloc_presentation">
-
+		<div class"map">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1442650017251" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>		</div>
 		<div class="introduction">
 			<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
 			<p>Association loi 1901 (<a href="presentation.php">+ d'infos </a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
 			<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
 			<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 			<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
-			<p> <a href="form_contact.php">Contactez-nous</a></p>
+			<a href="form_contact.php"><button class="button">Nous contacter</button></a>
 		</div>
 	</div>
 
@@ -160,7 +161,7 @@
 	</div>
 	<div class="bloc_titre_financeurs">
 			<p class ="titre_financeurs">Nos financeurs :</p>
-		</div>
+	</div>
 	<?php include("_financeurs.php"); ?>
 	<?php include("_footer.php"); ?>
 	
