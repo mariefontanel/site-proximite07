@@ -494,6 +494,7 @@ a:hover {
 	/*margin-top: 3%;*/
 	display:flex;
 	justify-content:space-between;
+	padding-bottom: 2%;
 
 }
 
@@ -508,6 +509,7 @@ a:hover {
 	margin-left: 3%;
 	margin-bottom: 0;
 	margin-top: 0;
+	padding-top: 2%;
 }
 .bloc_titre_financeurs{
 	width: 100%;
