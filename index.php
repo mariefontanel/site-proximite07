@@ -1,5 +1,7 @@
 <?php include("_header.php"); ?>
+
 		<div class="bloc_img_bureau">
+	<div class="eolienne"><img src="images/eolienne.jpg"></div>
 			
 		</div>
 	    <article class="bloc_icones">
