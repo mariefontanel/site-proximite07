@@ -6,6 +6,8 @@
 		     <a href="lieux_accueil.php"><li>Nos lieux d'accueil</li></a>
 		     <a href="form_contact.php"><li>Nous contacter</li></a>
 		</ul>
+	<div class="eolienne"><img src="images/eolienne.jpg">
+	</div>	
 	</div>
     <article class="bloc_icones">
 		<a href="#bloc_particuliers"><img src="images/particulierbleuplein.svg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>

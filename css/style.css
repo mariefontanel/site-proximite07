@@ -116,7 +116,9 @@ a:hover {
 	text-align: center;
 	
 }
-
+.eolienne{
+	width: 50%;
+}
 /*PAGE LIEUX ACCUEIL*/
 .bloc_lieux{
 	display: flex;
@@ -336,7 +338,7 @@ a:hover {
 	height: 90%;
 	background-color: #f3f3f3;
 	margin-top: 4%;
-8
+
 }	
 
 
@@ -457,9 +459,6 @@ a:hover {
   width: 42%;
   padding: 2%;
   height: 50%;
-/*  border-width: 3px 1px 1px 3px;
-  border-style: solid;
-  border-color: #DBDBDB;*/
   
 }
 /*LOGOS DE FINANCEURS*/
@@ -524,12 +523,11 @@ footer{
 
 .nav{
 	width:94%;
-	/*padding-top: 2%;*/
 	padding-bottom: 2%;
 	display:flex;
 	flex-direction:row;
-  	margin-left: 3%;
-  	margin-right: 3%;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
 
@@ -540,10 +538,10 @@ footer{
 	line-height: 1.5em;	
  }
 
- .menu a, .coordonnees a{
- 	color:white;
+ .menu a:hover, .coordonnees a:hover{
+ /*	color:white;*/
  	text-decoration: none;
-
+  color:#E44772;
  }
 
 .menu_haut {
