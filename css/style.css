@@ -338,11 +338,35 @@ a:hover {
 	padding: 20%;
 	margin-right: auto;
 	display:block;
+	text-align: center;
 }
-.texte_offres h3{
+.offres-particuliers h4{
 	margin-top: 0;
+	text-align: center;
 }
 
+.img_offres{
+	display:block;
+	margin:auto;
+}
+
+.offres{
+	color:black;
+	width:400px;
+	padding-top: 1%;
+		
+}
+
+.bourses{
+	color:red;
+	width:400px;
+	
+}
+.local_pro{
+	color:black;
+	width:400px;
+	
+}
 
 .bloc_creation{
 	width: 100%;
@@ -351,10 +375,7 @@ a:hover {
 	justify-content: space-between;
 	height: 90%;
 	background-color: #f3f3f3;
-<<<<<<< HEAD
-	margin-top: 4%;
-=======
->>>>>>> f9cdca491e44809cb5993ef2c889de9653a74afa
+
 
 }	
 
@@ -385,16 +406,19 @@ border-bottom: 1px solid #8DD5DB9;
 
 } 
 
+.img_entrep{
+	margin:auto;
+}
 .img_entreprise{
-	margin-right: 4%;
+  margin-right: 4%;
   display: block;
   padding: 6% 2% 2%;
-  width: 30%;
-  height: 60%;
+  width: 70%;
+  height: 70%;
 }
 
 .texte_entreprise{
-	width: 42%;
+	width: 60%;
 	padding: 2%;
 	height: 50%;
 	margin-left: 3%;
@@ -554,11 +578,13 @@ footer{
 	flex-direction:column;
 	line-height: 1.5em;	
  }
+ .menu a,  .coordonnees a{
+ 	color:white;
+ 		
+ }
 
  .menu a:hover, .coordonnees a:hover{
- /*	color:white;*/
- 	text-decoration: none;
-  color:#E44772;
+  	color:#E44772;
  }
 
 /*.menu_haut {
