@@ -1,15 +1,10 @@
 <?php include("_header.php"); ?>
-	<div class="menu_haut">
-		<ul>
-		     <a href="presentation.php"><li>Qui sommes-nous ?</li></a>
-		     <a href="equipe.php"><li>Notre équipe</li></a>
-		     <a href="lieux_accueil.php"><li>Nos lieux d'accueil</li></a>
-		     <a href="form_contact.php"><li>Nous contacter</li></a>
-		</ul>
-	<div class="eolienne"><img src="images/eolienne.jpg">
-	</div>	
-	</div>
-    <article class="bloc_icones">
+
+		<div class="bloc_img_bureau">
+	<div class="eolienne"><img src="images/eolienne.jpg"></div>
+			
+		</div>
+	    <article class="bloc_icones">
 		<a href="#bloc_particuliers"><img src="images/particulierbleuplein.svg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 		</a>
 		<a href="#bloc_entreprises"><img src="images/entreprisebleuplein.svg" class="icone_entreprises"><div class="titre_bloc_icone">Entreprises</div>
