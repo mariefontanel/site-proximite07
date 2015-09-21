@@ -34,6 +34,7 @@ body{
 	}
 
 
+
 h3{
 	color:#25AFBA;
 
@@ -46,7 +47,7 @@ h3{
 .logo_site{
 	width: 20%;
 	margin-left: 2%;
-	margin-top: 1%;
+	margin-top: 2%;
 	vertical-align: text-top;
 }
 
@@ -191,10 +192,21 @@ a:hover {
 
 /*ICONES PUBLICS CIBLES*/
 
+.bloc_img_bureau{
+	display: block;
+	width: 100%;
+}
+
+.img_bureau{
+	display: block;
+	margin: auto;
+}
+
 .bloc_icones a{
 	text-decoration: none;
 	list-style-type: none;
 	width: 60%;
+	font-weight: bold;
 	text-align: center;
 	justify-content:space-between;
 	align-content:space-around;
@@ -249,6 +261,7 @@ a:hover {
   margin-bottom: 5%;
   margin-top: 5%;
   padding: 2%;
+  border-bottom: 1px solid #8DD5DB;
  }
 
 .button, .button:visited {
@@ -288,7 +301,6 @@ a:hover {
 	 margin-top: 4%;
 	 justify-content: space-between;
 	 background-color: #f3f3f3;
-	 
 }
 
 .bloc_img_gauche{
@@ -297,6 +309,7 @@ a:hover {
 }
 
 .bloc_gauche {
+	border-bottom: 1px solid #8DD5DB;
   margin-right: 2%;
   width: 42%;
   padding: 2%;
@@ -335,8 +348,7 @@ a:hover {
 	justify-content: space-between;
 	height: 90%;
 	background-color: #f3f3f3;
-	margin-top: 4%;
-8
+
 }	
 
 
@@ -352,7 +364,8 @@ a:hover {
 .texte_creation {
   width: 40%;
   margin-right: 3%;
-  padding-left:2%;
+ padding-left:2%;
+border-bottom: 1px solid #8DD5DB9;
 }
 
 /*ENTREPRISES*/
@@ -399,6 +412,7 @@ a:hover {
   padding: 2%;
   height: 89%;
   margin-right: 3%;
+  border-bottom: 1px solid #8DD5DB;
  }
 
 
@@ -406,9 +420,6 @@ a:hover {
 	margin: auto;
 }
 
-.lien_retour_top{
-	float:right;
-}
 
 /*COLLECTIVITES*/
 
@@ -429,6 +440,7 @@ a:hover {
   margin-left: 3%;
   width: 42%;
   padding: 2%;
+ 
  
  }
 
@@ -457,6 +469,7 @@ a:hover {
   width: 42%;
   padding: 2%;
   height: 50%;
+
 /*  border-width: 3px 1px 1px 3px;
   border-style: solid;
   border-color: #DBDBDB;*/
@@ -546,21 +559,36 @@ footer{
 
  }
 
-.menu_haut {
-	width: 45%;
-	color:grey;
+/*.menu_haut {
+	/*/*/*/*/*/*/*/*/*width: 40%;
 	line-height: 1.5em;	
- }
+	background-color: yellow;
+ 	/*margin-top: 2%;*/
+ 	/*margin-left:60%;
+ 	display:flex;
+	justify-content:space-between;
+	align-content:space-around;
+ }*/
+
+
+.menu_haut {
+	width: 100%;
+	height: 20%;
+	text-align: center;
+	margin-left: 35%;
+	margin-top: -12%;
+	padding: 1%;
+}
+
+
 
  .menu_haut a{
- 	font-size: 0.8em;
+ 	font-size: 0.7em;
  }
 
  .menu_haut ul li{
  	display: inline-block;
- 	position:relative;
- 	margin-top: 2%;
- 	margin-left:50%;
+ 	
  }
 
 
