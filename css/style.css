@@ -295,6 +295,7 @@ a:hover {
 	 flex-direction: row;
 	 margin-top: 5%;
 	 justify-content: space-between;
+	 background-color: #f3f3f3;
 	 
 }
 
@@ -340,14 +341,10 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-<<<<<<< HEAD
-	background-color: #DBDBDB;
-=======
 	height: 90%;
 	/*margin-top: 3%;*/
 	/*margin-left: 3%;*/
 	background-color: #f3f3f3;
->>>>>>> 451731d6019b91bac3f40fed628574aa79393916
 }	
 
 
@@ -379,14 +376,14 @@ a:hover {
 	margin-right: 4%;
   display: block;
   padding: 6% 2% 2%;
-  width: 40%;
-  height: 93%;
+  width: 30%;
+  height: 60%;
 }
 
 .texte_entreprise{
 	width: 42%;
 	padding: 2%;
-	height: 92%;
+	height: 50%;
 	margin-left: 3%;
 }
 	
@@ -397,30 +394,18 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-<<<<<<< HEAD
-  background-color: #DBDBDB;
-=======
   /*margin-left: 3%;*/
   margin-right: 8%;
   height: 90%;
   margin-top: 3%;
  background-color: #f3f3f3;
->>>>>>> 451731d6019b91bac3f40fed628574aa79393916
 }
 
 .texte_associations{
   width: 45%;
   padding: 2%;
   height: 89%;
-<<<<<<< HEAD
-  border-width: 3px 1px 1px 3px;
-=======
- /* border: 1px solid #DBDBDB;*/
- 	/*border-width: 3px 1px 1px 3px;
->>>>>>> 451731d6019b91bac3f40fed628574aa79393916
-	border-style: solid;
-	border-color: #DBDBDB;*/
-	margin-right: 3%;
+  margin-right: 3%;
 
  }
 
@@ -548,9 +533,6 @@ footer{
 	padding-bottom: 2%;
 	display:flex;
 	flex-direction:row;
-/*	justify-content:space-between;
-	justify-content:space-around*/
-  	/*line-height: 1em;*/
   	margin-left: 3%;
   	margin-right: 3%;
 }
@@ -569,6 +551,22 @@ footer{
 
  }
 
+.menu_haut {
+	width: 45%;
+	color:grey;
+	line-height: 1.5em;	
+ }
+
+ .menu_haut a{
+ 	font-size: 0.8em;
+ }
+
+ .menu_haut ul li{
+ 	display: inline-block;
+ 	position:relative;
+ 	margin-top: 2%;
+ 	margin-left:50%;
+ }
 
 
 .coordonnees{

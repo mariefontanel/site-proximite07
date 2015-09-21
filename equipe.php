@@ -1,4 +1,3 @@
-<?php include("_head.php"); ?>
 <?php include("_header.php"); ?>
 <div class="bloc_img_equipe">
 	<div class="texte_equipe">

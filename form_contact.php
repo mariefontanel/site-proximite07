@@ -1,4 +1,3 @@
-<?php include("_head.php"); ?>
 <body>
 	<?php include("_header.php"); ?>
 		<div class="formulaire_contact">

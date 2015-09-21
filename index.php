@@ -1,4 +1,12 @@
 <?php include("_header.php"); ?>
+	<div class="menu_haut">
+		<ul>
+		     <a href="presentation.php"><li>Qui sommes-nous ?</li></a>
+		     <a href="equipe.php"><li>Notre équipe</li></a>
+		     <a href="lieux_accueil.php"><li>Nos lieux d'accueil</li></a>
+		     <a href="form_contact.php"><li>Nous contacter</li></a>
+		</ul>
+	</div>
     <article class="bloc_icones">
 		<a href="#bloc_particuliers"><img src="images/particuliergris1.jpg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 		</a>
@@ -24,30 +32,6 @@
 			<a href="form_contact.php"><button class="button">Nous contacter</button></a>
 		</div>
 	</div>
-
-
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-  Launch demo modal
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
 
 	<div class="bloc_img_particuliers">
 		<div class="bloc_gauche" id="bloc_particuliers">
@@ -102,55 +86,92 @@
 						<li>Une orientation vers les structures spécialisées pour un appui technique, un financement…</li>
 				</ul>
 				<h4>Vous voulez recruter ?</h4>	
-					<p>Nous disposons d'informations sur</p>	
-					<ul>
-						<li>Les différents types de contrats.</li>
-						<li>Les aides à l’embauche.</li>
-						<li>La définition du poste proposé.</li>
-						<li>La liste de diffusion des offres.</li>
-						<li>Une mise en relation avec des candidats.</li>
-						<li>Une aide à la sélection et au suivi de l’intégration de la personne recrutée.</li>
-						<li>Un accompagnement spécifique pour les formalités liées à votre première embauche.</li>
-					</ul>
-				<h4>Vous recherchez des locaux ?</h4>
-					<p>Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
-				<h4>Vous projetez de transmettre votre entreprise ?</h4>
-					<p>Le Site de proximité vous accompagne dans la recherche de candidats repreneurs.</p>
 		</div>
+
+		<!-- Button trigger modal -->
+		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+		  + d'infos ...
+		</button>
 		<img src="images/local.jpg" class="img_entreprise">
 
-	</div>	
+		<!-- Modal -->
+		<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel"></h4>
+		      </div>
+		      <div class="modal-body">
+							<p>Nous disposons d'informations sur :</p>	
+							<ul>
+								<li>Les différents types de contrats.</li>
+								<li>Les aides à l’embauche.</li>
+								<li>La définition du poste proposé.</li>
+								<li>La liste de diffusion des offres.</li>
+								<li>Une mise en relation avec des candidats.</li>
+								<li>Une aide à la sélection et au suivi de l’intégration de la personne recrutée.</li>
+								<li>Un accompagnement spécifique pour les formalités liées à votre première embauche.</li>
+							</ul>
+						<h4>Vous recherchez des locaux ?</h4>
+							<p>Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
+						<h4>Vous projetez de transmettre votre entreprise ?</h4>
+							<p>Le Site de proximité vous accompagne dans la recherche de candidats repreneurs.</p>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+		</div>	
 		
 	
 	<div class="bloc_img_associations">
 		<div class="img_associations">
 			<img src="images/asso.jpg" class="img_asso">
 		</div>
-		<div class="texte_associations" id="bloc_associations">
-			<h3>Associations</h3>
-				<h4>Vous souhaitez développer un nouveau projet ? </h4>
-					<p>Le Site de proximité vous propose</p>
-						<ul>
-							<li>Un appui à la validation et la mise en œuvre de vos projets.</li>
-							<li>Une orientation vers les structures spécialisées.</li>
-						</ul>
-				<h4>Vous voulez recruter ?</h4>
-					<p>Le Site de proximité vous propose un appui au recrutement : </p>
-						<ul>
-							<li>Information sur les différents types de contrats.</li>
-							<li>Aides à l’embauche.</li>
-							<li>Une aide à la définition du poste proposé. </li>
-							<li>Diffusion de l’offre, mise en relation avec des candidats.</li>
-							<li>Appui à la sélection.</li>
-							<li>Suivi de l’intégration de la personne recrutée.</li>
-							<li>Appui spécifique pour les formalités liées à votre première embauche.</li>
-						</ul>	
-				<h4>Vous avez besoin d’un appui dans l’organisation de votre association ?</h4>
-					<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
-				<h4>Vous recherchez des locaux ?</h4>
-					<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
-		</div>
-	</div>	
+			<div class="texte_associations" id="bloc_associations">
+				<h3>Associations</h3>
+					<h4>Vous souhaitez développer un nouveau projet ? </h4>
+						<p>Le Site de proximité vous propose</p>
+							<ul>
+								<li>Un appui à la validation et la mise en œuvre de vos projets.</li>
+								<li>Une orientation vers les structures spécialisées.</li>
+							</ul>
+					<h4>Vous voulez recruter ?</h4>
+						
+			</div>
+
+			<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+		   + d'infos ...
+			</button>
+
+			<!-- Modal -->
+			<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+			  <div class="modal-dialog" role="document">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			        <h4 class="modal-title" id="myModalLabel"></h4>
+			      </div>
+			      <div class="modal-body">
+						<p>Le Site de proximité vous propose un appui au recrutement : </p>
+								<ul>
+									<li>Information sur les différents types de contrats.</li>
+									<li>Aides à l’embauche.</li>
+									<li>Une aide à la définition du poste proposé. </li>
+									<li>Diffusion de l’offre, mise en relation avec des candidats.</li>
+									<li>Appui à la sélection.</li>
+									<li>Suivi de l’intégration de la personne recrutée.</li>
+									<li>Appui spécifique pour les formalités liées à votre première embauche.</li>
+								</ul>	
+						<h4>Vous avez besoin d’un appui dans l’organisation de votre association ?</h4>
+							<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
+						<h4>Vous recherchez des locaux ?</h4>
+							<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>	
+			      </div>
+			    </div>
+			  </div>
+			</div>
+</div>	
 	
 	<div class="bloc_img_collectivites">
 		<div  class="texte_collectivite" id="bloc_collectivites">
@@ -158,14 +179,38 @@
 			<h4>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h4>
 				<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
 			<h4>Vous voulez recruter ?</h4>
-			<p>Le Site de proximité vous propose un appui au recrutement : </p>
+			<!-- <p>Le Site de proximité vous propose un appui au recrutement : </p>
 			<ul>
 				<li>Information sur les différents types de contrats. 
 				<li>Les aides à l’embauche, aide à la définition du poste proposé.</li>
 				<li>La diffusion de l’offre, mise en relation avec des candidats.</li>
 				<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
-			</ul>
+			</ul> -->
 		</div>
+		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+		   + d'infos ...
+			</button>
+
+			<!-- Modal -->
+			<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+			  <div class="modal-dialog" role="document">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			        <h4 class="modal-title" id="myModalLabel"></h4>
+			      </div>
+			      <div class="modal-body">
+						<p>Le Site de proximité vous propose un appui au recrutement : </p>
+						<ul>
+							<li>Information sur les différents types de contrats. 
+							<li>Les aides à l’embauche, aide à la définition du poste proposé.</li>
+							<li>La diffusion de l’offre, mise en relation avec des candidats.</li>
+							<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
+						</ul> 
+			      </div>
+			    </div>
+			  </div>
+			</div>
 		<div class="img_collectivites">
 			<img src="images/territoires-petit.jpg">
 		</div>
