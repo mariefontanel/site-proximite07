@@ -242,6 +242,7 @@ a:hover {
 	display: flex;
 	flex-direction:row;
 	width: 100%;
+	justify-content:space-between;
 }
 .map{
 	display: flex;
@@ -254,14 +255,9 @@ a:hover {
   height: 50%;
   margin-right: 5%;
   margin-bottom: 5%;
-  /*float: right;*/
   margin-top: 5%;
   padding: 2%;
-  border-width: 1px 1px 3px 3px;
-  border-style: solid;
-  border-color: #DBDBDB;
-
-  }
+ }
 
 .button, .button:visited {
 	background: #6B696A ;
@@ -297,14 +293,9 @@ a:hover {
 	 width: 100%;
 	 display: flex;
 	 flex-direction: row;
-	 justify-content: space-around;
 	 justify-content: space-between;
-	 /*margin-left: 3%;*/
-	 margin-right:2%;
-	 height: 70%;
-	 align-items:flex-start;
 	 background-color: #f3f3f3;
-
+	 margin-top: 5%;
 }
 
 .bloc_img_gauche{
@@ -317,17 +308,12 @@ a:hover {
   width: 42%;
   padding: 2%;
   height: 50%;
-  /*border-width: 3px 3px 1px 1px;
-	border-style: solid;
-	border-color: #DBDBDB;*/
-  /*border: 1px solid #DBDBDB;*/
   margin-left: 3%;
   
 }
 
 
 .offres_particuliers{
-	/*border:1px solid #DBDBDB;*/
 	height: 30%;
 	width:25%;
 	margin-top: 2%;
@@ -354,18 +340,13 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	height: 90%;
-	/*margin-top: 3%;*/
-	/*margin-left: 3%;*/
 	background-color: #DBDBDB;
 }	
 
 
 .reunion{
-	/*margin-right: -10%;*/
 	margin:auto;
 	display: block;
-	/*padding: 5% 2% 2%;*/
 	width: 40%;
 	height: 94%
  }
@@ -375,13 +356,7 @@ a:hover {
 .texte_creation {
   width: 40%;
   margin-right: 3%;
-  /*float: right;*/
-  /*border: 1px solid #DBDBDB;*/
   padding-left:2%;
- /* border-width: 1px 1px 3px 3px;*/
-	/*border-style: solid;
-	border-color: #DBDBDB;*/
-
 }
 
 /*ENTREPRISES*/
@@ -390,7 +365,7 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	height: 90%;
+
 } 
 
 .img_entreprise{
@@ -405,9 +380,6 @@ a:hover {
 	width: 42%;
 	padding: 2%;
 	height: 92%;
-	/*border-width: 3px 3px 1px 1px;
-	border-style: solid;
-	border-color: #DBDBDB;*/
 	margin-left: 3%;
 }
 	
@@ -418,19 +390,14 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  /*margin-left: 3%;*/
-  margin-right: 8%;
-  height: 90%;
-  margin-top: 3%;
-   background-color: #DBDBDB;
+  background-color: #DBDBDB;
 }
 
 .texte_associations{
   width: 45%;
   padding: 2%;
   height: 89%;
- /* border: 1px solid #DBDBDB;*/
- 	border-width: 3px 1px 1px 3px;
+  border-width: 3px 1px 1px 3px;
 	border-style: solid;
 	border-color: #DBDBDB;
 	margin-right: 3%;
@@ -449,10 +416,9 @@ a:hover {
 /*COLLECTIVITES*/
 
 .bloc_img_collectivites{
-  margin-right: 0;
   width: 100%;
   display: flex;
-  height: 50%;
+  justify-content:space-between;
  }
 
 .img_collectivites{
@@ -465,10 +431,7 @@ a:hover {
   margin-left: 3%;
   width: 42%;
   padding: 2%;
- /* border-width: 3px 3px 1px 1px;
-	border-style: solid;
-	border-color: #DBDBDB*/
-
+ 
  }
 
 
@@ -477,9 +440,7 @@ a:hover {
 /*TERRITOIRES ET ACTEURS*/
 .bloc_img_territoire{
 	margin-top: 3%;
-	/*margin-left: 3%;*/
 	width: 100%;
-	height: 90%;
 	display: flex;
 	flex-direction:row;
 	justify-content:space-between;
