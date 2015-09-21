@@ -2,15 +2,15 @@
 <body onload="initialize()">
     <?php include("_header.php"); ?>
     <article class="bloc_icones">
-		<a href="#bloc_particuliers"><img src="images/particuliergris1.jpg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
+		<a href="#bloc_particuliers"><img src="images/particulierbleuplein.svg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 		</a>
-		<a href="#bloc_entreprises"><img src="images/entreprisegris1.jpg" class="icone_entreprises"><div class="titre_bloc_icone">Entreprises</div>
+		<a href="#bloc_entreprises"><img src="images/entreprisebleuplein.svg" class="icone_entreprises"><div class="titre_bloc_icone">Entreprises</div>
 		</a> 
-		<a href="#bloc_associations"><img src="images/assos2.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div>
+		<a href="#bloc_associations"><img src="images/associationbleuplein.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div>
 		</a>
-		<a href="#bloc_collectivites"><img src="images/collectivites.svg" class="icone_collectivites"><div class="titre_bloc_icone">Collectivités</div>
+		<a href="#bloc_collectivites"><img src="images/collectivitebleuplein.svg" class="icone_collectivites"><div class="titre_bloc_icone">Collectivités</div>
 		</a>
-		<a href="#bloc_territoires"><img src="images/territoiregris1.jpg" class="icone_territoires"><div class="titre_bloc_icone">Territoire et acteurs</div>
+		<a href="#bloc_territoires"><img src="images/territoirebleuplein.svg" class="icone_territoires"><div class="titre_bloc_icone">Territoire et acteurs</div>
 		</a>
 	</article>
 
@@ -41,7 +41,7 @@
 			</ul>
 		</div>
 		<div class="offres_particuliers">
-			<i class="fa fa-search fa-5x"></i>
+			<i class="fa fa-search fa-3x">  A consulter</i>
 			<div class="texte_offres">
 				<a href="offres_pdf/offres.pdf"><h4>A consulter</h4></a>
 				<ul>
@@ -54,7 +54,7 @@
 	</div>
 		
 	<div class="bloc_creation">
-		<img src="images/reunion.jpg" class="reunion">
+		<img src="images/reunion154ko.jpg" class="reunion">
 		<div class="texte_creation">
 			<h4>Vous souhaitez créer votre entreprise, une association ?</h4>
 			<p>Que vous ayez ou pas une idée d’activité, l’Atelier des projets est fait pour vous !</p>
