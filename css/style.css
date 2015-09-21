@@ -8,8 +8,8 @@
 
 @font-face {
 	font-family: 'Roboto-Thin';
-	src: url('../fonts/Roboto-Thin.eot');
-	src: local('☺'), url('../fonts/Roboto-Thin.woff') format('woff'), url('../fonts/Roboto-Thin.ttf') format('truetype'), url('../fonts/Roboto-Thin.svg') format('svg');
+	src: url('../fonts/Roboto-Thin/Roboto-Thin.eot');
+	src: local('☺'), url('../fonts/Roboto-Thin/Roboto-Thin.woff') format('woff'), url('../fonts/Roboto-Thin/Roboto-Thin.ttf') format('truetype'), url('../fonts/Roboto-Thin/Roboto-Thin.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
