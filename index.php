@@ -1,6 +1,4 @@
-<?php include("_head.php"); ?>
-<body onload="initialize()">
-    <?php include("_header.php"); ?>
+<?php include("_header.php"); ?>
     <article class="bloc_icones">
 		<a href="#bloc_particuliers"><img src="images/particuliergris1.jpg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 		</a>
@@ -26,6 +24,30 @@
 			<a href="form_contact.php"><button class="button">Nous contacter</button></a>
 		</div>
 	</div>
+
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 
 	<div class="bloc_img_particuliers">
 		<div class="bloc_gauche" id="bloc_particuliers">
