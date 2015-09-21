@@ -183,10 +183,14 @@ margin-bottom:5%;
   }
 
 .champ_form{
-	line-height: 3.5em;
 	margin-left:30%;
+	line-height: 2.5em;
+  width: 14%;
+  padding:1%;
 }
-
+#nom{
+	margin-left:2%;
+}
 .button{
 	text-align: center;
 }
