@@ -21,7 +21,7 @@
 		<div class="introduction">
 			<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
 			<p>Association loi 1901 (<a href="presentation.php">+ d'infos </a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
-			<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
+			<p>Le site de proximité intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
 			<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 			<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 			<a href="form_contact.php"><button class="button">Nous contacter</button></a>
@@ -42,7 +42,7 @@
 			</ul>
 		</div>
 		<div class="offres_particuliers">
-			<i class="fa fa-search fa-3x">  A consulter</i>
+			<i class="fa fa-search fa-2x">  Nos offres</i>
 			<div class="texte_offres">
 				<a href="offres_pdf/offres.pdf"><h4>A consulter</h4></a>
 				<ul>
@@ -103,7 +103,7 @@
 								<li>Les différents types de contrats.</li>
 								<li>Les aides à l’embauche.</li>
 								<li>La définition du poste proposé.</li>
-								<li>La liste de diffusion des offres.</li>
+								<li>La diffusion des offres.</li>
 								<li>Une mise en relation avec des candidats.</li>
 								<li>Une aide à la sélection et au suivi de l’intégration de la personne recrutée.</li>
 								<li>Un accompagnement spécifique pour les formalités liées à votre première embauche.</li>
