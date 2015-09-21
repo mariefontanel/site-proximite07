@@ -159,6 +159,10 @@ a:hover {
 	width: 84%;
 }	
 
+.form_itineraire{
+	margin-left: 3%;
+}
+
 .intitule_coordonnees{
 	text-decoration: underline;
 
