@@ -135,7 +135,7 @@ a:hover {
 	display:flex;
 	flex-direction:row;
 	margin-top: 15%;
-  margin-bottom: 0;
+  margin-bottom: 156px;
 }
 
 .texte_equipe{
@@ -160,7 +160,7 @@ a:hover {
 	margin-top: 10%;
 	width: 100%;
 	justify-content: space-between;
-	margin-bottom:5%;
+	margin-bottom:7%;
 }
 
 .texte_lieux{
@@ -171,6 +171,7 @@ a:hover {
 }
 .itineraire{
 	margin-top:50%;
+	margin-right: 5%;
 }
 
 .stagreve{
@@ -186,10 +187,6 @@ a:hover {
 	width: 84%;
 }	
 
-.itineraire{
-
-
-}
 /*FORMULAIRE DE CONTACT*/
 .titre_form{
 	text-align: center;
@@ -205,18 +202,17 @@ a:hover {
 
 .champ_form{
 	margin-left:30%;
-	line-height: 2.5em;
+	line-height: 1.5em;
 	width: 14%;
+	padding:2%;
 }
 
-#nom{
-	margin-left:2%;
-}
+
 
 .envoyer{
 	text-align: center;
-	margin-right: 17%;
-	padding: 3%;
+	margin-right: 14%;
+	padding: 2%;
 }
 
 

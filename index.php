@@ -47,6 +47,7 @@
 				</ul>
 		</div>
 		<div class="offres_particuliers">
+<<<<<<< HEAD
 			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez l'ensemble de nos offres </a>:</h4>
 			<a href="offres_pdf/offres.pdf" target="_blank"></a>
 				<ul>
@@ -55,6 +56,12 @@
 					<li>offres de locaux professionnels</li>
 				</ul>
 			
+=======
+			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez nos offres du moment </a>: emplois - bourse d'opportunités - local professionnel</h4>
+			<a href="offres_pdf/offres.pdf" target="_blank"><img src="images/offres.png" class="img_offres"></a>
+			<div class="texte_offres">
+			</div>
+>>>>>>> 0550d3a18b0a7ae9d5c8a0d77be2e2db71bf472c
 		</div>
 	</div>
 		
