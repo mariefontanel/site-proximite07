@@ -17,7 +17,11 @@
 			</ul>
 		<h4>Pour nous joindre, un seul N° 04 75 30 50 82 </h4>
 	</div>
-	
+	<form name="iti" action="#">  
+		<p>Vous partez de : <input type="text" name="depart" />  
+		<input type="hidden" name="arrivee" value=""/>  
+		<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
+	</form>
 </div>	
 
 <?php include("_footer.php"); ?>
