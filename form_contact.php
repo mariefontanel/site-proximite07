@@ -1,4 +1,3 @@
-<body>
 	<?php include("_header.php"); ?>
 		<div class="formulaire_contact">
 			<h3 class="titre_form">Formulaire de contact</h3>
@@ -23,11 +22,10 @@
 					<label for="message">Message :</label>
 					<textarea id="message"></textarea>
 				</div>
-				<div class="button">
+				<div class="envoyer">
 		       		<button type="submit">Envoyer votre message</button>
 		    	</div>
 			</form>
 		</div>
 	<?php include("_footer.php"); ?>
-</body>
 
