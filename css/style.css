@@ -212,6 +212,7 @@ a:hover {
 #nom{
 	margin-left:2%;
 }
+
 .envoyer{
 	text-align: center;
 	margin-right: 17%;
@@ -349,7 +350,7 @@ a:hover {
 .offres_particuliers{
 	height: 30%;
 	width:25%;
-	margin-top: 2%;
+	margin-top: 20%;
 	margin-left:10%;
 	margin-right: 15%;
 	margin-bottom: 2%;
@@ -357,13 +358,13 @@ a:hover {
 
 }
 
-.texte_offres{
+/*.texte_offres{
 	margin-top: 0;
 	padding: 20%;
 	margin-right: auto;
 	display:block;
-	text-align: center;
-}
+}*/
+
 .offres-particuliers h4{
 	margin-top: 0;
 	text-align: center;
