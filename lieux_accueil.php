@@ -21,12 +21,6 @@
 	<p>Vous partez de : <input type="text" name="depart" />  
 	<input type="hidden" name="arrivee" value="Site de Proximité des Boutières, Le Pont, 07310 Saint-Martin-de-Valamas"/>  
 	<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
-<!-- =======
-	<form name="iti" action="#">  
-		<p>Vous partez de : <input type="text" name="depart" />  
-		<input type="hidden" name="arrivee" value=""/>  
-		<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
->>>>>>> 8d15d223e6298533415314ab94eed1d018c17d99 -->
 	</form>
 </div>	
 
