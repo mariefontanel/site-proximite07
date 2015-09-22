@@ -21,7 +21,7 @@
 			</div>
 			<div class="menu_haut">
 				<ul>
-			        <a href="index.php"><i class="fa fa-home fa-2x"></i></a>
+			       <a href="index.php"><i class="fa fa-home fa-2x"></i></a>
 				     <a href="presentation.php"><li>Qui sommes-nous ? |</li></a>
 				     <a href="equipe.php"><li>Notre équipe |</li></a>
 				     <a href="lieux_accueil.php"><li>Nos lieux d'accueil |</li></a>
