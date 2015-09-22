@@ -29,37 +29,75 @@ body{
  	font-size:1.1em;
  	color:#333;
  	overflow-x: hidden;
-  	/*background-color:F7F4F1;*/
-	/*background-color:#DADADA;*/
 	line-height: 1.5em;
+	float: left;
 	}
-
-
 
 h3{
 	color:#25AFBA;
-
-}
-
-.bloc_logo{
-
-}
-
-.logo_site{
-	width: 20%;
-	margin-left: 2%;
-	margin-top: 2%;
-	vertical-align: text-top;
 }
 
 /*HEADER*/
 
+.menu_haut {
+	padding: 1%;
+	float: right;
+	display: block;
+	margin-right: 3%;
+}
+
+
+ .menu_haut a{
+ 	font-size: 0.7em;
+ }
+
+ .menu_haut a li {
+ 	display: inline-block;
+ }
+header {
+	display: block;
+	float: left;
+	width: 100%;
+}
+
+.header {
+	display: flex;
+	position: relative;
+	float: left;
+	width: 100%;
+	flex-direction: row;
+}
+
+.header-left {
+	display: block;
+	float: left;
+	width: 25%;
+}
+
+.header-left a img{
+	padding: 5% 10%;
+}
+
+.header-right {
+	display: block;
+	float: left;
+	width: 75%;
+}
+
+.bloc_accroche {
+	display: block;
+	float: left;
+	width: 100%;
+  color:#25AFBA;
+  font-family: 'Roboto-Italic';
+  margin-left: 7%;
+}
+
+
 	
 a{
-	/*text-decoration: none;*/
 	list-style-type: none;
 	width: 60%;
-	/*text-align: center;*/
 	justify-content:space-between;
 	align-content:space-around;
 	color:#25AFBA;
@@ -68,18 +106,13 @@ a{
 a:hover { 
    color:#E44772;
 }
+
 .home{
 	margin-left: 92%;
 	margin-top:-8%;
 	
 }
 
-.bloc_accroche {
-  margin-left: 32%;
-  margin-top: -8%;
-  color:#25AFBA;
-  font-family: 'Roboto-Italic';
-}
 
 
 /*QUI SOMMES-NOUS ?*/
@@ -102,7 +135,7 @@ a:hover {
 	display:flex;
 	flex-direction:row;
 	margin-top: 15%;
-  margin-bottom: 0;
+  margin-bottom: 156px;
 }
 
 .texte_equipe{
@@ -118,18 +151,16 @@ a:hover {
 	text-align: center;
 	
 }
-.eolienne{
-	width: 50%;
-}
+
 /*PAGE LIEUX ACCUEIL*/
 .bloc_lieux{
 	display: flex;
 	flex-direction: row;
 	margin-left: 3%;
-	margin-top: 15%;
+	margin-top: 10%;
 	width: 100%;
 	justify-content: space-between;
-	margin-bottom:5%;
+	margin-bottom:7%;
 }
 
 .texte_lieux{
@@ -138,26 +169,24 @@ a:hover {
   margin-left: 0%;
   margin-bottom: 12%;
 }
+.itineraire{
+	margin-top:50%;
+	margin-right: 5%;
+}
 
 .stagreve{
 	width: 57%;
 
 }
 
-.stmartin{
+.stmartin, .cheylard, .lamastre{
 	width: 40 %;
 }
 
-.cheylard{
-	width: 40 %;
-}
-
-.lamastre{
-	width: 40 %;
-}
 .ollieres{
 	width: 84%;
 }	
+
 
 .form_itineraire{
 	margin-left: 3%;
@@ -175,25 +204,25 @@ a:hover {
 }
 
 .formulaire_contact{
-  color:grey;
   margin-left: 3%;
   width: 50%;
-  height: 50%;
-  margin-top: 12%;
+  margin-top: 7%;
   
   }
 
 .champ_form{
 	margin-left:30%;
-	line-height: 2.5em;
-  width: 14%;
-  padding:1%;
+	line-height: 1.5em;
+	width: 14%;
+	padding:2%;
 }
-#nom{
-	margin-left:2%;
-}
-.button{
+
+
+
+.envoyer{
 	text-align: center;
+	margin-right: 14%;
+	padding: 2%;
 }
 
 
@@ -266,9 +295,8 @@ a:hover {
   height: 50%;
   margin-right: 5%;
   margin-bottom: 5%;
-  
   padding: 2%;
-  border-bottom: 1px solid #8DD5DB;
+ 
  }
 
 .button, .button:visited {
@@ -283,10 +311,10 @@ a:hover {
 	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.6);
 	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
 	border-bottom: 1px solid rgba(0,0,0,0.25);
-	/*position: relative;*/
 	cursor: pointer;
 	margin:auto;
 }
+
 .button a{
 	text-decoration:none;
 }
@@ -316,7 +344,6 @@ a:hover {
 }
 
 .bloc_gauche {
-	border-bottom: 1px solid #8DD5DB;
   margin-right: 2%;
   width: 42%;
   padding: 2%;
@@ -329,7 +356,7 @@ a:hover {
 .offres_particuliers{
 	height: 30%;
 	width:25%;
-	margin-top: 2%;
+	margin-top: 20%;
 	margin-left:10%;
 	margin-right: 15%;
 	margin-bottom: 2%;
@@ -337,13 +364,13 @@ a:hover {
 
 }
 
-.texte_offres{
+/*.texte_offres{
 	margin-top: 0;
 	padding: 20%;
 	margin-right: auto;
 	display:block;
-	text-align: center;
-}
+}*/
+
 .offres-particuliers h4{
 	margin-top: 0;
 	text-align: center;
@@ -383,7 +410,6 @@ a:hover {
 
 }	
 
-
 .reunion{
 	margin:auto;
 	display: block;
@@ -391,13 +417,11 @@ a:hover {
 	height: 94%
  }
 
-
-
 .texte_creation {
   width: 40%;
   margin-right: 3%;
  padding-left:2%;
-border-bottom: 1px solid #8DD5DB9;
+	border-top: 1px solid #CCCCC5;
 }
 
 /*ENTREPRISES*/
@@ -447,7 +471,6 @@ border-bottom: 1px solid #8DD5DB9;
   padding: 2%;
   height: 89%;
   margin-right: 3%;
-  border-bottom: 1px solid #8DD5DB;
  }
 
 
@@ -478,8 +501,6 @@ border-bottom: 1px solid #8DD5DB9;
  
  
  }
-
-
 
 
 /*TERRITOIRES ET ACTEURS*/
@@ -524,6 +545,10 @@ border-bottom: 1px solid #8DD5DB9;
 	margin:auto;
 }
 
+.lien_financeurs{
+
+}
+
 .img_leader{
 	width: 10%;
 	height: 10%;
@@ -562,8 +587,11 @@ footer{
 	padding-top: 1%;
 }
 
+.intitule_coordonnees{
+	text-decoration: underline;
+}
 
-/*MENU SECONDAIRE*/
+/*MENU DU FOOTER*/
 
 
 .nav{
@@ -571,8 +599,8 @@ footer{
 	padding-bottom: 2%;
 	display:flex;
 	flex-direction:row;
-  margin-left: 3%;
-  margin-right: 3%;
+  	margin-left: 3%;
+ 	margin-right: 3%;
 }
 
 
@@ -591,48 +619,14 @@ footer{
   	color:#E44772;
  }
 
-/*.menu_haut {
-	/*/*/*/*/*/*/*/*/*width: 40%;
-	line-height: 1.5em;	
-	background-color: yellow;
- 	/*margin-top: 2%;*/
- 	/*margin-left:60%;
- 	display:flex;
-	justify-content:space-between;
-	align-content:space-around;
- }*/
-/*header*/
-
-.menu_haut {
-	width: 100%;
-	height: 20%;
-	text-align: center;
-	margin-left: 35%;
-	margin-top: -12%;
-	padding: 1%;
-	background-color: yellow;
-}
-
-
-
- .menu_haut a{
- 	font-size: 0.7em;
- }
-
- .menu_haut ul li{
- 	display: inline-block;
- 	
- }
-
-/*fin header*/
 .coordonnees{
   width: 45%;
   line-height: 0.8em;
- }
+}
 
 /*TEXTES LIENS FOOTER*/
 .texte_infos_legales{
-	margin-top: 12%;
+	margin-top: 10%;
 	margin-left: 3%;
 	line-height: 0.5em;
 	margin-right: 3%;
