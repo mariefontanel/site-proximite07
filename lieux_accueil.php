@@ -16,7 +16,7 @@
 				<li><div class="ollieres">Aux Ollières(07360) : Antenne de la Communauté d’agglo Privas centre Ardèche, le Tissage</div></li>
 			</ul>
 	</div>
-	<img src="images/cartecouleur.svg" class="carte_couleur">
+	<!-- <img src="images/cartecouleur.svg" class="carte_couleur"> -->
 	<form name="iti" action="#" class="form_itineraire">  
 	Calculer votre itinéraire pour nous rencontrer :
 	<p>Vous partez de : <input type="text" name="depart" />  
