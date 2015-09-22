@@ -48,11 +48,6 @@
 			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez nos offres du moment </a>: emplois - bourse d'opportunités - local professionnel</h4>
 			<a href="offres_pdf/offres.pdf" target="_blank"><img src="images/offres.png" class="img_offres"></a>
 			<div class="texte_offres">
-										<!-- 	<ul>
-					<li>offres d'emplois</li>
-					<li>Bourse d'opportunités</li>
-					<li>offres de locaux professionnels</li>
-				</ul> -->
 			</div>
 		</div>
 	</div>
