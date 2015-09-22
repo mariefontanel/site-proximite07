@@ -1,25 +1,26 @@
 <?php include("_header.php"); ?>
 
-		<div class="bloc_img_bureau">
-	<!-- <div class="eolienne"><img src="images/eolienne2.jpg"></div> -->
+	<div class="bloc_img_bureau">
 			
-		</div>
-	    <article class="bloc_icones">
-		<a href="#bloc_particuliers"><img src="images/particulierbleuplein.svg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
-		</a>
-		<a href="#bloc_entreprises"><img src="images/entreprisebleuplein.svg" class="icone_entreprises"><div class="titre_bloc_icone">Entreprises</div>
-		</a> 
-		<a href="#bloc_associations"><img src="images/associationbleuplein.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div>
-		</a>
-		<a href="#bloc_collectivites"><img src="images/collectivitebleuplein.svg" class="icone_collectivites"><div class="titre_bloc_icone">Collectivités</div>
-		</a>
-		<a href="#bloc_territoires"><img src="images/territoirebleuplein.svg" class="icone_territoires"><div class="titre_bloc_icone">Territoire et acteurs</div>
-		</a>
+	</div>
+	<article class="bloc_icones">
+			<a href="#bloc_particuliers"><img src="images/particulierbleuplein.svg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
+			</a>
+			<a href="#bloc_entreprises"><img src="images/entreprisebleuplein.svg" class="icone_entreprises"><div class="titre_bloc_icone">Entreprises</div>
+			</a> 
+			<a href="#bloc_associations"><img src="images/associationbleuplein.svg" class="icone_associations"><div class="titre_bloc_icone">Associations</div>
+			</a>
+			<a href="#bloc_collectivites"><img src="images/collectivitebleuplein.svg" class="icone_collectivites"><div class="titre_bloc_icone">Collectivités</div>
+			</a>
+			<a href="#bloc_territoires"><img src="images/territoirebleuplein.svg" class="icone_territoires"><div class="titre_bloc_icone">Territoire et acteurs</div>
+			</a>
 	</article>
 
 	<div class="bloc_presentation">
 		<div class"map">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1442650017251" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>		</div>
+		carte
+<!-- 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1442650017251" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ -->		</div>
 		<div class="introduction">
 			<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
 				<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
@@ -47,7 +48,7 @@
 				</ul>
 		</div>
 		<div class="offres_particuliers">
-<<<<<<< HEAD
+
 			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez l'ensemble de nos offres </a>:</h4>
 			<a href="offres_pdf/offres.pdf" target="_blank"></a>
 				<ul>
@@ -56,12 +57,6 @@
 					<li>offres de locaux professionnels</li>
 				</ul>
 			
-=======
-			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez nos offres du moment </a>: emplois - bourse d'opportunités - local professionnel</h4>
-			<a href="offres_pdf/offres.pdf" target="_blank"><img src="images/offres.png" class="img_offres"></a>
-			<div class="texte_offres">
-			</div>
->>>>>>> 0550d3a18b0a7ae9d5c8a0d77be2e2db71bf472c
 		</div>
 	</div>
 		

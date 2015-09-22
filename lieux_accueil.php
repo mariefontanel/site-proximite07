@@ -16,17 +16,13 @@
 				<li><div class="ollieres">Aux Ollières(07360) : Antenne de la Communauté d’agglo Privas centre Ardèche, le Tissage</div></li>
 			</ul>
 	</div>
-	<form name="iti" action="#" class="itineraire">  
-	Calculez votre itinéraire pour nous rencontrer
+	<img src="images/cartecouleur.svg" class="carte_couleur">
+	<form name="iti" action="#" class="form_itineraire">  
+	Calculer votre itinéraire pour nous rencontrer :
 	<p>Vous partez de : <input type="text" name="depart" />  
 	<input type="hidden" name="arrivee" value="Site de Proximité des Boutières, Le Pont, 07310 Saint-Martin-de-Valamas"/>  
 	<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
 	</form>
+	
 </div>	
-<form name="iti" action="#" class="form_itineraire">  
-Calculer votre itinéraire
-<p>Vous partez de : <input type="text" name="depart" />  
-<input type="hidden" name="arrivee" value="Site de Proximité des Boutières, Le Pont, 07310 Saint-Martin-de-Valamas"/>  
-<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
-</form>
 <?php include("_footer.php"); ?>

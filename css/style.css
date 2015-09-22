@@ -135,13 +135,13 @@ a:hover {
 	display:flex;
 	flex-direction:row;
 	margin-top: 15%;
-  margin-bottom: 156px;
+    margin-bottom: 156px;
 }
 
 .texte_equipe{
-  width: 40%;
-  margin-left: 3%;
-  margin-right: 2%;
+	width: 40%;
+	margin-left: 3%;
+	margin-right: 2%;
 
 }
 
@@ -192,6 +192,13 @@ a:hover {
 	margin-left: 3%;
 }
 
+
+.carte_couleur{
+	width:90%;
+	margin:auto;
+	display: block;
+}
+
 .intitule_coordonnees{
 	text-decoration: underline;
 
@@ -205,9 +212,9 @@ a:hover {
 
 .formulaire_contact{
   margin-left: 3%;
-  width: 50%;
-  margin-top: 7%;
-  
+  width: 94%;
+  margin-top: 15%;
+  background-color: #DBDBDB;
   }
 
 .champ_form{
