@@ -42,7 +42,9 @@
 						<li>Vous mettre en relation avec les offres d’emploi locales.</li>
 					</ul>
 			<h4>Vous avez entre 16 et 26 ans :</h4>
-				<li>Sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://missionlocalenordardeche.com"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans votre insertion sociale et professionnelle.</li>
+				<ul>
+					<li>Sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://missionlocalenordardeche.com"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans votre insertion sociale et professionnelle.</li>
+				</ul>
 		</div>
 		<div class="offres_particuliers">
 			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez nos offres du moment </a>: emplois - bourse d'opportunités - local professionnel</h4>
@@ -64,7 +66,7 @@
 						<li>Des « agendas pour comprendre » pour  explorer un secteur d’activités, un statut, repérer des potentiels de création,</li>
 						<li>Une orientation vers les partenaires de la création (Cci, Chambre de métiers, Chambre d’agriculture, Initiactive …) pour finaliser votre projet</li>
 					</ul>
-				<p>Le Site de proximité est labellisé porte d’entrée « Je crée en Rhône-Alpes » dispositif régional d’accompagnement à la création d’entreprises.</p>
+				<p>Le Site de proximité est labellisé porte d’entrée <a href="https://www.jecree-en-rhonealpes.fr/" target="_blank">« Je crée en Rhône-Alpes »</a> dispositif régional d’accompagnement à la création d’entreprises.</p>
 		</div>
 	</div>
 	
