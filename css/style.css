@@ -43,7 +43,7 @@ h3{
 	padding: 1%;
 	float: right;
 	display: block;
-	border-bottom:1px solid; 
+	margin-right: 3%;
 }
 
 
@@ -594,8 +594,8 @@ footer{
 	padding-bottom: 2%;
 	display:flex;
 	flex-direction:row;
-  margin-left: 3%;
-  margin-right: 3%;
+  	margin-left: 3%;
+ 	margin-right: 3%;
 }
 
 
