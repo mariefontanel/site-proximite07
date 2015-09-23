@@ -49,6 +49,7 @@ h3{
 
  .menu_haut a{
  	font-size: 0.7em;
+ 	text-decoration: underline;
  }
 
  .menu_haut a li {
