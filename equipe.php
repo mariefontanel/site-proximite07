@@ -3,10 +3,10 @@
 	<div class="texte_equipe">
 		<h3>Notre équipe</h3>
 		<ul>
-			<li>Jacqueline Dudal, responsable, chargée de la construction d’offres d’activités.</li>
-			<li>Nelle Bernanose, chargée de l'appui à la création d'activités.</li>
-			<li>Sandrine Imbert animatrice emploi formation et conseillère Mission locale, sur les secteurs de Saint-Martin-De-Valamas, Saint-Agrève, Les Ollières.</li>
-			<li>Sylvie Martin animatrice emploi formation, et conseillère Mission locale, sur les secteurs de Saint-Martin-De-Valamas, Saint-Agrève, Lamastre.</li>
+			<li><strong>Jacqueline Dudal</strong>, responsable, chargée de la construction d’offres d’activités.</li>
+			<li><strong>Nelle Bernanose</strong>, chargée de l'appui à la création d'activités.</li>
+			<li><strong>Sandrine Imbert</strong>, animatrice emploi formation et conseillère Mission locale, sur les secteurs de Saint-Martin-De-Valamas, Saint-Agrève, Les Ollières.</li>
+			<li><strong>Sylvie Martin</strong>, animatrice emploi formation, et conseillère Mission locale, sur les secteurs de Saint-Martin-De-Valamas, Saint-Agrève, Lamastre.</li>
 		</ul>
 
 	</div>

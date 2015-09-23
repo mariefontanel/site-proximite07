@@ -24,8 +24,8 @@
  -->		</div>
 		<div class="introduction">
 			<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
-				<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), financée par l’Europe, l’Etat, la Région et les intercommunalités. Ses services sont gratuits.</p>
-				<p>Il intervient sur les Communautés de communes du pays de Lamastre, Valeyrieux et sur une partie de la Communauté d’agglomération centre Ardèche.
+				<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>. Ses services sont gratuits.</p>
+				<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
 				<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 				<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 			<a href="form_contact.php"><button class="button">Nous contacter</button></a>
@@ -36,7 +36,7 @@
 		<div class="bloc_gauche" id="bloc_particuliers">
 			<h3>Particuliers</h3>
 			<h4>Vous êtes à la recherche d’un emploi ?</h4>
-				<p>En complémentatrité de pôle emploi, le Site de proximité vous propose un accompagnement individualisé pour :</p>
+				<p>En complémentatrité de pôle emploi, le Site de proximité vous propose un <strong>accompagnement individualisé</strong> pour :</p>
 					<ul>
 						<li>faire le point sur vos compétences ;</li>
 						<li>vous informer sur l’activité locale, les secteurs qui recrutent, les perspectives ;</li>
@@ -51,7 +51,6 @@
 		<div class="offres_particuliers">
 
 			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez l'ensemble de nos offres </a>:</h4>
-			<a href="offres_pdf/offres.pdf" target="_blank"></a>
 				<ul>
 					<li>offres d'emplois</li>
 					<li>Bourse d'opportunités</li>
@@ -65,7 +64,7 @@
 		<img src="images/reunion154ko.jpg" class="reunion">
 		<div class="texte_creation">
 			<h4>Vous souhaitez créer votre entreprise, une association ?</h4>
-				<p>Que vous ayez ou pas une idée d’activité, l’Atelier des projets est fait pour vous !</p>
+				<p>Que vous ayez ou pas une idée d’activité, l’<strong>Atelier des projets</strong> est fait pour vous !</p>
 				<p>L’atelier des projets vous propose</p>
 					<ul>
 						<li>Un accompagnement individualisé pour valider votre idée, vous apporter un appui méthodologique pour construire votre projet et le formaliser</li>
@@ -140,7 +139,7 @@
 						<li>Une orientation vers les structures spécialisées.</li>
 					</ul>
 			<h4>Vous voulez recruter ?</h4>
-				<p>Le Site de proximité vous propose un appui au recrutement<!-- , des infos sur : --></p>	
+				<p>Le Site de proximité vous propose un <strong>appui au recrutement</strong><!-- , des infos sur : --></p>	
 			<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
 		   + d'infos ...
 			</button>
