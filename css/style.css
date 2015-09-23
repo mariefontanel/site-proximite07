@@ -176,7 +176,6 @@ a:hover {
 
 .stagreve{
 	width: 57%;
-
 }
 
 .stmartin, .cheylard, .lamastre{
@@ -187,10 +186,9 @@ a:hover {
 	width: 84%;
 }	
 
-
 .form_itineraire{
 	margin-left: 3%;
-	width: 40%;
+	width: 80%;
 }
 .img_carte_couleur{
 	width: 40%;
@@ -457,15 +455,10 @@ a:hover {
 
 } 
 
-.img_entrep{
-	margin:auto;
-}
 .img_entreprise{
-  margin-right: 4%;
-  display: block;
-  padding: 6% 2% 2%;
-  width: 70%;
-  height: 70%;
+  width: 800px;
+	height: 500px;
+  margin-right: 5%;
 }
 
 .texte_entreprise{

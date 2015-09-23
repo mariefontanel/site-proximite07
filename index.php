@@ -121,9 +121,7 @@
 				  </div>
 				</div>
 		</div>
-		<div class="img_entrep">
-			<img src="images/local.jpg" class="img_entreprise">
-		</div>
+				<img src="images/P4230165.JPG" class="img_entreprise">
 	</div>	
 		
 	
