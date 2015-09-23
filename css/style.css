@@ -190,14 +190,17 @@ a:hover {
 
 .form_itineraire{
 	margin-left: 3%;
+	width: 40%;
+}
+.img_carte_couleur{
+	width: 40%;
+}
+.carte_lieux_accueil{
+	width: 40%;
+	margin-left:5%; 
+
 }
 
-
-.carte_couleur{
-	width:90%;
-	margin:auto;
-	display: block;
-}
 
 .intitule_coordonnees{
 	text-decoration: underline;
@@ -337,7 +340,8 @@ a:hover {
 	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
 	border-bottom: 1px solid rgba(0,0,0,0.25);
 	cursor: pointer;
-	margin:auto;
+	margin-top:18%;
+	margin-left: 68%;
 }
 
 .button a{
