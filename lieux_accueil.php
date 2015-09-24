@@ -18,13 +18,15 @@
 	</div>				
 
 	<!-- <div class="carte_lieux_accueil"><img src="images/cartecouleur.svg"class="img_carte_couleur"> -->
-<?php include ("cartecouleur.php"); ?>
 	<form name="iti" action="#" class="form_itineraire">  
-	<p>Calculer votre itinéraire pour nous rencontrer</p>
-	<p>Vous partez de : <input type="text" name="depart" />  
-	<input type="hidden" name="arrivee" value="Site de Proximité des Boutières, Le Pont, 07310 Saint-Martin-de-Valamas"/>  
-	<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
-	</form>
+	<div class="carte_territoire">
+		<?php include ("cartecouleur.php"); ?>
 	</div>
-</div>	
+		<p class="itineraire">Calculer votre itinéraire pour nous rencontrer</p>
+		<p>Vous partez de : <input type="text" name="depart" />  
+		<input type="hidden" name="arrivee" value="Site de Proximité des Boutières, Le Pont, 07310 Saint-Martin-de-Valamas"/>  
+		<input type="button" value="Rechercher" onclick="window.open('http://maps.google.fr/maps?f=d&hl=fr&saddr='+document.iti.depart.value+'&daddr='+document.iti.arrivee.value+'&ie=UTF8&z=12&om=1');" /></p>
+	</form>
+</div>
+	
 <?php include("_footer.php"); ?>

@@ -161,14 +161,13 @@ a:hover {
 }
 
 .texte_lieux{
-  width:45%;
+  width:50%;
   margin-top: 15%;
   margin-left: 0%;
   margin-bottom: 12%;
-}
+ }
 .itineraire{
-	margin-top:50%;
-	margin-right: 5%;
+	margin-top: 5%;
 }
 
 .stagreve{
@@ -176,7 +175,7 @@ a:hover {
 }
 
 .stmartin, .cheylard, .lamastre{
-	width: 40 %;
+	width: 40%;
 }
 
 .ollieres{
@@ -185,11 +184,18 @@ a:hover {
 
 .form_itineraire{
 	margin-left: 3%;
-	width: 80%;
+	width: 50%;
+	text-align:center;
 }
-.img_carte_couleur{
-	width: 40%;
+
+.carte_territoire{
+	width: 65%;
+	display:block;
+	margin: auto;
+	height: 50%;
+	margin-top: 5%;
 }
+
 .carte_lieux_accueil{
 	width: 40%;
 	margin-left:5%; 
