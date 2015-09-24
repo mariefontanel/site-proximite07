@@ -94,8 +94,6 @@ header {
   margin-left: 7%;
 }
 
-
-	
 a{
 	list-style-type: none;
 	width: 60%;
@@ -113,8 +111,6 @@ a:hover {
 	margin-top:-8%;
 	
 }
-
-
 
 /*QUI SOMMES-NOUS ?*/
 
@@ -476,7 +472,7 @@ a:hover {
 
 .texte_entreprise{
 	width: 60%;
-	padding: 2%;
+/*	padding: 2%;*/
 	height: 50%;
 	margin-left: 3%;
 }
