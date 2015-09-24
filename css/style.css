@@ -14,7 +14,6 @@
 	font-style: normal;
 }
 
-
 html{
 	width: 100%;
 }
@@ -31,7 +30,7 @@ body{
  	overflow-x: hidden;
 	line-height: 1.5em;
 	float: left;
-	}
+}
 
 h3{
 	color:#25AFBA;
@@ -46,7 +45,6 @@ h3{
 	margin-right: 3%;
 }
 
-
  .menu_haut a{
  	font-size: 0.7em;
  	text-decoration: underline;
@@ -55,6 +53,7 @@ h3{
  .menu_haut a li {
  	display: inline-block;
  }
+
 header {
 	display: block;
 	float: left;
@@ -109,7 +108,6 @@ a:hover {
 .home{
 	margin-left: 92%;
 	margin-top:-8%;
-	
 }
 
 /*QUI SOMMES-NOUS ?*/
@@ -123,30 +121,24 @@ a:hover {
 	width:50%;
 }
 
-.texte_asso{
-}
-
-
 /*EQUIPE*/
 .bloc_img_equipe{
 	display:flex;
 	flex-direction:row;
 	margin-top: 15%;
-    margin-bottom: 156px;
+  margin-bottom: 156px;
 }
 
 .texte_equipe{
 	width: 40%;
 	margin-left: 3%;
 	margin-right: 2%;
-
 }
 
 .img_equipe{
 	width: 50%;
 	margin:auto;
 	text-align: center;
-	
 }
 
 /*PAGE LIEUX ACCUEIL*/
@@ -160,12 +152,6 @@ a:hover {
 	margin-bottom:7%;
 }
 
-.texte_lieux{
-  width:50%;
-  margin-top: 15%;
-  margin-left: 0%;
-  margin-bottom: 12%;
- }
 .itineraire{
 	margin-top: 5%;
 }
@@ -199,13 +185,11 @@ a:hover {
 .carte_lieux_accueil{
 	width: 40%;
 	margin-left:5%; 
-
 }
 
 
 .intitule_coordonnees{
 	text-decoration: underline;
-
 }
 
 /*FORMULAIRE DE CONTACT*/
@@ -228,14 +212,11 @@ a:hover {
 	padding:2%;
 }
 
-
-
 .envoyer{
 	text-align: center;
 	margin-right: 14%;
 	padding: 2%;
 }
-
 
 /*ICONES PUBLICS CIBLES*/
 
@@ -266,24 +247,9 @@ a:hover {
 	align-content:space-around;
 	margin-top: 15%;
 	margin-left: 19%;
-	
- }
-
-.icone_particuliers{
-	
-	width: 60%;
-}
-.icone_entreprises{
-	width: 60%;
-}
-.icone_associations{
-	width: 60%;
-}
-.icone_collectivites{
-	width: 60%;
 }
 
-.icone_territoires{
+.icone_particuliers,.icone_entreprises,.icone_associations,.icone_collectivites,.icone_territoires{
 	width: 60%;
 }
 
@@ -323,7 +289,6 @@ a:hover {
   margin-right: 0%;
 }
 
-
 .introduction{
   width: 44%;
  /* height: 50%;*/
@@ -361,7 +326,6 @@ a:hover {
 
 .bloc_img_particuliers, .bloc_img_entreprises, .bloc_img_associations, .bloc_img_collectivites; .bloc_img_territoire{
 	padding-top: 2%;
-	
 }
 
 .bloc_img_particuliers{
@@ -387,23 +351,15 @@ a:hover {
   
 }
 
-
 .offres_particuliers{
-/*	height: 30%;*/
 	width:40%;
-	/*margin-top: 20%;
-	margin-left:20%;
-	margin-right: 15%;
-	margin-bottom: 3%;
-	padding: 1%;*/
-
 }
-
 
 .offres-particuliers h4{
 	margin-top: 0;
 	text-align: center;
 }
+
 .liste_offres{
 	margin-top: 5%;
 }
@@ -414,25 +370,25 @@ a:hover {
 	margin: auto;
 	margin-left: 25%;
 }
+
 .consult_offre{
 	width: 70%;
 }
+
 .offres{
 	color:black;
 	width:400px;
 	padding-top: 1%;
-		
 }
 
 .bourses{
 	color:red;
 	width:400px;
-	
 }
+
 .local_pro{
 	color:black;
 	width:400px;
-	
 }
 
 .bloc_creation{
@@ -442,8 +398,6 @@ a:hover {
 	justify-content: space-between;
 	height: 90%;
 	background-color: #f3f3f3;
-
-
 }	
 
 .reunion{
@@ -474,7 +428,6 @@ a:hover {
 	height: 500px;
 	margin-right: 3%;
 	margin-top: 1%;
-  
 }
 
 .texte_entreprise{
@@ -483,7 +436,6 @@ a:hover {
 	margin-left: 3%;
 }
 	
-
 /*ASSOCIATIONS*/
 .bloc_img_associations{
   width: 100%;
@@ -504,11 +456,9 @@ a:hover {
   margin-right: 3%;
  }
 
-
 .img_associations{
 	margin: auto;
 }
-
 
 /*COLLECTIVITES*/
 
@@ -529,10 +479,7 @@ a:hover {
   margin-left: 3%;
   width: 42%;
   padding: 2%;
- 
- 
- }
-
+}
 
 /*TERRITOIRES ET ACTEURS*/
 .bloc_img_territoire{
@@ -556,7 +503,6 @@ a:hover {
   width: 42%;
   padding: 2%;
   height: 50%;
- 
 }
 /*BANDEAU LOGOS FINANCEURS*/
 
@@ -583,7 +529,6 @@ a:hover {
 	display:flex;
 	justify-content:space-between;
 	padding-bottom: 2%;
-/*	align-items: flex-end;*/
 }
 	
 .bloc_logo_financeurs{
@@ -595,11 +540,8 @@ a:hover {
 	align-items:flex-start;
 }
 
-
-
 .logo_financeurs{
 	width: 10%;
-	/*margin:auto;*/
 	margin-top: 4%;
 	margin-right: 3%;
 	margin-bottom: 3%;
@@ -612,7 +554,6 @@ a:hover {
 .lien_financeurs img{
 	width: 60%;
 }
-
 
 .lien_financeurs img.logo_region{
 	width: 80%;
@@ -633,13 +574,6 @@ a:hover {
 	width: 78%;
 	height: 60%;
 }
-
-/*.logo_leader{
-	width: 10%;
-	height: 10%;
-	display: block;
-	padding-top: 2%;
-}*/
 
 /*FOOTER*/
 footer{
@@ -662,7 +596,6 @@ footer{
 
 /*MENU DU FOOTER*/
 
-
 .nav{
 	width:94%;
 	padding-bottom: 2%;
@@ -672,13 +605,13 @@ footer{
  	margin-right: 3%;
 }
 
-
 .menu {
 	width: 45%;
 	display:flex;
 	flex-direction:column;
 	line-height: 1.5em;	
  }
+
  .menu a,  .coordonnees a{
  	color:white;
  		
