@@ -17,8 +17,8 @@
 			</ul>
 	</div>				
 
-	<div class="carte_lieux_accueil"><img src="images/cartecouleur.svg"class="img_carte_couleur">
-<!-- 	<?php include ("_carte_couleur.php"); ?> -->
+	<!-- <div class="carte_lieux_accueil"><img src="images/cartecouleur.svg"class="img_carte_couleur"> -->
+<?php include ("cartecouleur.php"); ?>
 	<form name="iti" action="#" class="form_itineraire">  
 	<p>Calculer votre itinéraire pour nous rencontrer</p>
 	<p>Vous partez de : <input type="text" name="depart" />  
