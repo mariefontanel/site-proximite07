@@ -313,7 +313,12 @@ a:hover {
 	width: 25%;
 	float:right;
 	display: flex;
-	margin:auto;
+	border-left: 1px solid #CCCCC5;
+	border-bottom: 1px solid #CCCCC5;
+	margin-bottom: auto;
+  margin-left: auto;
+  margin-top: 2%;
+  margin-right: 0%;
 }
 
 
@@ -382,13 +387,13 @@ a:hover {
 
 
 .offres_particuliers{
-	height: 30%;
-	width:25%;
-	margin-top: 20%;
-	margin-left:10%;
+/*	height: 30%;*/
+	width:40%;
+	/*margin-top: 20%;
+	margin-left:20%;
 	margin-right: 15%;
-	margin-bottom: 2%;
-	padding: 1%;
+	margin-bottom: 3%;
+	padding: 1%;*/
 
 }
 
@@ -397,12 +402,19 @@ a:hover {
 	margin-top: 0;
 	text-align: center;
 }
-
-.img_offres{
-	display:block;
-	margin:auto;
+.liste_offres{
+	margin-top: 5%;
 }
 
+.img_offre{
+	margin-top: 5%;
+	width: 25%;
+	margin: auto;
+	margin-left: 25%;
+}
+.consult_offre{
+	width: 70%;
+}
 .offres{
 	color:black;
 	width:400px;
