@@ -50,13 +50,16 @@
 		</div>
 		<div class="offres_particuliers">
 
-			<a href="offres_pdf/offres.pdf" target="_blank"><h4>Consultez l'ensemble de nos offres </a>:</h4>
-				<ul>
-					<li>offres d'emplois</li>
+			<h3>Les offres disponibles</h3>	
+				<ul class="liste_offres">
+					<li>Offres d'emplois</li>
 					<li>Bourse d'opportunités</li>
-					<li>offres de locaux professionnels</li>
+					<li>Offres de locaux professionnels</li>
 				</ul>
-			
+			<div class="consult_offre">
+				<a href="offres_pdf/offres.pdf" target="_blank"><h4>A consulter</a></h4>
+				<img src="images/img_offre.png"class="img_offre">
+			</div>
 		</div>
 	</div>
 		
