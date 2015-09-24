@@ -32,8 +32,8 @@
 		</div>
 	</div>
 
-	<div class="bloc_img_particuliers">
-		<div class="bloc_gauche" id="bloc_particuliers">
+	<div class="bloc_img_particuliers" id="bloc_particuliers">
+		<div class="bloc_gauche" >
 			<h3>Particuliers</h3>
 			<h4>Vous êtes à la recherche d’un emploi ?</h4>
 				<p>En complémentatrité de pôle emploi, le Site de proximité vous propose un <strong>accompagnement individualisé</strong> pour :</p>
@@ -79,8 +79,8 @@
 		</div>
 	</div>
 	
-	<div class="bloc_img_entreprises">
-		<div class="texte_entreprise" id="bloc_entreprises">
+	<div class="bloc_img_entreprises" id="bloc_entreprises">
+		<div class="texte_entreprise" >
 			<h3>Entreprises</h3>
 			<h4>Vous souhaitez développer ou diversifier votre activité ?</h4>
 				<p>Le Site de proximité vous propose :</p>
@@ -127,11 +127,11 @@
 	</div>	
 		
 	
-	<div class="bloc_img_associations">
+	<div class="bloc_img_associations" id="bloc_associations">
 		<div class="img_associations">
 			<img src="images/asso.jpg" class="img_asso">
 		</div>
-		<div class="texte_associations" id="bloc_associations">
+		<div class="texte_associations" >
 			<h3>Associations</h3>
 			<h4>Vous souhaitez développer un nouveau projet ? </h4>
 				<p>Le Site de proximité vous propose</p>
@@ -173,8 +173,8 @@
 		</div>
 </div>	
 	
-	<div class="bloc_img_collectivites">
-		<div  class="texte_collectivite" id="bloc_collectivites">
+	<div class="bloc_img_collectivites" id="bloc_collectivites">
+		<div  class="texte_collectivite" >
 			<h3>Collectivités</h3>
 			<h4>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h4>
 				<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
@@ -209,11 +209,11 @@
 		</div>
 	</div>
 	
-	<div class="bloc_img_territoire">
+	<div class="bloc_img_territoire" id="bloc_territoires">
 		<div class="img_territoire">
 			<img src="images/territoires-petit.jpg">
 		</div>
-		<div class="bloc_texte_territoire" id="bloc_territoires">
+		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
 			<h4> blabla </h4>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
