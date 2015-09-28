@@ -90,14 +90,14 @@
 						<li>Une orientation vers les structures spécialisées pour un appui technique, un financement…</li>
 					</ul>
 			<h4>Vous voulez recruter ?</h4>	
-				<p>Le Site de proximité vous accompagne dans toutes les étapes de votre recrutement.<!-- vous propose un appui au recrutement, des infos sur --> </p>	
+				<p>Nous vous accompagnons dans toutes les étapes de votre recrutement.<!-- vous propose un appui au recrutement, des infos sur --> </p>	
 				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
 				  + d'infos ...
 				</button>
-							<h4>Vous recherchez des locaux ?</h4>
-							<p>Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
-							<h4>Vous projetez de transmettre votre entreprise ?</h4>
-							<p>Le Site de proximité vous accompagne dans la recherche de candidats repreneurs.</p>
+			<h4>Vous recherchez des locaux ?</h4>
+				<p>Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
+				<h4>Vous projetez de transmettre votre entreprise ?</h4>
+				<p>Nous vous accompagnons dans la recherche de candidats repreneurs.</p>
 
 				<!-- Button trigger modal -->
 
@@ -124,6 +124,7 @@
 				  </div>
 				</div>
 		</div>
+		<img src="images/entreprise163ko.jpg" class="img_entreprise">
 	</div>	
 		
 	
