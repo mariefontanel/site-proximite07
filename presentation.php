@@ -23,5 +23,7 @@
 			</ul>
 		<p>L’objectif de ce réseau est l’échange de pratiques entre les chargés de mission, la production d’outils et méthodes, la réflexion sur l’évolution des missions, des partenariats et des financements, la conduite de projets communs.</p>
 	</div>
+	
+	<img src="images/P4230165.JPG" class="img_bureau">
 </div>
 <?php include("_footer.php"); ?>

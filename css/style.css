@@ -118,7 +118,19 @@ a:hover {
 	margin-top:15%;
 	margin-left: 3%;
 	width:100%;
+	
+}
+
+.texte_asso{
 	width:50%;
+}
+
+.img_bureau{
+  	width: 565px;
+	height: 430px;
+	margin-right: 3%;
+	/*margin-top: 1%;*/
+	margin-left: 60%;
 }
 
 /*EQUIPE*/
@@ -126,7 +138,7 @@ a:hover {
 	display:flex;
 	flex-direction:row;
 	margin-top: 15%;
-  margin-bottom: 156px;
+  	margin-bottom: 156px;
 }
 
 .texte_equipe{
@@ -202,6 +214,7 @@ a:hover {
 
 /*FORMULAIRE DE CONTACT*/
 .titre_form{
+	padding-top: 3%;
 	text-align: center;
 	font-weight: 1%;
 }
@@ -213,6 +226,7 @@ a:hover {
   background-color: #DBDBDB;
   }
 
+
 .champ_form{
 	margin-left:30%;
 	line-height: 1.5em;
@@ -220,6 +234,9 @@ a:hover {
 	padding:2%;
 }
 
+#message{
+	width: 204%;
+}
 .envoyer{
 	text-align: center;
 	margin-right: 14%;
@@ -431,19 +448,20 @@ a:hover {
 	margin-top: 4%;
 } 
 
-.img_entreprise{
-  	width: 800px;
-	height: 500px;
-	margin-right: 3%;
-	margin-top: 1%;
-}
 
 .texte_entreprise{
 	width: 60%;
 	height: 50%;
 	margin-left: 3%;
 }
-	
+
+
+.img_entreprise{
+  	width: 800px;
+	height: 500px;
+	margin-right: 3%;
+	margin-top: 1%;
+}	
 /*ASSOCIATIONS*/
 .bloc_img_associations{
   width: 100%;

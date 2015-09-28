@@ -24,7 +24,8 @@
  -->		</div>
 		<div class="introduction">
 			<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
-				<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>. Ses services sont gratuits.</p>
+				<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>.</p>
+				<p>Ses services sont <strong>gratuits</strong>.</p>
 				<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
 				<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 				<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
@@ -36,14 +37,14 @@
 		<div class="bloc_gauche" >
 			<h3>Particuliers</h3>
 			<h4>Vous êtes à la recherche d’un emploi ?</h4>
-				<p>En complémentatrité de pôle emploi, le Site de proximité vous propose un <strong>accompagnement individualisé</strong> pour :</p>
+				<p>En complémentatrité de pôle emploi, le Site de proximité vous propose un <strong>accompagnement individualisé</strong></p>
 					<ul>
 						<li>faire le point sur vos compétences ;</li>
 						<li>vous informer sur l’activité locale, les secteurs qui recrutent, les perspectives ;</li>
 						<li>Vous outiller dans votre recherche d’emploi (CV, lettres de motivation, préparations d’entretien…) ;</li>
 						<li>Vous mettre en relation avec les offres d’emploi locales.</li>
 					</ul>
-			<h4>Vous avez entre 16 et 26 ans :</h4>
+			<h4>A ce titre, si vous avez entre 16 et 26 ans :</h4>
 				<ul>
 					<li>Sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://missionlocalenordardeche.com"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans votre insertion sociale et professionnelle.</li>
 				</ul>
@@ -123,7 +124,6 @@
 				  </div>
 				</div>
 		</div>
-				<img src="images/P4230165.JPG" class="img_entreprise">
 	</div>	
 		
 	
