@@ -124,7 +124,6 @@
 				  </div>
 				</div>
 		</div>
-				<img src="images/P4230165.JPG" class="img_entreprise">
 	</div>	
 		
 	
