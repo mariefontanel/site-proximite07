@@ -22,7 +22,7 @@
 	<header>
 			<div class="header">
 				<div class="header-left">
-					<a href="index.php"><img src="images/logo_boutieres2.svg"></a>
+					<a href="index.php"><img src="images/logo_site_boutieres2.svg"></a>
 				</div>
 				<div class="header-right">
 					<ul class="menu_haut">
