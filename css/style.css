@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Roboto-Italic';
-	src: url('../fonts/Roboto-Italic/Roboto-Italic.eot');
+	src: url('fonts/Roboto-Regular/Roboto-Italic/Roboto-Italic.eot');
 	src: local('☺'), url('../fonts/Roboto-Italic/Roboto-Italic.woff') format('woff'), url('../fonts/Roboto-Italic/Roboto-Italic.ttf') format('truetype'), url('../fonts/Roboto-Italic/gRoboto-Italic.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
@@ -14,6 +14,14 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url('../fonts/Roboto-Regular/Roboto-Regular.eot');
+	src: local('☺'), url('../fonts/Roboto-Regular.woff') format('woff'), url('../fonts/Roboto-Regular/Roboto-Regular.ttf') format('truetype'), url('../fonts/Roboto-Regular/Roboto-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal
+}
+
 html{
 	width: 100%;
 }
@@ -24,9 +32,9 @@ body{
 	height: 100%;
  	margin:0;
 	padding: 0;
- 	font-family: 'Roboto-Thin';
+ 	font-family: 'Roboto-thin';
  	font-size:1.1em;
- 	color:#333;
+ 	color:rgb(128,128,128);
  	overflow-x: hidden;
 	line-height: 1.5em;
 	float: left;
@@ -129,10 +137,22 @@ a:hover {
 .img_bureau{
   	width: 565px;
 	height: 430px;
-	margin-right: 3%;
-	/*margin-top: 1%;*/
-	margin-left: 60%;
+	margin-right: 2%;
+	margin-top: 5%;
+	margin-left: 5%;
+	display: block;
+
 }
+
+/*.bloc_img_bureau{
+	display: block;
+	width: 100%;
+}*/
+
+/*.img_bureau{
+	margin: auto;
+}*/
+
 
 /*EQUIPE*/
 .bloc_img_equipe{
@@ -189,7 +209,7 @@ a:hover {
 }	
 
 .form_itineraire{
-	margin-left: 3%;
+	margin-left: 2%;
 	width: 50%;
 	text-align:center;
 }
@@ -200,8 +220,7 @@ a:hover {
 	display:block;
 	margin: auto;
 	height: 55%;
-	margin-top: 2%;
-}
+	}
 
 .carte_lieux_accueil{
 	width: 40%;
@@ -245,16 +264,6 @@ a:hover {
 }
 
 /*ICONES PUBLICS CIBLES*/
-
-.bloc_img_bureau{
-	display: block;
-	width: 100%;
-}
-
-.img_bureau{
-	display: block;
-	margin: auto;
-}
 
 .bloc_icones a{
 	text-decoration: none;
@@ -519,19 +528,24 @@ a:hover {
 	background-color: #f3f3f3;
 }
 
-.img_territoire{
-    margin: auto;
+/*.img_territoire{
     display: block;
     width: 10%;
-    height: 94%;
+    margin-left: 3:;
+  }
+*/
+.bloc_img_territoire img{
+	margin-left: 4%;
+	width:70%;
 }
 
 .bloc_texte_territoire {
-  margin-right: 3%;
-  width: 30%;
-  padding: 2%;
-  height: 50%;
+	  margin-right: 3%;
+	  width: 30%;
+	  padding: 2%;
+	  height: 50%;
 }
+
 /*BANDEAU LOGOS FINANCEURS*/
 
 .bloc_titre_financeurs{

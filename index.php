@@ -1,8 +1,5 @@
 <?php include("_header.php"); ?>
 
-<div class="bloc_img_bureau">
-	
-</div>
 <article class="bloc_icones">
 	<a href="#bloc_particuliers"><img src="images/particulierbleuplein.svg" class="icone_particuliers"><div class="titre_bloc_icone">Particuliers</div>
 	</a>

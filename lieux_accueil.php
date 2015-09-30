@@ -19,9 +19,9 @@
 
 	<!-- <div class="carte_lieux_accueil"><img src="images/cartecouleur.svg"class="img_carte_couleur"> -->
 	<form name="iti" action="#" class="form_itineraire">  
-	<div class="carte_territoire">
-		<?php include ("cartecouleur.php"); ?>
-	</div>
+		<div class="carte_territoire">
+			<?php include ("cartecouleur.php"); ?>
+		</div>
 		<p class="itineraire">Calculer votre itinéraire pour nous rencontrer</p>
 		<p>Vous partez de : <input type="text" name="depart" />  
 		<input type="hidden" name="arrivee" value="Site de Proximité des Boutières, Le Pont, 07310 Saint-Martin-de-Valamas"/>  
