@@ -535,8 +535,9 @@ a:hover {
   }
 */
 .bloc_img_territoire img{
-	margin-left: 4%;
+	/*margin-left: 4%;*/
 	width:70%;
+	margin: auto;
 }
 
 .bloc_texte_territoire {
