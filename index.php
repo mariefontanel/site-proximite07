@@ -212,7 +212,7 @@
 	
 	<div class="bloc_img_territoire" id="bloc_territoires">
 		<div class="img_territoire">
-			<img src="images/territoires-petit.jpg">
+			<img src="images/eolienne.jpg">
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>

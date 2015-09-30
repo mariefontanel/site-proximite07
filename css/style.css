@@ -522,13 +522,13 @@ a:hover {
 .img_territoire{
     margin: auto;
     display: block;
-    width: 40%;
+    width: 10%;
     height: 94%;
 }
 
 .bloc_texte_territoire {
   margin-right: 3%;
-  width: 42%;
+  width: 30%;
   padding: 2%;
   height: 50%;
 }
