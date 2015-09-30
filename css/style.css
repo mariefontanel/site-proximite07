@@ -451,17 +451,18 @@ a:hover {
 
 
 .texte_entreprise{
-	width: 60%;
+	width: 50%;
 	height: 50%;
 	margin-left: 3%;
 }
 
 
 .img_entreprise{
-  	width: 800px;
+  	width: 750px;
 	height: 500px;
 	margin-right: 3%;
 	margin-top: 1%;
+	/*margin:auto;*/
 }	
 /*ASSOCIATIONS*/
 .bloc_img_associations{
