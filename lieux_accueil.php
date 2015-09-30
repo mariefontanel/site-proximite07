@@ -13,7 +13,7 @@
 						<li>Relais emploi, quartier de la Gare</li>
 						<li>Poleyrieux, zone d'Aric</li>
 					</ul>
-				<li><div class="ollieres"><strong>Les Ollières</strong>(07360) Antenne de la Communauté d’agglo Privas centre Ardèche, le Tissage</div></li>
+				<li><div class="ollieres"><strong>Les Ollières</strong> (07360) Antenne de la Communauté d’agglo Privas centre Ardèche, le Tissage</div></li>
 			</ul>
 	</div>				
 
