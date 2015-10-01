@@ -496,6 +496,12 @@ a:hover {
 	margin: auto;
 }
 
+.img_asso{
+	width: 50%;
+	margin: auto;
+	display:block;
+}
+
 /*COLLECTIVITES*/
 
 .bloc_img_collectivites{

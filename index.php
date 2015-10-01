@@ -127,7 +127,7 @@
 
 <div class="bloc_img_associations" id="bloc_associations">
 	<div class="img_associations">
-		<img src="images/asso.jpg" class="img_asso">
+		<img src="images/associationbleuplein.svg" class="img_asso">
 	</div>
 	<div class="texte_associations" >
 		<h3>Associations</h3>
