@@ -5,7 +5,7 @@
 		<h5>Publication</h5>
 			<p>Ce site web est publié par Le Site de proximité des boutières Quartier Le Pont 07310 SAINT MARTIN DE VALAMAS</p>
 		<h5>Directeur de la publication</h5>
-			<p>La publication de ce site web est dirigée par Mme Jacqueline DUDAL.</p>
+			<p>La publication de ce site web est dirigée par XXXXL.</p>
 		<h5>Hébergement site web</h5>
 			<p>Ce site web est hébergé par XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>		
 		<h5>Protection de la propriété intellectuelle</h5>
