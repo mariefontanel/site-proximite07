@@ -26,7 +26,24 @@
 	<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
 		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
-		<a href="form_contact.php"><button class="button">Nous contacter</button></a>
+		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal1" data-target="#myModal1">
+			+ d'infos ...
+		</button>
+		<!-- Modal -->
+		<div class="modal1 fade" id="myModal1" tabindex="-1" role="dialog1" aria-labelledby="myModal1Label">
+			<div class="modal-dialog1" role="document">
+				<div class="modal1-content">
+					<div class="modal1-header">
+						<button type="button" class="close" data-dismiss="modal1" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal1-title" id="myModal1Label"></h4>
+					</div>
+					<div class="modal1-body">
+					texte
+					</div>
+				</div>
+			</div>
+		</div>
+		<a href="mailto:site.proximite.boutieres@orange.fr"><button class="button">Nous contacter</button></a>
 	</div>
 </div>
 
