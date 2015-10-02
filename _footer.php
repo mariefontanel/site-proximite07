@@ -11,9 +11,7 @@
 			<img class="cddra"src="images/logo_cddra.jpg.svg">
 			<img class="pnr"src="images/logo_pnr.png">
 			<img class="pam"src="images/logo_pays_ardeche_meridionale.jpeg">
-
 		</div>	 
-		
 		<div class="coordonnees">
 			<p>Nos coordonnées</p>
 			<p>Quartier Le Pont,07310 St Martin de Valamas</p>
