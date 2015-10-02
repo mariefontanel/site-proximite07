@@ -691,4 +691,19 @@ footer{
 	line-height: 0.5em;
 	margin-right: 3%;
 }
-
+.logo_parten{
+	width: 50%;
+}
+.pnr{
+	width: 30%;
+}
+.pam{
+	width: 20%;
+}
+.cddra{
+	width: 20%;
+}
+.logos_partenaire{
+	display: flex;
+	flex-direction:row;
+}
