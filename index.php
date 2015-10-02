@@ -27,6 +27,8 @@
 		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 		<img src="images/sengage.svg" class="img_fse">
+		<p> cofinancé par le <a href="http://www.fse.gouv.fr/" target="_blanck">FSE</a></p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere sodales sollicitudin. Nulla faucibus velit vitae sagittis fringilla. Morbi eget sollicitudin tellus.</p>
 </div>
 </div>
 
