@@ -637,6 +637,8 @@ footer{
 	display: flex;
 	flex-direction:row;
 	align-items:flex-start;
+	background-color: yellow;
+	margin-right:5%;
 }
 
 .pnr{
@@ -652,6 +654,7 @@ footer{
 .cddra{
 	display:flex;
 	width: 30%;
+	background-color: red;
 }
 
 
