@@ -437,8 +437,7 @@ a:hover {
 	margin:auto;
 	display: block;
 	width: 40%;
-	height: 94%;
- }
+}
 
 .texte_creation {
  	width: 40%;
@@ -494,10 +493,20 @@ a:hover {
 .img_associations{
 	margin: auto;
 }
+/*<<<<<<< HEAD*/
 .img_asso{
 	width: 700px;
 	height: 500px;
 }
+/*=======
+
+.img_asso{
+	width: 50%;
+	margin: auto;
+	display:block;
+}
+
+>>>>>>> 8f05ff21986dcdbff114079362b0a179dd46e060*/
 /*COLLECTIVITES*/
 
 .bloc_img_collectivites{
@@ -535,15 +544,18 @@ a:hover {
     margin-left: 3:;
   }
 */
+
 .bloc_img_territoire img{
-	/*margin-left: 4%;*/
+	margin-left: 6%;
 	width:70%;
-	margin: auto;
+	/*margin: auto;*/
+	margin-top: 4%;
+	margin-bottom: 4%;
 }
 
 .bloc_texte_territoire {
 	  margin-right: 3%;
-	  width: 30%;
+	  width: 42%;
 	  padding: 2%;
 	  height: 50%;
 }

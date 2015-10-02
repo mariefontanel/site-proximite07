@@ -26,7 +26,24 @@
 	<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
 		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
 		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
-		<a href="form_contact.php"><button class="button">Nous contacter</button></a>
+		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal1" data-target="#myModal1">
+			+ d'infos ...
+		</button>
+		<!-- Modal -->
+		<div class="modal1 fade" id="myModal1" tabindex="-1" role="dialog1" aria-labelledby="myModal1Label">
+			<div class="modal-dialog1" role="document">
+				<div class="modal1-content">
+					<div class="modal1-header">
+						<button type="button" class="close" data-dismiss="modal1" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal1-title" id="myModal1Label"></h4>
+					</div>
+					<div class="modal1-body">
+					texte
+					</div>
+				</div>
+			</div>
+		</div>
+		<a href="mailto:site.proximite.boutieres@orange.fr"><button class="button">Nous contacter</button></a>
 	</div>
 </div>
 
@@ -127,7 +144,9 @@
 
 <div class="bloc_img_associations" id="bloc_associations">
 	<div class="img_associations">
+
 		<img src="images/post_it.JPG.svg" class="img_asso">
+
 	</div>
 	<div class="texte_associations" >
 		<h3>Associations</h3>
@@ -213,7 +232,7 @@
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
-			<h4> blabla </h4>
+			<h4> Sous-titre</h4>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
 		</div>
 	</div>

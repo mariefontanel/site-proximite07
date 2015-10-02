@@ -30,7 +30,7 @@
 					     <a href="presentation.php"><li>Qui sommes-nous ? |</li></a>
 					     <a href="equipe.php"><li>Notre équipe |</li></a>
 					     <a href="lieux_accueil.php"><li>Nos lieux d'accueil |</li></a>
-					     <a href="form_contact.php"><li>Nous contacter</li></a>
+					     <a href="mailto:site.proximite.boutieres@orange.fr"><li>Nous contacter</li></a>
 					</ul>
 					
 					<h2 class="bloc_accroche">Votre outil pour l'emploi et la création d'activités</h2>
