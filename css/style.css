@@ -194,6 +194,8 @@ a:hover {
 
 .itineraire{
 	margin-top: 5%;
+	font-size: 1.2em;
+	color:#25B5C2;
 }
 
 .stagreve{
@@ -209,23 +211,23 @@ a:hover {
 }	
 
 .form_itineraire{
-	margin-left: 2%;
-	width: 50%;
-	text-align:center;
+	margin-left: 3%;
+	width: 65%;
+	/*text-align:center;*/
 }
 
 
 .carte_territoire{
-	width: 100%;
+	width: 50%;
 	display:block;
 	margin: auto;
 	height: 55%;
 	}
 
-.carte_lieux_accueil{
+/*.carte_lieux_accueil{
 	width: 40%;
 	margin-left:5%; 
-}
+}*/
 
 
 .intitule_coordonnees{
