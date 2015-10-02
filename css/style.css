@@ -74,7 +74,7 @@ header {
 	width: 100%;
 	flex-direction: row;
 }
-
+_
 .header-left {
 	display: block;
 	float: left;
@@ -456,8 +456,9 @@ a:hover {
 }
 
 .img_asso{
-	width: 700px;
-	height: 500px;
+	width: 70%;
+	margin: auto;
+	display: block;
 }
 
 /*COLLECTIVITES*/
