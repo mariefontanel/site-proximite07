@@ -180,14 +180,13 @@ a:hover {
 	margin-top: 10%;
 	width: 100%;
 	justify-content: space-between;
-	/*margin-bottom:7%;
-*/}
+}
 
 .texte_lieux{
   width:50%;
   margin-top: 15%;
   margin-left: 0%;
- /* margin-bottom: 12%;*/
+
  }
 
 .itineraire{
@@ -692,3 +691,10 @@ footer{
 	margin-right: 3%;
 }
 
+
+.img_fse{
+	width:20%;
+	display:block;
+	margin:auto;
+	margin-top: 5%;
+}
