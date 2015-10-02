@@ -15,11 +15,7 @@
 	<title>Site de proximité des Boutières</title>
 </head>	
 <body>
-	<?php  if(isset($_SESSION['msg_confirmation'])){
-			echo $_SESSION['msg_confirmation'];
-		}
-	?>
-	<header>
+		<header>
 			<div class="header">
 				<div class="header-left">
 					<a href="index.php"><img src="images/logo_site_boutieres2.svg"></a>
