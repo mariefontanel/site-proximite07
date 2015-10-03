@@ -122,7 +122,12 @@
 			</div>
 		</div>
 	</div>
-	<img src="images/entreprise163ko.jpg" class="img_entreprise">
+	<div class="img_entreprise">
+		<img src="images/entreprise163ko.jpg" class="img_paysage">
+		<!-- <img src="images/cv1.jpg" class="img_cv"> -->
+	</div>
+	<div class="img_cv">
+	</div>
 </div>	
 
 

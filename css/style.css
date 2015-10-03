@@ -425,11 +425,22 @@ a:hover {
 	margin-left: 3%;
 }
 
+
 .img_entreprise{
+	margin-top:4%;
+	margin-right:3%;
+}
+
+.img_paysage{
  	width: 524px;
 	height: 386px;
-	margin-right: 3%;
+	/*margin-right: 3%;*/
+	margin-top: 5%;
 }	
+
+.img_cv{
+
+}
 
 /*ASSOCIATIONS*/
 .bloc_img_associations{
