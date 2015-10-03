@@ -13,6 +13,9 @@
 			<img class="pnr"src="images/logo_pnr.png">
 			<img class="pam"src="images/logo_pays_ardeche_meridionale.jpeg">
 		</div>	 
+		<div class="img_fb">
+			<a href="https://www.facebook.com/Site-de-proximit%C3%A9-des-Bouti%C3%A8res-763271550458823/info/?tab=page_info"><img src="images/facebook-icon.png"></a>
+		</div>
 		<div class="coordonnees">
 			<p>Nos coordonnées</p>
 			<p>Quartier Le Pont,07310 St Martin de Valamas</p>
