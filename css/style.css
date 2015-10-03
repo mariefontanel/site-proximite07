@@ -426,12 +426,12 @@ a:hover {
 }
 
 .img_entreprise{
- 	width: 750px;
-	height: 500px;
+ 	width: 524px;
+	height: 386px;
 	margin-right: 3%;
-	margin-top: 1%;
-
+	/*margin-top: 5%;*/
 }	
+
 /*ASSOCIATIONS*/
 .bloc_img_associations{
   width: 100%;
