@@ -317,9 +317,9 @@ a:hover {
 
 
 /*PARTCULIERS*/
-#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
+/*#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
 	margin-top: 5%;
-}
+}*/
 
 .bloc_img_particuliers, .bloc_img_entreprises, .bloc_img_associations, .bloc_img_collectivites; .bloc_img_territoire{
 	padding-top: 2%;
@@ -415,7 +415,7 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	margin-top: 4%;
+	/*margin-top: 4%;*/
 } 
 
 
@@ -429,7 +429,6 @@ a:hover {
  	width: 524px;
 	height: 386px;
 	margin-right: 3%;
-	/*margin-top: 5%;*/
 }	
 
 /*ASSOCIATIONS*/
@@ -467,7 +466,7 @@ a:hover {
   width: 100%;
   display: flex;
   justify-content:space-between;
-  margin-top:4%;
+  /*margin-top:4%;*/
  }
 
 .img_collectivites{
