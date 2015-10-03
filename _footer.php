@@ -1,6 +1,7 @@
 <footer>
 	<div class="nav">
 		<div class="menu">
+			<a href="index.php"><li>Accueil</li></a>
 			<a href="presentation.php"><li>Qui sommes-nous ?</li></a>
 			<a href="equipe.php"><li>Notre équipe</li></a>
 			<a href="lieux_accueil.php"><li>Nos lieux d'accueil</li></a>
