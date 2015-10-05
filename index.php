@@ -24,10 +24,14 @@
 	<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>.</p>
 	<p>Ses services sont <strong>gratuits</strong>.</p>
 	<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
-		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
-		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+	<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
+	<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+	<div class="logos_fse">
 		<img src="images/sengage.svg" class="img_fse">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere sodales sollicitudin. Nulla faucibus velit vitae sagittis fringilla. Morbi eget sollicitudin tellus.</p>
+		<img src="images/logo-FSE-europe.jpg">
+	</div>
+		<p>A l’aide du <strong>co-financement Fond Social Européen (FSE)</strong>, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.</p>
+Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
 </div>
 </div>
 
@@ -220,7 +224,8 @@
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
 			<h4> Sous-titre</h4>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+			<p>A l’aide du co-financement FSE, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.
+Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
 		</div>
 	</div>
 	<div class="bloc_titre_financeurs">

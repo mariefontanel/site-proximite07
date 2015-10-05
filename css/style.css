@@ -308,6 +308,11 @@ a:hover {
   padding: 2%;
 }
 
+.logo_fse{
+	display:flex;
+	flex-direction:row;
+}
+
 .img_fse{
 	width:20%;
 	display:block;
