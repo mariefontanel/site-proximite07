@@ -19,7 +19,7 @@
 		<img src="images/cartefrance2.0.svg" class="carte_france">
 <!-- 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1442650017251" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 -->		</div>
-<div class="introduction">
+	<div class="introduction">
 	<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
 	<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>.</p>
 	<p>Ses services sont <strong>gratuits</strong>.</p>
@@ -28,16 +28,11 @@
 	<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 	<div class="logos_fse">
 		<img src="images/sengage.svg" class="img_fse">
-<<<<<<< HEAD
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere sodales sollicitudin. Nulla faucibus velit vitae sagittis fringilla. Morbi eget sollicitudin tellus.</p>
-	</div>
-=======
 		<img src="images/logo-FSE-europe.jpg">
 	</div>
 		<p>A l’aide du <strong>co-financement Fond Social Européen (FSE)</strong>, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.</p>
 Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
-</div>
->>>>>>> 89f5f3d893d5feef03678ab2e6204749c3a1c0f7
+	</div>
 </div>
 
 <div class="bloc_img_particuliers" id="bloc_particuliers">
@@ -228,7 +223,6 @@ Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet 
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
-<<<<<<< HEAD
 				<h4> Pôle d’ingénierie locale, le Site de proximité :</h4>
 					<p>-Renforce les synergies locales par l’animation des partenariats</p>
 					<p>Il anime ainsi le réseau Emploi Formation Insertion dont les objectifs sont :</p>
@@ -242,11 +236,7 @@ Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet 
 							<li>appui à la mise en œuvre de la démarche de construction d’offres d’activités</li>
 							<li>animations d’actions, gestion d’équipement…</li>
 						</ul>	
-=======
-			<h4> Sous-titre</h4>
-			<p>A l’aide du co-financement FSE, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.
-Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
->>>>>>> 89f5f3d893d5feef03678ab2e6204749c3a1c0f7
+
 		</div>
 	</div>
 	<div class="bloc_titre_financeurs">
