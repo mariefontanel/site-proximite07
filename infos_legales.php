@@ -15,7 +15,7 @@
 			<p>Quartier Le Pont 07310 SAINT MARTIN DE VALAMAS</p>
 			<p>Tel 04 75 30 50 82</p>
 		<h5>Réalisation</h5>
-		<p> Sandrine LUQUET et Maud LUQUET-ROURE, dans le cadre de leur formation à <a href="http://www.simplonve.co" target="_blank">Simplon.ve</a></p>
+		<p> Sandrine LUQUET, Maud LUQUET-ROURE et Thibault DESCAMPS, dans le cadre de leur formation à <a href="http://www.simplonve.co" target="_blank">Simplon.ve</a></p>
 	</div>
 </div>
 
