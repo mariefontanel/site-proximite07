@@ -24,11 +24,20 @@
 	<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>.</p>
 	<p>Ses services sont <strong>gratuits</strong>.</p>
 	<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
-		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
-		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+	<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
+	<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+	<div class="logos_fse">
 		<img src="images/sengage.svg" class="img_fse">
+<<<<<<< HEAD
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere sodales sollicitudin. Nulla faucibus velit vitae sagittis fringilla. Morbi eget sollicitudin tellus.</p>
 	</div>
+=======
+		<img src="images/logo-FSE-europe.jpg">
+	</div>
+		<p>A l’aide du <strong>co-financement Fond Social Européen (FSE)</strong>, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.</p>
+Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
+</div>
+>>>>>>> 89f5f3d893d5feef03678ab2e6204749c3a1c0f7
 </div>
 
 <div class="bloc_img_particuliers" id="bloc_particuliers">
@@ -121,15 +130,18 @@
 			</div>
 		</div>
 	</div>
-	<img src="images/entreprise163ko.jpg" class="img_entreprise">
+	<div class="img_entreprise">
+		<img src="images/entreprise163ko.jpg" class="img_paysage">
+		<!-- <img src="images/cv1.jpg" class="img_cv"> -->
+	</div>
+	<div class="img_cv">
+	</div>
 </div>	
 
 
 <div class="bloc_img_associations" id="bloc_associations">
 	<div class="img_associations">
-
-		<img src="images/post_it.JPG.svg" class="img_asso">
-
+		<img src="images/post_it.jpg" class="img_asso">
 	</div>
 	<div class="texte_associations" >
 		<h3>Associations</h3>
@@ -212,10 +224,11 @@
 	
 	<div class="bloc_img_territoire" id="bloc_territoires">
 		<div class="img_territoire">
-			<img src="images/eolienne.jpg">
+			<img src="images/territoire1.jpg">
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
+<<<<<<< HEAD
 				<h4> Pôle d’ingénierie locale, le Site de proximité :</h4>
 					<p>-Renforce les synergies locales par l’animation des partenariats</p>
 					<p>Il anime ainsi le réseau Emploi Formation Insertion dont les objectifs sont :</p>
@@ -229,6 +242,11 @@
 							<li>appui à la mise en œuvre de la démarche de construction d’offres d’activités</li>
 							<li>animations d’actions, gestion d’équipement…</li>
 						</ul>	
+=======
+			<h4> Sous-titre</h4>
+			<p>A l’aide du co-financement FSE, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.
+Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
+>>>>>>> 89f5f3d893d5feef03678ab2e6204749c3a1c0f7
 		</div>
 	</div>
 	<div class="bloc_titre_financeurs">
