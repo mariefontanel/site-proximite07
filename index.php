@@ -19,32 +19,20 @@
 		<img src="images/cartefrance2.0.svg" class="carte_france">
 <!-- 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2876532463283!2d4.36905!3d44.937819999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f5805cd934bd85%3A0x4291ed20b3f32cab!2sSite+de+Proximit%C3%A9+des+Bouti%C3%A8res!5e0!3m2!1sfr!2sfr!4v1442650017251" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 -->		</div>
-<<<<<<< HEAD
-	<div class="introduction">
-	<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois. </h3>
-=======
 <div class="introduction">
 	<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois</h3>
->>>>>>> 5599e933427805b7c118f164504b5d89f83d5c30
 	<p>Le Site de proximité des boutières est une association loi 1901 (<a href="presentation.php">+ d'infos </a>), <strong>financée par l’Europe, l’Etat, la Région et les intercommunalités</strong>.</p>
 	<p>Ses services sont <strong>gratuits</strong>.</p>
 	<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
-	<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
-	<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
-	<div class="logos_fse">
-		<img src="images/sengage.svg" class="img_fse">
-<<<<<<< HEAD
-		<img src="images/logo-FSE-europe.jpg">
-	</div>
+		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
+		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+		<div class="logos_fse">
+			<img src="images/sengage.svg" class="img_fse">
+			<img src="images/EUROPE.svg" class="img_europe">
+		</div>
 		<p>A l’aide du <strong>co-financement Fond Social Européen (FSE)</strong>, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.</p>
-Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet est co-financé par le Fonds Social Européen dans le cadre du programme opérationnel national 2014-2020.</p>
 	</div>
-=======
-		<img src="images/EUROPE.svg" class="img_europe">
-	</div>
-		<p>A l’aide du <strong>co-financement Fond Social Européen (FSE)</strong>, le Site de proximité propose un accompagnement individuel  ou collectif aux demandeurs d’emplois,  appuie les employeurs dans leurs recrutements,  identifie les besoins d’emploi à moyen terme.</p>
-</div>
->>>>>>> 5599e933427805b7c118f164504b5d89f83d5c30
+
 </div>
 
 <div class="bloc_img_particuliers" id="bloc_particuliers">
@@ -139,10 +127,8 @@ Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet 
 	</div>
 	<div class="img_entreprise">
 		<img src="images/entreprise163ko.jpg" class="img_paysage">
-		<!-- <img src="images/cv1.jpg" class="img_cv"> -->
 	</div>
-	<div class="img_cv">
-	</div>
+</div>
 </div>	
 
 
@@ -214,8 +200,8 @@ Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet 
 					</div>
 				</div>
 			</div>
-				<ul>
-					<li>Information sur les différents types de contrats. 
+			<ul>
+				<li>Information sur les différents types de contrats. 
 					<li>Les aides à l’embauche, aide à la définition du poste proposé.</li>
 					<li>La diffusion de l’offre, mise en relation avec des candidats.</li>
 					<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
@@ -235,19 +221,18 @@ Logos l’Europe s’engage + drapeau avec mention union européenne +Ce projet 
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
-				<h4> Pôle d’ingénierie locale, le Site de proximité :</h4>
-					<p>-Renforce les synergies locales par l’animation des partenariats</p>
-					<p>Il anime ainsi le réseau Emploi Formation Insertion dont les objectifs sont :</p>
-						<ul>
-							<li>permettre une meilleure connaissance des acteurs de l’emploi, de la formation, et de l’insertion, entre eux.</li>
-							<li>apporter une lisibilité de l’intervention de ces acteurs aux usagers et aux employeurs.</li>
-						</ul>
-					<p>-Propose de nouvelles actions et missions sur sa zone d’intervention et au-delà :</p>
-						<ul>
-							<li>diagnostics création d’activités</li>
-							<li>appui à la mise en œuvre de la démarche de construction d’offres d’activités</li>
-							<li>animations d’actions, gestion d’équipement…</li>
-						</ul>	
+			<h4> Pôle d’ingénierie locale, le Site de proximité renforce les synergies locales par l’animation des partenariats :</h4>
+			<ul>
+				<li>anime ainsi le réseau Emploi Formation Insertion.</li>
+				<li>permet une meilleure connaissance des acteurs de l’emploi, de la formation, et de l’insertion, entre eux.</li>
+				<li>apporte une lisibilité de l’intervention de ces acteurs aux usagers et aux employeurs.</li>
+			</ul>	
+			<h4>Il propose de nouvelles actions et missions sur sa zone d’intervention et au-delà</h4>	
+			<ul>
+				<li>diagnostics création d’activités</li>
+				<li>appui à la mise en œuvre de la démarche de construction d’offres d’activités</li>
+				<li>animations d’actions, gestion d’équipement…</li>
+			</ul>	
 
 		</div>
 	</div>
