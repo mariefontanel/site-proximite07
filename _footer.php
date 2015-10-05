@@ -23,7 +23,7 @@
 			<p>Email : <a href="mailto:site.proximite.boutieres@orange.fr">site.proximite.boutieres@orange.fr</a></p>
 		</div>
 	</div>
-		
+	
 </footer>
 </body>
 </html>
