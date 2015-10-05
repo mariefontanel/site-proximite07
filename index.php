@@ -127,6 +127,7 @@
 	<div class="img_entreprise">
 		<img src="images/entreprise163ko.jpg" class="img_paysage">
 	</div>
+</div>
 </div>	
 
 
@@ -219,14 +220,13 @@
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
-			<h4> Pôle d’ingénierie locale, le Site de proximité :</h4>
-			<p>Renforce les synergies locales par l’animation des partenariats</p>
-			<p>Il anime ainsi le réseau Emploi Formation Insertion dont les objectifs sont :</p>
+			<h4> Pôle d’ingénierie locale, le Site de proximité renforce les synergies locales par l’animation des partenariats :</h4>
 			<ul>
-				<li>permettre une meilleure connaissance des acteurs de l’emploi, de la formation, et de l’insertion, entre eux.</li>
-				<li>apporter une lisibilité de l’intervention de ces acteurs aux usagers et aux employeurs.</li>
-			</ul>
-			<p>Propose de nouvelles actions et missions sur sa zone d’intervention et au-delà :</p>
+				<li>anime ainsi le réseau Emploi Formation Insertion.</li>
+				<li>permet une meilleure connaissance des acteurs de l’emploi, de la formation, et de l’insertion, entre eux.</li>
+				<li>apporte une lisibilité de l’intervention de ces acteurs aux usagers et aux employeurs.</li>
+			</ul>	
+			<h4>Il propose de nouvelles actions et missions sur sa zone d’intervention et au-delà</h4>	
 			<ul>
 				<li>diagnostics création d’activités</li>
 				<li>appui à la mise en œuvre de la démarche de construction d’offres d’activités</li>
