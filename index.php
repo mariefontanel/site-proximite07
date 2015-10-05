@@ -28,24 +28,24 @@
 		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 		<img src="images/sengage.svg" class="img_fse">
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere sodales sollicitudin. Nulla faucibus velit vitae sagittis fringilla. Morbi eget sollicitudin tellus.</p>
-</div>
+	</div>
 </div>
 
 <div class="bloc_img_particuliers" id="bloc_particuliers">
 	<div class="bloc_gauche" >
 		<h3>Particuliers</h3>
-		<h4>Vous êtes à la recherche d’un emploi ?</h4>
-		<p>En complémentatrité de pôle emploi, le Site de proximité vous propose un <strong>accompagnement individualisé</strong></p>
+		<h4>Vous avez des questions sur l’emploi, votre projet professionnel, la formation ?</h4>
+		<p>Le Site de proximité vous propose un <strong>accompagnement individualisé</strong></p>
 		<ul>
-			<li>faire le point sur vos compétences ;</li>
-			<li>vous informer sur l’activité locale, les secteurs qui recrutent, les perspectives ;</li>
-			<li>Vous outiller dans votre recherche d’emploi (CV, lettres de motivation, préparations d’entretien…) ;</li>
-			<li>Vous mettre en relation avec les offres d’emploi locales.</li>
+			<li>faire le point sur vos compétences.</li>
+			<li>structurer votre projet professionnel.</li>
+			<li>vous informer sur l’activité locale, les secteurs porteurs. </li>
+			<li>préparer votre projet de formation.</li>
+			<li>vous outiller dans votre recherche d’emploi (CV, lettres de motivation, préparations d’entretien…).</li>
+			<li>vous mettre en relation avec les offres d’emploi locales.</li>
 		</ul>
-		<h4>A ce titre, si vous avez entre 16 et 26 ans :</h4>
-		<ul>
-			<li>Sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://missionlocalenordardeche.com"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans votre insertion sociale et professionnelle.</li>
-		</ul>
+		<p><strong>Jeunes de 16 à 26 ans,</strong> sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://ccpu.fr/index.php/site-de-proximite"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans votre insertion sociale et professionnelle.</p>
+		
 	</div>
 	<div class="offres_particuliers">
 
@@ -65,14 +65,13 @@
 <div class="bloc_creation">
 	<img src="images/reunion154ko.jpg" class="reunion">
 	<div class="texte_creation">
-		<h4>Vous souhaitez créer votre entreprise, une association ?</h4>
-		<p>Que vous ayez ou pas une idée d’activité, l’<strong>Atelier des projets</strong> est fait pour vous !</p>
-		<p>L’atelier des projets vous propose</p>
+		<h4>Vous êtes intéressé par la création d’une activité, une entreprise, une association ? </h4>
+		<p><strong>L'Atelier des projets est fait pour vous et vous propose :</strong></p>
 		<ul>
-			<li>Un accompagnement individualisé pour valider votre idée, vous apporter un appui méthodologique pour construire votre projet et le formaliser</li>
-			<li>Des temps collectifs avec d’autres personnes souhaitant créer leur activité, pour enrichir votre idée, </li>
-			<li>Des « agendas pour comprendre » pour  explorer un secteur d’activités, un statut, repérer des potentiels de création,</li>
-			<li>Une orientation vers les partenaires de la création (Cci, Chambre de métiers, Chambre d’agriculture, Initiactive …) pour finaliser votre projet</li>
+			<li>Un accompagnement individualisé pour valider votre idée.</li>
+			<li>Des temps collectifs pour enrichir votre idée. </li>
+			<li>Des « agendas pour comprendre » pour explorer un secteur d’activités, un statut, repérer des potentiels de création.</li>
+			<li>Une orientation vers les partenaires de la création  pour finaliser votre projet.</li>
 		</ul>
 		<p>Le Site de proximité est labellisé porte d’entrée <a href="https://www.jecree-en-rhonealpes.fr/" target="_blank">« Je crée en Rhône-Alpes »</a> dispositif régional d’accompagnement à la création d’entreprises.</p>
 	</div>
@@ -82,20 +81,20 @@
 	<div class="texte_entreprise" >
 		<h3>Entreprises</h3>
 		<h4>Vous souhaitez développer ou diversifier votre activité ?</h4>
-		<p>Le Site de proximité vous propose :</p>
+		<p>Notre équipe vous apporte :</p>
 		<ul>
 			<li>Un appui à la validation et la mise en œuvre de votre projet.</li>
-			<li>Une orientation vers les structures spécialisées pour un appui technique, un financement…</li>
+			<li>Une orientation vers les structures spécialisées pour un appui technique, un financement,…</li>
 		</ul>
 		<h4>Vous voulez recruter ?</h4>	
-		<p>Nous vous accompagnons dans toutes les étapes de votre recrutement.<!-- vous propose un appui au recrutement, des infos sur --> </p>	
+		<p>Nous vous accompagnons dans toutes les étapes de votre recrutement.</p>	
 		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
 			+ d'infos ...
 		</button>
 		<h4>Vous recherchez des locaux ?</h4>
 		<p>Le Site de proximité met à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>
 		<h4>Vous projetez de transmettre votre entreprise ?</h4>
-		<p>Nous vous accompagnons dans la recherche de candidats repreneurs.</p>
+		<p>Notre équipe vous appuie dans vos démarches.</p>
 
 		<!-- Button trigger modal -->
 
@@ -134,14 +133,14 @@
 	</div>
 	<div class="texte_associations" >
 		<h3>Associations</h3>
-		<h4>Vous souhaitez développer un nouveau projet ? </h4>
-		<p>Le Site de proximité vous propose :</p>
+		<h4>Vous souhaitez développer un nouveau projet, optimiser votre organisation ? </h4>
+		<p>Notre équipe vous apporte :</p>
 		<ul>
 			<li>Un appui à la validation et la mise en œuvre de vos projets.</li>
 			<li>Une orientation vers les structures spécialisées.</li>
 		</ul>
 		<h4>Vous voulez recruter ?</h4>
-		<p>Le Site de proximité vous propose un <strong>appui au recrutement</strong><!-- , des infos sur : --></p>	
+		<p>Nous vous accompagnons dans toutes les étapes de votre recrutement.</p>	
 		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
 			+ d'infos ...
 		</button>
@@ -178,9 +177,10 @@
 	<div  class="texte_collectivite" >
 		<h3>Collectivités</h3>
 		<h4>Vous souhaitez contribuer à la création d’emploi, maintenir ou créer de nouveaux services sur votre territoire ?</h4>
-		<p>Le Site de proximité analyse avec vous  les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités et mettons en œuvre les actions pour valoriser ces potentiels.</p>
+		<p>Nous analysons ensemble les potentiels de vos territoires : locaux vacants, entreprises à reprendre, savoirs faire non valorisés, besoins de nouveaux services, opportunités de création d’activités, etc...</p>
+		<p>Nous mettons en œuvre les actions pour valoriser ces potentiels, du travail de concertation à l’élaboration du projet.</p>
 		<h4>Vous voulez recruter ?</h4>
-		<p>Le Site de proximité vous propose un appui au recrutement </p>
+		<p>Nous vous accompagnons dans toutes les étapes de votre recrutement. </p>
 		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
 			+ d'infos ...
 		</button>
@@ -195,8 +195,8 @@
 					</div>
 				</div>
 			</div>
-			<ul>
-				<li>Information sur les différents types de contrats. 
+				<ul>
+					<li>Information sur les différents types de contrats. 
 					<li>Les aides à l’embauche, aide à la définition du poste proposé.</li>
 					<li>La diffusion de l’offre, mise en relation avec des candidats.</li>
 					<li>L'appui à la sélection, suivi de l’intégration de la personne recrutée.</li>
@@ -216,8 +216,19 @@
 		</div>
 		<div class="bloc_texte_territoire" >
 			<h3>Territoire et acteurs</h3>
-			<h4> Sous-titre</h4>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed tempus eros. Proin a fermentum sem. Ut nulla quam, mattis a pellentesque eget, finibus nec turpis. Nunc posuere enim quis dolor consequat, in blandit enim mattis. Proin non dolor commodo, tristique justo a, convallis justo. Praesent interdum, nulla at ullamcorper bibendum, massa mauris placerat lacus, ut lacinia ante massa auctor metus. Aenean vitae turpis eu tortor sollicitudin dignissim. Pellentesque mollis nunc sit amet massa pharetra dictum. Nam venenatis, arcu et tempus semper, velit augue iaculis tortor, fringilla imperdiet augue nisi a metus. Fusce erat augue, consequat eu euismod quis, tempor at velit. Quisque tristique magna ac leo hendrerit vehicula. Suspendisse vestibulum purus a erat venenatis, sagittis iaculis velit efficitur.</p>
+				<h4> Pôle d’ingénierie locale, le Site de proximité :</h4>
+					<p>-Renforce les synergies locales par l’animation des partenariats</p>
+					<p>Il anime ainsi le réseau Emploi Formation Insertion dont les objectifs sont :</p>
+						<ul>
+							<li>permettre une meilleure connaissance des acteurs de l’emploi, de la formation, et de l’insertion, entre eux.</li>
+							<li>apporter une lisibilité de l’intervention de ces acteurs aux usagers et aux employeurs.</li>
+						</ul>
+					<p>-Propose de nouvelles actions et missions sur sa zone d’intervention et au-delà :</p>
+						<ul>
+							<li>diagnostics création d’activités</li>
+							<li>appui à la mise en œuvre de la démarche de construction d’offres d’activités</li>
+							<li>animations d’actions, gestion d’équipement…</li>
+						</ul>	
 		</div>
 	</div>
 	<div class="bloc_titre_financeurs">
