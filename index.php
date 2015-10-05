@@ -38,7 +38,7 @@
 	<div class="bloc_gauche" >
 		<h3>Particuliers</h3>
 		<h4>Vous avez des questions sur l’emploi, votre projet professionnel, la formation ?</h4>
-		<p>Le Site de proximité vous propose un <strong>accompagnement individualisé</strong></p>
+		<p>Le Site de proximité vous propose un <strong>accompagnement individualisé</strong> pour :</p>
 		<ul>
 			<li>faire le point sur vos compétences.</li>
 			<li>structurer votre projet professionnel.</li>
@@ -47,7 +47,7 @@
 			<li>vous outiller dans votre recherche d’emploi (CV, lettres de motivation, préparations d’entretien…).</li>
 			<li>vous mettre en relation avec les offres d’emploi locales.</li>
 		</ul>
-		<p><strong>Jeunes de 16 à 26 ans,</strong> sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://ccpu.fr/index.php/site-de-proximite"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans votre insertion sociale et professionnelle.</p>
+		<p><strong>Jeunes de 16 à 26 ans,</strong> sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://ccpu.fr/index.php/site-de-proximite"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans la mise en place de votre projet professionnel.</p>
 		
 	</div>
 	<div class="offres_particuliers">
@@ -71,10 +71,10 @@
 		<h4>Vous êtes intéressé par la création d’une activité, une entreprise, une association ? </h4>
 		<p><strong>L'Atelier des projets est fait pour vous et vous propose :</strong></p>
 		<ul>
-			<li>Un accompagnement individualisé pour valider votre idée.</li>
-			<li>Des temps collectifs pour enrichir votre idée. </li>
-			<li>Des « agendas pour comprendre » pour explorer un secteur d’activités, un statut, repérer des potentiels de création.</li>
-			<li>Une orientation vers les partenaires de la création  pour finaliser votre projet.</li>
+			<li>un accompagnement individualisé pour valider votre idée.</li>
+			<li>des temps collectifs pour enrichir votre idée. </li>
+			<li>des « agendas pour comprendre » pour explorer un secteur d’activités, un statut, repérer des potentiels de création.</li>
+			<li>une orientation vers les partenaires de la création  pour finaliser votre projet.</li>
 		</ul>
 		<p>Le Site de proximité est labellisé porte d’entrée <a href="https://www.jecree-en-rhonealpes.fr/" target="_blank">« Je crée en Rhône-Alpes »</a> dispositif régional d’accompagnement à la création d’entreprises.</p>
 	</div>
@@ -86,8 +86,8 @@
 		<h4>Vous souhaitez développer ou diversifier votre activité ?</h4>
 		<p>Notre équipe vous apporte :</p>
 		<ul>
-			<li>Un appui à la validation et la mise en œuvre de votre projet.</li>
-			<li>Une orientation vers les structures spécialisées pour un appui technique, un financement,…</li>
+			<li>un appui à la validation et la mise en œuvre de votre projet.</li>
+			<li>une orientation vers les structures spécialisées pour un appui technique, un financement,…</li>
 		</ul>
 		<h4>Vous voulez recruter ?</h4>	
 		<p>Nous vous accompagnons dans toutes les étapes de votre recrutement.</p>	
@@ -140,16 +140,16 @@
 		<h4>Vous souhaitez développer un nouveau projet, optimiser votre organisation ? </h4>
 		<p>Notre équipe vous apporte :</p>
 		<ul>
-			<li>Un appui à la validation et la mise en œuvre de vos projets.</li>
-			<li>Une orientation vers les structures spécialisées.</li>
+			<li>un appui à la validation et la mise en œuvre de vos projets.</li>
+			<li>une orientation vers les structures spécialisées.</li>
 		</ul>
 		<h4>Vous voulez recruter ?</h4>
 		<p>Nous vous accompagnons dans toutes les étapes de votre recrutement.</p>	
 		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
 			+ d'infos ...
 		</button>
-		<h4>Vous avez besoin d’un appui dans l’organisation de votre association ?</h4>
-		<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p>
+		<!-- <h4>Vous avez besoin d’un appui dans l’organisation de votre association ?</h4>
+		<p>Le Site de proximité vous propose un appui méthodologique pour faire évoluer votre organisation.</p> -->
 		<!-- Modal -->
 		<h4>Vous recherchez des locaux ?</h4>
 		<p>Nous mettons à votre disposition la liste des locaux vacants, vous oriente en fonction de vos besoins.</p>	

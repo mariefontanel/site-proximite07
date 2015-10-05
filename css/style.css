@@ -186,17 +186,25 @@ a:hover {
 	width: 57%;
 }
 
-.stmartin, .cheylard, .lamastre{
+.stmartin{
+	width:60%;
+}
+
+.cheylard{
 	width: 40%;
+}
+.lamastre{
+	width:80%;
 }
 
 .ollieres{
-	width: 84%;
+	width: 90%;
 }	
 
 .form_itineraire{
 	/*margin-left: 3%;*/
 	width: 75%;
+	margin-top: 5%;
 }
 
 .carte_territoire{
