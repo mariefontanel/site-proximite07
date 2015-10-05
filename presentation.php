@@ -4,7 +4,7 @@
 <div class="presentation_asso">
 	<div class="texte_asso">
 		<h3>Qui sommes-nous ?</h3>
-		<p>C’est en <strong>1995</strong> que des élus du territoire décident de s’organiser pour créer un <strong>lieu ressources</strong> ouvert à tous pour le développement de l’<strong>emploi et la création d’activités</strong> dans les Boutières,
+		<p>C’est en <strong>1995</strong> que des élus du territoire décident de s’organiser pour créer un <strong>lieu ressources</strong> ouvert à tous pour le développement de l’<strong>emploi et la création d’activités</strong> dans les Boutières.
 			Très rapidement, l’ensemble des structures concernées : PAIO (devenue la Mission locale nord Ardèche), Chambre des métiers, Chambre de commerce et d’industrie, Chambre d’agriculture, ANPE (Pôle Emploi), direction départementale du travail, de l’agriculture … les rejoignent et contribuent à l’aboutissement du projet du Site de proximité des Boutières.
 			Une association, est alors créée pour porter ce nouveau service.</p>
 
