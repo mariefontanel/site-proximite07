@@ -11,7 +11,7 @@
 		<div class="logos_partenaire">
 			<img class="cddra"src="images/Logo_CDDRA_CA.svg">
 			<img class="pnr"src="images/logo_pnr.png">
-			<img class="pam"src="images/logo_pays_ardeche_meridionale.jpeg">
+			<img class="pam"src="images/Logo_ardeche_meridionale.png">
 		</div>	 
 		<div class="img_fb">
 			<a href="https://www.facebook.com/Site-de-proximit%C3%A9-des-Bouti%C3%A8res-763271550458823/info/?tab=page_info"><img src="images/facebook-icon.png"></a>

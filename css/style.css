@@ -132,12 +132,14 @@ a:hover {
 }
 
 .img_bureau{
-  	width: 565px;
-	height: 430px;
-	margin-right: 2%;
+ 	width: 650px;
+	height:500px;
+	margin: auto; 
+	margin-right: 5%;
+	/*margin-right: 2%;
 	margin-top: 5%;
 	margin-left: 5%;
-	display: block;
+	display: block;*/
 }
 
 /*EQUIPE*/
@@ -218,36 +220,6 @@ a:hover {
 	text-decoration: underline;
 }
 
-/*FORMULAIRE DE CONTACT*/
-.titre_form{
-	padding-top: 3%;
-	text-align: center;
-	font-weight: 1%;
-}
-
-.formulaire_contact{
-  margin-left: 3%;
-  width: 94%;
-  margin-top: 15%;
-  background-color: #DBDBDB;
-}
-
-.champ_form{
-	margin-left:30%;
-	line-height: 1.5em;
-	width: 14%;
-	padding:2%;
-}
-
-#message{
-	width: 204%;
-}
-.envoyer{
-	text-align: center;
-	margin-right: 14%;
-	padding: 2%;
-}
-
 /*ICONES PUBLICS CIBLES*/
 
 .bloc_icones a{
@@ -281,6 +253,7 @@ a:hover {
 	flex-direction:row;
 	width: 100%;
 	justify-content:space-between;
+	background-color: #f3f3f3;
 }
 
 .map{
@@ -288,7 +261,19 @@ a:hover {
 	width: 45%;
 	flex-direction: row;
 	justify-content: space-between;
-	border: 1px solid #CCCCC5;
+	/*background-color: #F3F3F3;*/
+/*-webkit-filter: grayscale(80%);
+-moz-filter: grayscale(80%);
+-o-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+filter: grayscale(100%);*/
+
+}
+.titre_carte{
+	width: 25%;
+	padding-top: 50%;
+	margin: auto; 
+	text-align: center;
 }
 
 .carte_ardeche{
@@ -301,8 +286,6 @@ a:hover {
 	width: 25%;
 	float:right;
 	display: flex;
-	border-left: 1px solid #CCCCC5;
-	border-bottom: 1px solid #CCCCC5;
 	margin-bottom: auto;
   margin-left: auto;
   margin-top: 2%;
@@ -350,7 +333,7 @@ a:hover {
 	 flex-direction: row;
 	 margin-top: 4%;
 	 justify-content: space-between;
-	 background-color: #f3f3f3;
+	 /*background-color: #f3f3f3;*/
 }
 
 .bloc_img_gauche{
@@ -412,7 +395,7 @@ a:hover {
 	flex-direction: row;
 	justify-content: space-between;
 	height: 90%;
-	background-color: #f3f3f3;
+	/*background-color: #f3f3f3;*/
 }	
 
 .reunion{
@@ -434,6 +417,7 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+	background-color: #f3f3f3;
 	/*margin-top: 4%;*/
 } 
 
@@ -467,7 +451,7 @@ a:hover {
   margin-right: 8%;
   height: 90%;
  	margin-top: 4%;
- 	background-color: #f3f3f3;
+ /*	background-color: #f3f3f3;*/
 }
 
 .texte_associations{
@@ -482,7 +466,7 @@ a:hover {
 }
 
 .img_asso{
-	width: 70%;
+	width: 55%;
 	margin: auto;
 	display: block;
 }
@@ -493,13 +477,20 @@ a:hover {
   width: 100%;
   display: flex;
   justify-content:space-between;
+  background-color: #f3f3f3;
   /*margin-top:4%;*/
  }
 
 .img_collectivites{
 	margin: auto;
-	width:;
 }
+
+.img_collectivites img{
+	width: 500px;
+	height: 400px;
+	margin-top: 3%;
+}
+
 
 .texte_collectivite {
   margin-right: 5%;
@@ -515,7 +506,7 @@ a:hover {
 	display: flex;
 	flex-direction:row;
 	justify-content:space-between;
-	background-color: #f3f3f3;
+	/*background-color: #f3f3f3;*/
 }
 
 .bloc_img_territoire img{
