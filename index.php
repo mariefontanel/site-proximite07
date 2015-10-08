@@ -26,7 +26,7 @@
 	<p>Ses services sont <strong>gratuits</strong>.</p>
 	<p>Il intervient sur les <strong>Communautés de communes du pays de Lamastre</strong>, <strong>Valeyrieux</strong> et sur une <strong>partie de la Communauté d’agglomération centre Ardèche</strong>.
 		<p>Il travaille en complémentarité avec les services de l’emploi et de la création d’activités. Il est votre porte d’entrée sur le territoire.</p>
-		<p>Son <a href="equipe.php"><strong>équipe</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
+		<p>Son <a href="equipe.php"><strong>équipe pluridisciplinaire</strong></a> vous accueille dans <a href="lieux_accueil.php"><strong>5 lieux différents</strong></a> : Saint Agrève, Saint Martin de Valamas, Le Cheylard, Lamastre et les Ollières sur Eyrieux.</p>
 		<div class="logos_fse">
 			<img src="images/sengage.svg" class="img_fse">
 			<img src="images/EUROPE.svg" class="img_europe">

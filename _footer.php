@@ -14,7 +14,7 @@
 			<img class="pam"src="images/Logo_ardeche_meridionale.png">
 		</div>	 
 		<div class="img_fb">
-			<a href="https://www.facebook.com/Site-de-proximit%C3%A9-des-Bouti%C3%A8res-763271550458823/info/?tab=page_info"><img src="images/facebook-icon.png"></a>
+			<a href="https://www.facebook.com/Site-de-proximit%C3%A9-des-Bouti%C3%A8res-763271550458823" target="_blank"><img src="images/facebook-icon.png"></a>
 		</div>
 		<div class="coordonnees">
 			<p>Nos coordonnées</p>
