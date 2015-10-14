@@ -805,7 +805,7 @@ filter: grayscale(100%);*/
 	.pnr{
 		display:flex;
 		width: 20%;
-		height: 75%;
+		/*height: 75%;*/
 	}
 	.pam{
 		display:flex;
