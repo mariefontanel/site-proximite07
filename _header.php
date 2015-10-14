@@ -13,6 +13,7 @@
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<title>Site de proximité des Boutières</title>
+	<meta name="site de proximité des boutières, votre outil pour l'emploi et la création d'activité" content="description de la page" />
 </head>	
 <body>
 	<header>

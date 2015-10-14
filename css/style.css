@@ -567,6 +567,11 @@ filter: grayscale(100%);*/
 	margin-bottom: 3%;
 }
 
+.cddra{
+	display:flex;
+	width: 30%;
+}
+
 .lien_financeurs{
 	width:15%;
 }
@@ -575,8 +580,18 @@ filter: grayscale(100%);*/
 	width: 60%;
 }
 
-.lien_financeurs img.logo_region{
+
+.lien_financeurs img.logo_feader{
 	width: 80%;
+	/*height:80%;*/
+}
+.lien_financeurs img.logo_fse{
+	width: 80%;
+	/*height:80%;*/
+}
+
+.lien_financeurs img.logo_region{
+	width: 50%;
 }
 
 .lien_financeurs img.logo_capca{
@@ -625,7 +640,7 @@ footer{
 }
 
 .menu {
-	width: 45%;
+	width: 42%;
 	display:flex;
 	flex-direction:column;
 	line-height: 1.5em;	
@@ -639,15 +654,16 @@ footer{
  .menu a:hover, .coordonnees a:hover{
   	color:#E44772;
  }
-.img_fb{
-	margin-right: 5%;
-	margin-top: 2%;
-}
+
 .coordonnees{
-  width: 45%;
+  width: 42%;
   line-height: 0.8em;
 }
 
+.feader{
+	display:flex;
+	width: 25%;
+}
 /*TEXTES LIENS FOOTER*/
 .texte_infos_legales{
 	margin-top: 10%;
@@ -660,22 +676,21 @@ footer{
 	display: flex;
 	flex-direction:row;
 	align-items:flex-start;
+	justify-content: space-around;
 	margin-right:5%;
 }
 
 .pnr{
 	display:flex;
-	width: 30%;
-	height: 50%;
+	width: 15%;
+	/*height: 50%;*/
 }
 .pam{
 	display:flex;
-	width: 18%;
-	height: 30%;
-}
-.cddra{
-	display:flex;
-	width: 20%;
+	width: 23%;
 }
 
+.smeov{
+	width: 30%;
+}
 
