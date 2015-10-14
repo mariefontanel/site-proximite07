@@ -8,6 +8,6 @@
 				<a class="lien_financeurs" href="#" target="_blank"><img src="images/Logo_CDDRA_CA.svg" class="cddra"></a>
 				<a class="lien_financeurs" href="http://www.privas-centre-ardeche.fr/" target="_blank"><img src="images/logo_capca_petit.svg" class="logo_capca"></a>
 				<a class="lien_financeurs" href="http://www.lamastre.fr/?-Communaute-de-Communes" target="_blank"><img src="images/logo_cc_lamastre_petit.jpg" class="logo_lamastre"></a>
-				<a class="lien_financeurs" href="http://www.valeyrieux.fr/" target="_blank"><img src="images/valeyrieux.svg" class="logo_valeyrieux"></a>
+				<a class="lien_financeurs" href="http://www.valeyrieux.fr/" target="_blank"><img src="images/valeyrieux1.svg" class="logo_valeyrieux"></a>
 		</div>
 	</div>

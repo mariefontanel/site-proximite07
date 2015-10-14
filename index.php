@@ -15,8 +15,7 @@
 
 <div class="bloc_presentation">
 	<div class="map">
-		<img src="images/ardechesiteproximitecanton2.0.svg" class="carte_ardeche"><h4 class="titre_carte">Nous rencontrer en Ardèche</h4>
-		<img src="images/cartefrance2.0.svg" class="carte_france">
+		<img src="images/ardechesiteproximitecanton.svg" class="carte_ardeche">
 	</div>
 <div class="introduction">
 	<h3>Pôle d’ingénierie locale pour la création et le développement des activités et des emplois</h3>

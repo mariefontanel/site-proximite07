@@ -247,7 +247,7 @@ a:hover {
 
 .bloc_presentation{
 	margin-top: 5%;
-	margin-left: 3%;
+	/*margin-left: 3%;*/
 	margin-right:3%;
 	display: flex;
 	flex-direction:row;
@@ -257,10 +257,10 @@ a:hover {
 }
 
 .map{
-	display: flex;
+	/*display: flex;*/
 	width: 45%;
-	flex-direction: row;
-	justify-content: space-between;
+/*	flex-direction: row;
+	justify-content: space-between;*/
 	/*background-color: #F3F3F3;*/
 /*-webkit-filter: grayscale(80%);
 -moz-filter: grayscale(80%);
@@ -277,23 +277,13 @@ filter: grayscale(100%);*/
 }
 
 .carte_ardeche{
-	display: flex;
-	width: 60%;
-	margin:auto;
+	width: 100%;
+	margin-left: 3%;
 }
 
-.carte_france{
-	width: 25%;
-	float:right;
-	display: flex;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-top: 2%;
-	margin-right: 0%;
-}
 
 .introduction{
-	width: 48%;
+	width: 45%;
 	margin-right: 3%;
 	margin-bottom: 5%;
 	padding: 2%;
