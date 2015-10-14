@@ -648,7 +648,7 @@ filter: grayscale(100%);*/
 
 	.menu a,  .coordonnees a{
 		color:white;
-		
+
 	}
 
 	.menu a:hover, .coordonnees a:hover{
@@ -804,19 +804,17 @@ filter: grayscale(100%);*/
 
 	.pnr{
 		display:flex;
-		width: 30%;
-		height: 50%;
+		width: 20%;
+		/*height: 50%;*/
 	}
 	.pam{
 		display:flex;
-		width: 18%;
-		height: 30%;
+		width: 25%;
 	}
 	.cddra{
 		display:flex;
 		width: 20%;
 	}
-	>>>>>>> 9639caefd3e017a9544dae479d689b9c86b8789d
 
 	.smeov{
 		width: 30%;
