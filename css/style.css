@@ -29,12 +29,12 @@ html{
 body{
 	width: 100%;
 	height: 100%;
- 	margin:0;
+	margin:0;
 	padding: 0;
- 	font-family: 'Roboto-thin';
- 	font-size:1.1em;
- 	color: rgb(47, 47, 59);
- 	overflow-x: hidden;
+	font-family: 'Roboto-thin';
+	font-size:1.1em;
+	color: rgb(47, 47, 59);
+	overflow-x: hidden;
 	line-height: 1.5em;
 	float: left;
 }
@@ -52,14 +52,14 @@ h3{
 	margin-right: 3%;
 }
 
- .menu_haut a{
- 	font-size: 0.7em;
- 	text-decoration: underline;
- }
+.menu_haut a{
+	font-size: 0.7em;
+	text-decoration: underline;
+}
 
- .menu_haut a li {
- 	display: inline-block;
- }
+.menu_haut a li {
+	display: inline-block;
+}
 
 header {
 	display: block;
@@ -95,9 +95,9 @@ _
 	display: block;
 	float: left;
 	width: 100%;
-  color:#25AFBA;
-  font-family: 'Roboto-Italic';
-  margin-left: 7%;
+	color:#25AFBA;
+	font-family: 'Roboto-Italic';
+	margin-left: 7%;
 }
 
 a{
@@ -109,7 +109,7 @@ a{
 	font-weight: bold;
 }
 a:hover { 
-   color:#E44772;
+	color:#E44772;
 }
 
 .home{
@@ -132,7 +132,7 @@ a:hover {
 }
 
 .img_bureau{
- 	width: 650px;
+	width: 650px;
 	height:500px;
 	margin: auto; 
 	margin-right: 5%;
@@ -147,7 +147,7 @@ a:hover {
 	display:flex;
 	flex-direction:row;
 	margin-top: 15%;
-  margin-bottom: 156px;
+	margin-bottom: 156px;
 }
 
 .texte_equipe{
@@ -173,9 +173,9 @@ a:hover {
 }
 
 .texte_lieux{
-  width:60%;
-  margin-top: 15%;
-  margin-left: 0%;
+	width:60%;
+	margin-top: 15%;
+	margin-left: 0%;
 }
 
 .itineraire{
@@ -287,16 +287,16 @@ filter: grayscale(100%);*/
 	float:right;
 	display: flex;
 	margin-bottom: auto;
-  margin-left: auto;
-  margin-top: 2%;
-  margin-right: 0%;
+	margin-left: auto;
+	margin-top: 2%;
+	margin-right: 0%;
 }
 
 .introduction{
-  width: 48%;
-  margin-right: 3%;
-  margin-bottom: 5%;
-  padding: 2%;
+	width: 48%;
+	margin-right: 3%;
+	margin-bottom: 5%;
+	padding: 2%;
 }
 
 .logos_fse{
@@ -321,361 +321,361 @@ filter: grayscale(100%);*/
 /*PARTCULIERS*/
 /*#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
 	margin-top: 5%;
-}*/
+	}*/
 
-.bloc_img_particuliers, .bloc_img_entreprises, .bloc_img_associations, .bloc_img_collectivites; .bloc_img_territoire{
-	padding-top: 2%;
-}
+	.bloc_img_particuliers, .bloc_img_entreprises, .bloc_img_associations, .bloc_img_collectivites; .bloc_img_territoire{
+		padding-top: 2%;
+	}
 
-.bloc_img_particuliers{
-	 width: 100%;
-	 display: flex;
-	 flex-direction: row;
-	 margin-top: 4%;
-	 justify-content: space-between;
-	 /*background-color: #f3f3f3;*/
-}
+	.bloc_img_particuliers{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		margin-top: 4%;
+		justify-content: space-between;
+		/*background-color: #f3f3f3;*/
+	}
 
-.bloc_img_gauche{
-	width: 35%;
-	margin-left: 2%;
-}
+	.bloc_img_gauche{
+		width: 35%;
+		margin-left: 2%;
+	}
 
-.bloc_gauche {
-  margin-right: 2%;
-  width: 42%;
-  padding: 2%;
-  height: 50%;
-  margin-left: 3%;
-}
+	.bloc_gauche {
+		margin-right: 2%;
+		width: 42%;
+		padding: 2%;
+		height: 50%;
+		margin-left: 3%;
+	}
 
-.offres_particuliers{
-	width:40%;
-}
+	.offres_particuliers{
+		width:40%;
+	}
 
-.offres-particuliers h4{
-	margin-top: 0;
-	text-align: center;
-}
+	.offres-particuliers h4{
+		margin-top: 0;
+		text-align: center;
+	}
 
-.liste_offres{
-	margin-top: 5%;
-}
+	.liste_offres{
+		margin-top: 5%;
+	}
 
-.img_offre{
-	margin-top: 5%;
-	width: 25%;
-	margin: auto;
-	margin-left: 25%;
-}
+	.img_offre{
+		margin-top: 5%;
+		width: 25%;
+		margin: auto;
+		margin-left: 25%;
+	}
 
-.consult_offre{
-	width: 70%;
-}
+	.consult_offre{
+		width: 70%;
+	}
 
-.offres{
-	color:black;
-	width:400px;
-	padding-top: 1%;
-}
+	.offres{
+		color:black;
+		width:400px;
+		padding-top: 1%;
+	}
 
-.bourses{
-	color:red;
-	width:400px;
-}
+	.bourses{
+		color:red;
+		width:400px;
+	}
 
-.local_pro{
-	color:black;
-	width:400px;
-}
+	.local_pro{
+		color:black;
+		width:400px;
+	}
 
-.bloc_creation{
-	width: 100%;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	height: 90%;
-	/*background-color: #f3f3f3;*/
-}	
+	.bloc_creation{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		height: 90%;
+		/*background-color: #f3f3f3;*/
+	}	
 
-.reunion{
-	margin:auto;
-	display: block;
-	width: 40%;
-}
+	.reunion{
+		margin:auto;
+		display: block;
+		width: 40%;
+	}
 
-.texte_creation {
- 	width: 40%;
-	margin-right: 3%;
- 	padding-left:2%;
-	border-top: 1px solid #CCCCC5;
-}
+	.texte_creation {
+		width: 40%;
+		margin-right: 3%;
+		padding-left:2%;
+		border-top: 1px solid #CCCCC5;
+	}
 
-/*ENTREPRISES*/
-.bloc_img_entreprises{
-	width: 100%;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	background-color: #f3f3f3;
-	/*margin-top: 4%;*/
-} 
-
-
-.texte_entreprise{
-	width: 50%;
-	height: 50%;
-	margin-left: 3%;
-}
+	/*ENTREPRISES*/
+	.bloc_img_entreprises{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		background-color: #f3f3f3;
+		/*margin-top: 4%;*/
+	} 
 
 
-.img_entreprise{
-	margin-top:4%;
-	margin-right:3%;
-}
-
-.img_paysage{
- 	width: 524px;
-	height: 386px;
-	/*margin-right: 3%;*/
-	margin-top: 5%;
-}	
+	.texte_entreprise{
+		width: 50%;
+		height: 50%;
+		margin-left: 3%;
+	}
 
 
-/*ASSOCIATIONS*/
-.bloc_img_associations{
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-right: 8%;
-  height: 90%;
- 	margin-top: 4%;
- /*	background-color: #f3f3f3;*/
-}
+	.img_entreprise{
+		margin-top:4%;
+		margin-right:3%;
+	}
 
-.texte_associations{
-  width: 45%;
-  padding: 2%;
-  height: 89%;
-  margin-right: 3%;
- }
-
-.img_associations{
-	margin: auto;
-}
-
-.img_asso{
-	width: 55%;
-	margin: auto;
-	display: block;
-}
-
-/*COLLECTIVITES*/
-
-.bloc_img_collectivites{
-  width: 100%;
-  display: flex;
-  justify-content:space-between;
-  background-color: #f3f3f3;
-  /*margin-top:4%;*/
- }
-
-.img_collectivites{
-	margin: auto;
-}
-
-.img_collectivites img{
-	width: 500px;
-	height: 400px;
-	margin-top: 3%;
-}
+	.img_paysage{
+		width: 524px;
+		height: 386px;
+		/*margin-right: 3%;*/
+		margin-top: 5%;
+	}	
 
 
-.texte_collectivite {
-  margin-right: 5%;
-  margin-left: 3%;
-  width: 42%;
-  padding: 2%;
-}
+	/*ASSOCIATIONS*/
+	.bloc_img_associations{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		margin-right: 8%;
+		height: 90%;
+		margin-top: 4%;
+		/*	background-color: #f3f3f3;*/
+	}
 
-/*TERRITOIRES ET ACTEURS*/
-.bloc_img_territoire{
-	margin-top: 4%;
-	width: 100%;
-	display: flex;
-	flex-direction:row;
-	justify-content:space-between;
-	/*background-color: #f3f3f3;*/
-}
+	.texte_associations{
+		width: 45%;
+		padding: 2%;
+		height: 89%;
+		margin-right: 3%;
+	}
 
-.bloc_img_territoire img{
-	margin-left: 6%;
-	width:70%;
-	/*margin: auto;*/
-	margin-top: 4%;
-	margin-bottom: 4%;
-}
+	.img_associations{
+		margin: auto;
+	}
 
-.bloc_texte_territoire {
-	  margin-right: 3%;
-	  width: 42%;
-	  padding: 2%;
-	  height: 50%;
-}
+	.img_asso{
+		width: 55%;
+		margin: auto;
+		display: block;
+	}
 
-/*BANDEAU LOGOS FINANCEURS*/
+	/*COLLECTIVITES*/
 
-.bloc_titre_financeurs{
-	width: 100%;
-	background-color:#9A9899;
-}
+	.bloc_img_collectivites{
+		width: 100%;
+		display: flex;
+		justify-content:space-between;
+		background-color: #f3f3f3;
+		/*margin-top:4%;*/
+	}
 
-.titre_financeurs{
-	font-size: 0.8em;
-	color:white;
-	margin-left: 3%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding-top: 1%;
-	font-weight: bold;
-}
-/*LOGOS DE FINANCEURS*/
+	.img_collectivites{
+		margin: auto;
+	}
+
+	.img_collectivites img{
+		width: 500px;
+		height: 400px;
+		margin-top: 3%;
+	}
 
 
-.bloc_financeurs{
-	background-color:#9A9899;
-	width: 100%;
-	display:flex;
-	justify-content:space-between;
-	padding-bottom: 2%;
-}
+	.texte_collectivite {
+		margin-right: 5%;
+		margin-left: 3%;
+		width: 42%;
+		padding: 2%;
+	}
+
+	/*TERRITOIRES ET ACTEURS*/
+	.bloc_img_territoire{
+		margin-top: 4%;
+		width: 100%;
+		display: flex;
+		flex-direction:row;
+		justify-content:space-between;
+		/*background-color: #f3f3f3;*/
+	}
+
+	.bloc_img_territoire img{
+		margin-left: 6%;
+		width:70%;
+		/*margin: auto;*/
+		margin-top: 4%;
+		margin-bottom: 4%;
+	}
+
+	.bloc_texte_territoire {
+		margin-right: 3%;
+		width: 42%;
+		padding: 2%;
+		height: 50%;
+	}
+
+	/*BANDEAU LOGOS FINANCEURS*/
+
+	.bloc_titre_financeurs{
+		width: 100%;
+		background-color:#9A9899;
+	}
+
+	.titre_financeurs{
+		font-size: 0.8em;
+		color:white;
+		margin-left: 3%;
+		margin-bottom: 0;
+		margin-top: 0;
+		padding-top: 1%;
+		font-weight: bold;
+	}
+	/*LOGOS DE FINANCEURS*/
+
+
+	.bloc_financeurs{
+		background-color:#9A9899;
+		width: 100%;
+		display:flex;
+		justify-content:space-between;
+		padding-bottom: 2%;
+	}
 	
-.bloc_logo_financeurs{
-	width : 100%;
-	margin-left:3%;
-	display:flex;
-	justify-content:space-around;
-	justify-content:space-between;
-	align-items:flex-start;
-}
+	.bloc_logo_financeurs{
+		width : 100%;
+		margin-left:3%;
+		display:flex;
+		justify-content:space-around;
+		justify-content:space-between;
+		align-items:flex-start;
+	}
 
-.logo_financeurs{
-	width: 10%;
-	margin-top: 4%;
-	margin-right: 3%;
-	margin-bottom: 3%;
-}
+	.logo_financeurs{
+		width: 10%;
+		margin-top: 4%;
+		margin-right: 3%;
+		margin-bottom: 3%;
+	}
 
-.lien_financeurs{
-	width:15%;
-}
+	.lien_financeurs{
+		width:15%;
+	}
 
-.lien_financeurs img{
-	width: 60%;
-}
+	.lien_financeurs img{
+		width: 60%;
+	}
 
-.lien_financeurs img.logo_region{
-	width: 80%;
-}
+	.lien_financeurs img.logo_region{
+		width: 80%;
+	}
 
-.lien_financeurs img.logo_capca{
-	width: 70%;
-}
+	.lien_financeurs img.logo_capca{
+		width: 70%;
+	}
 
-.lien_financeurs img.logo_lamastre{
-	width: 50%;
-	height:80%;
-}
+	.lien_financeurs img.logo_lamastre{
+		width: 50%;
+		height:80%;
+	}
 
-.lien_financeurs img.logo_valeyrieux{
-	width: 78%;
-	height: 60%;
-}
+	.lien_financeurs img.logo_valeyrieux{
+		width: 78%;
+		height: 60%;
+	}
 
-/*FOOTER*/
-footer{
-	justify-content:space-around;
-	justify-content:space-between;
-	display:flex;
-	flex-direction:row;
-	background-color: #706E6F;
-	width: 100%;
-	height:30%;
-	font-size: 14px;
-	color:white;
-	font-size: 12px;
-	padding-top: 1%;
-}
+	/*FOOTER*/
+	footer{
+		justify-content:space-around;
+		justify-content:space-between;
+		display:flex;
+		flex-direction:row;
+		background-color: #706E6F;
+		width: 100%;
+		height:30%;
+		font-size: 14px;
+		color:white;
+		font-size: 12px;
+		padding-top: 1%;
+	}
 
-.intitule_coordonnees{
-	text-decoration: underline;
-}
+	.intitule_coordonnees{
+		text-decoration: underline;
+	}
 
-/*MENU DU FOOTER*/
+	/*MENU DU FOOTER*/
 
-.nav{
-	width:94%;
-	padding-bottom: 2%;
-	display:flex;
-	flex-direction:row;
-  	margin-left: 3%;
- 	margin-right: 3%;
-	margin-bottom: 1%;
-}
+	.nav{
+		width:94%;
+		padding-bottom: 2%;
+		display:flex;
+		flex-direction:row;
+		margin-left: 3%;
+		margin-right: 3%;
+		margin-bottom: 1%;
+	}
 
-.menu {
-	width: 45%;
-	display:flex;
-	flex-direction:column;
-	line-height: 1.5em;	
- }
+	.menu {
+		width: 45%;
+		display:flex;
+		flex-direction:column;
+		line-height: 1.5em;	
+	}
 
- .menu a,  .coordonnees a{
- 	color:white;
- 		
- }
+	.menu a,  .coordonnees a{
+		color:white;
+		
+	}
 
- .menu a:hover, .coordonnees a:hover{
-  	color:#E44772;
- }
-.img_fb{
-	margin-right: 5%;
-	margin-top: 2%;
-}
-.coordonnees{
-  width: 45%;
-  line-height: 0.8em;
-}
+	.menu a:hover, .coordonnees a:hover{
+		color:#E44772;
+	}
+	.img_fb{
+		margin-right: 5%;
+		margin-top: 2%;
+	}
+	.coordonnees{
+		width: 45%;
+		line-height: 0.8em;
+	}
 
-/*TEXTES LIENS FOOTER*/
-.texte_infos_legales{
-	margin-top: 10%;
-	margin-left: 3%;
-	line-height: 0.5em;
-	margin-right: 3%;
-}
+	/*TEXTES LIENS FOOTER*/
+	.texte_infos_legales{
+		margin-top: 10%;
+		margin-left: 3%;
+		line-height: 0.5em;
+		margin-right: 3%;
+	}
 
-.logos_partenaire{
-	display: flex;
-	flex-direction:row;
-	align-items:flex-start;
-	margin-right:5%;
-}
+	.logos_partenaire{
+		display: flex;
+		flex-direction:row;
+		align-items:flex-start;
+		margin-right:5%;
+	}
 
-.pnr{
-	display:flex;
-	width: 30%;
-	height: 50%;
-}
-.pam{
-	display:flex;
-	width: 18%;
-	height: 30%;
-}
-.cddra{
-	display:flex;
-	width: 20%;
-}
+	.pnr{
+		display:flex;
+		width: 30%;
+		height: 50%;
+	}
+	.pam{
+		display:flex;
+		width: 18%;
+		height: 30%;
+	}
+	.cddra{
+		display:flex;
+		width: 20%;
+	}
 
 
