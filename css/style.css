@@ -136,10 +136,6 @@ a:hover {
 	height:500px;
 	margin: auto; 
 	margin-right: 5%;
-	/*margin-right: 2%;
-	margin-top: 5%;
-	margin-left: 5%;
-	display: block;*/
 }
 
 /*EQUIPE*/
@@ -204,7 +200,6 @@ a:hover {
 }	
 
 .form_itineraire{
-	/*margin-left: 3%;*/
 	width: 75%;
 	margin-top: 8%;
 }
@@ -261,6 +256,7 @@ a:hover {
 	width: 45%;
 
 }
+
 .titre_carte{
 	width: 25%;
 	padding-top: 50%;
@@ -291,7 +287,7 @@ a:hover {
 	width:25%;
 	height:40%;
 	display:block;
-	
+
 }
 
 .img_europe{
@@ -300,10 +296,6 @@ a:hover {
 }
 
 /*PARTCULIERS*/
-/*#bloc_particuliers, #bloc_entreprises, #bloc_associations, #bloc_collectivites{
-	margin-top: 5%;
-	}*/
-
 	.bloc_img_particuliers, .bloc_img_entreprises, .bloc_img_associations, .bloc_img_collectivites; .bloc_img_territoire{
 		padding-top: 2%;
 	}
@@ -314,7 +306,6 @@ a:hover {
 		flex-direction: row;
 		margin-top: 4%;
 		justify-content: space-between;
-		/*background-color: #f3f3f3;*/
 	}
 
 	.bloc_img_gauche{
@@ -377,7 +368,6 @@ a:hover {
 		justify-content: space-between;
 		height: 90%;
 		padding-bottom: 5%;
-		/*background-color: #f3f3f3;*/
 	}	
 
 	.reunion{
@@ -554,10 +544,6 @@ a:hover {
 		margin-bottom: 3%;
 	}
 
-	.cddra{
-		display:flex;
-		width: 30%;
-	}
 
 	.lien_financeurs{
 		width:15%;
@@ -578,7 +564,7 @@ a:hover {
 	}
 
 	.lien_financeurs img.logo_region{
-		width: 50%;
+		width: 80%;
 	}
 
 	.lien_financeurs img.logo_capca{
@@ -591,7 +577,7 @@ a:hover {
 	}
 
 	.lien_financeurs img.logo_valeyrieux{
-		width: 105%;
+		width: 90%;
 		/*height: 60%;*/
 	}
 
@@ -627,131 +613,7 @@ a:hover {
 	}
 
 	.menu {
-		width: 42%;
-		display:flex;
-		flex-direction:column;
-		line-height: 1.5em;	
-	}
-
-	.menu a,  .coordonnees a{
-		color:white;
-
-	}
-
-	.menu a:hover, .coordonnees a:hover{
-		color:#E44772;
-	}
-
-	.coordonnees{
-		width: 42%;
-		line-height: 0.8em;
-	}
-
-	.feader{
-		display:flex;
-		width: 25%;
-	}
-	/*TEXTES LIENS FOOTER*/
-	.texte_infos_legales{
-		margin-top: 10%;
-		margin-left: 3%;
-		line-height: 0.5em;
-		margin-right: 3%;
-	}
-
-	.logos_partenaire{
-		display: flex;
-		flex-direction:row;
-		align-items:flex-start;
-		justify-content: space-around;
-		margin-right:5%;
-	}
-
-	/*.pnr{
-		display:flex;
-		width: 14%;
-		height: 50%;
-	}
-	.pam{
-		display:flex;
-		width: 23%;
-	}*/
-	
-	.bloc_logo_financeurs{
-		width : 100%;
-		margin-left:3%;
-		display:flex;
-		justify-content:space-around;
-		justify-content:space-between;
-		align-items:flex-start;
-	}
-
-	.logo_financeurs{
-		width: 10%;
-		margin-top: 4%;
-		margin-right: 3%;
-		margin-bottom: 3%;
-	}
-
-	.lien_financeurs{
-		width:15%;
-	}
-
-	.lien_financeurs img{
-		width: 60%;
-	}
-
-	.lien_financeurs img.logo_region{
-		width: 80%;
-	}
-
-	.lien_financeurs img.logo_capca{
-		width: 70%;
-	}
-
-	.lien_financeurs img.logo_lamastre{
-		width: 50%;
-		height:80%;
-	}
-
-	.lien_financeurs img.logo_valeyrieux{
-		width: 78%;
-		height: 60%;
-	}
-
-	/*FOOTER*/
-	footer{
-		justify-content:space-around;
-		justify-content:space-between;
-		display:flex;
-		flex-direction:row;
-		background-color: #706E6F;
-		width: 100%;
-		height:30%;
-		font-size: 14px;
-		color:white;
-		font-size: 12px;
-		padding-top: 1%;
-	}
-
-	.intitule_coordonnees{
-		text-decoration: underline;
-	}
-
-	/*MENU DU FOOTER*/
-
-	.nav{
-		width:94%;
-		padding-bottom: 2%;
-		display:flex;
-		flex-direction:row;
-		margin-left: 3%;
-		margin-right: 3%;
-		margin-bottom: 1%;
-	}
-
-	.menu {
-		width: 45%;
+		width: 29%;
 		display:flex;
 		flex-direction:column;
 		line-height: 1.5em;	
@@ -770,7 +632,7 @@ a:hover {
 		margin-top: 2%;
 	}
 	.coordonnees{
-		width: 45%;
+		width: 25%;
 		line-height: 0.8em;
 	}
 
@@ -784,26 +646,25 @@ a:hover {
 
 	.logos_partenaire{
 		display: flex;
-		flex-direction:row;
-		align-items:flex-start;
-		margin-right:5%;
+		margin-right:2%;
+		justify-content:space-between;
+		width:80%;
+		padding-right:8%;
 	}
 
 	.pnr{
 		display:flex;
-		width: 15%;
-		/*height: 75%;*/
-	}
-	.pam{
-		display:flex;
-		width: 25%;
-	}
-	.cddra{
-		display:flex;
-		width: 20%;
+		width: 10%;
+		height: 70%;
 	}
 
+	.pam{
+		width: 20%;
+		float: left;
+		height: 70%;
+	}
 	.smeov{
 		width: 30%;
+		height: 50%;
 	}
 
