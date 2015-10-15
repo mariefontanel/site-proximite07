@@ -10,9 +10,9 @@
 
 			<p>Cette association est aujourd’hui organisée en </strong>trois collèges</strong> :</p>
 			<ul>
-				<li>Premier collège : 	représentants des intercommunalités et conseillers départementaux</li>
-				<li>Deuxième collège : 	Chambres d’agriculture, des métiers et de l’artisanat, du commerce et de l’industrie</li>
-				<li>Troisième collège :	toute personne physique ou morale intéressée par l’objet de l’association et souhaitant y participer</li>
+				<li>Premier collège : 	représentants des intercommunalités et conseillers départementaux;</li>
+				<li>Deuxième collège : 	Chambres d’agriculture, des métiers et de l’artisanat, du commerce et de l’industrie;</li>
+				<li>Troisième collège :	toute personne physique ou morale intéressée par l’objet de l’association et souhaitant y participer.</li>
 			</ul>
 			<p>L’actuel <strong>président du Site de proximité, Mr Yves Le Bon</strong>, est issu du troisième collège.</p>
 			<p>Le Site de proximité des Boutières fait partie du <strong>réseau régional des Sites de proximité</strong> qui compte aujourd’hui 3 autres structures :</p>

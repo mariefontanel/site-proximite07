@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
 	<link rel="stylesheet" href="css/modal.css" />
 	<link rel="stylesheet" href="css/style.css" />
 	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" />
@@ -26,7 +27,7 @@
 				<ul class="menu_haut">
 					<a href="index.php"><i class="fa fa-home fa-2x"></i></a>
 					<a href="presentation.php"><li>Qui sommes-nous ? |</li></a>
-					<a href="equipe.php"><li>Notre équipe |</li></a>
+					<a href="equipe.php"><li>Notre équipe|</li></a>
 					<a href="lieux_accueil.php"><li>Nos lieux d'accueil |</li></a>
 					<a href="mailto:site.proximite.boutieres@orange.fr"><li>Nous contacter</li></a>
 				</ul>

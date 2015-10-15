@@ -18,5 +18,4 @@
 		<p> Sandrine LUQUET, Maud LUQUET-ROURE et Thibault DESCAMPS, dans le cadre de leur formation à <a href="http://www.simplonve.co" target="_blank">Simplon.ve</a></p>
 	</div>
 </div>
-
 <?php include("_footer.php"); ?>
