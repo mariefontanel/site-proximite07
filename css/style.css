@@ -391,14 +391,12 @@ a:hover {
 		padding-bottom: 3%;
 	} 
 
-
 	.texte_entreprise{
 		width: 50%;
 		height: 50%;
 		margin-left: 3%;
 		padding:2%;
 	}
-
 
 	.img_entreprise{
 		margin-top:4%;
@@ -410,7 +408,6 @@ a:hover {
 		height: 386px;
 		margin-top: 5%;
 	}	
-
 
 	/*ASSOCIATIONS*/
 	.bloc_img_associations{
@@ -460,7 +457,6 @@ a:hover {
 		height: 400px;
 		margin-top: 3%;
 	}
-
 
 	.texte_collectivite {
 		margin-right: 5%;
