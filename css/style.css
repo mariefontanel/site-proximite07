@@ -108,6 +108,7 @@ a{
 	color:#25AFBA;
 	font-weight: bold;
 }
+
 a:hover { 
 	color:#E44772;
 }
@@ -191,6 +192,7 @@ a:hover {
 .cheylard{
 	width: 40%;
 }
+
 .lamastre{
 	width:80%;
 }
@@ -226,6 +228,7 @@ a:hover {
 	justify-content:space-between;
 	align-content:space-around;
 }
+
 .bloc_icones{
 	width: 60%;
 	display: flex;
@@ -254,7 +257,6 @@ a:hover {
 
 .map{
 	width: 45%;
-
 }
 
 .titre_carte{
@@ -268,7 +270,6 @@ a:hover {
 	width: 100%;
 	margin-left: 3%;
 }
-
 
 .introduction{
 	width: 45%;
@@ -287,12 +288,10 @@ a:hover {
 	width:25%;
 	height:40%;
 	display:block;
-
 }
 
 .img_europe{
 	width:40%;
-	
 }
 
 /*PARTCULIERS*/
@@ -422,7 +421,6 @@ a:hover {
 		height: 90%;
 		margin-top: 4%;
 		padding-bottom:3%;
-		
 	}
 
 	.texte_associations{
@@ -540,7 +538,6 @@ a:hover {
 		margin-bottom: 3%;
 	}
 
-
 	.lien_financeurs{
 		width:15%;
 	}
@@ -549,14 +546,13 @@ a:hover {
 		width: 60%;
 	}
 
-
 	.lien_financeurs img.logo_feader{
 		width: 80%;
 		/*height:80%;*/
 	}
+
 	.lien_financeurs img.logo_fse{
 		width: 80%;
-		/*height:80%;*/
 	}
 
 	.lien_financeurs img.logo_region{
@@ -574,7 +570,6 @@ a:hover {
 
 	.lien_financeurs img.logo_valeyrieux{
 		width: 90%;
-		/*height: 60%;*/
 	}
 
 	/*FOOTER*/
@@ -617,16 +612,17 @@ a:hover {
 
 	.menu a,  .coordonnees a{
 		color:white;
-		
 	}
 
 	.menu a:hover, .coordonnees a:hover{
 		color:#E44772;
 	}
+
 	.img_fb{
 		margin-right: 5%;
 		margin-top: 2%;
 	}
+
 	.coordonnees{
 		width: 25%;
 		line-height: 0.8em;
@@ -659,6 +655,7 @@ a:hover {
 		float: left;
 		height: 70%;
 	}
+	
 	.smeov{
 		width: 30%;
 		height: 50%;
