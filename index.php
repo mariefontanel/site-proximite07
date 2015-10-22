@@ -45,7 +45,7 @@
 			<li>vous outiller dans votre recherche d’emploi (CV, lettres de motivation, préparations d’entretien…);</li>
 			<li>vous mettre en relation avec les offres d’emploi locales.</li>
 		</ul>
-		<p><strong>Jeunes de 16 à 26 ans,</strong> sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://ccpu.fr/index.php/site-de-proximite"target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans la mise en place de votre projet professionnel.</p>
+		<p><strong>Jeunes de 16 à 26 ans,</strong> sur le secteur de Val’Eyrieux, le Site de proximité est correspondant de la <a href="http://www.missions-locales.org/" target=_"blank">Mission locale nord Ardèche</a>. A ce titre, il vous accompagne tout particulièrement dans la mise en place de votre projet professionnel.</p>
 		
 	</div>
 	<div class="offres_particuliers">
@@ -58,7 +58,7 @@
 		</ul>
 		<div class="consult_offre">
 			<a href="offres_pdf/offres.pdf" target="_blank"><h4>A consulter</a></h4>
-			<img src="images/img_offre.png"class="img_offre">
+			<a href="offres_pdf/offres.pdf" target="_blank"><img src="images/img_offre.png" class="img_offre"></a>
 		</div>
 	</div>
 </div>
