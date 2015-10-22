@@ -335,13 +335,17 @@ a:hover {
 
 	.img_offre{
 		margin-top: 5%;
-		width: 25%;
+		width: 50%;
 		margin: auto;
 		margin-left: 25%;
 	}
 
 	.consult_offre{
 		width: 70%;
+	}
+
+	.titre_consult_offres{
+		text-align: center;
 	}
 
 	.offres{
