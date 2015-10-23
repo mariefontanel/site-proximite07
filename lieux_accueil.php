@@ -7,7 +7,7 @@
 		<ul>
 			<li><div class="stmartin"><strong>Saint Martin De Valamas </strong>(07310) Quartier le Pont (siège);</div></li>
 			<li><div class="stagreve"><strong>Saint Agrève </strong>(07320) Centre socio culturel, Place Verdun;</div></li>
-			<li><div class="lamastre"><strong>Lamastre</strong> (07270)  Communauté de communes, 18 rue Ferdinand Herold; </div></li>
+			<li><div class="lamastre"><strong>Lamastre</strong> (07270)  Communauté de communes, 26, rue Boissy d’Anglas; </div></li>
 			<li><div class="cheylard"><strong>Le Cheylard </strong>(07160) sur 2 sites : </div></li>
 			<ul>
 				<li>Relais emploi, quartier de la Gare;</li>

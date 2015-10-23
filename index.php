@@ -57,8 +57,8 @@
 			<li>Offres de locaux professionnels</li>
 		</ul>
 		<div class="consult_offre">
-			<a href="offres_pdf/offres.pdf" target="_blank"><h4 class="titre_consult_offres">A consulter</a></h4>
-			<a href="offres_pdf/offres.pdf" target="_blank"><img src="images/news.jpg" class="img_offre"></a>
+			<a href="offres/offres.pdf" target="_blank"><h4 class="titre_consult_offres">A consulter</a></h4>
+			<a href="offres/offres.pdf" target="_blank"><img src="images/news.jpg" class="img_offre"></a>
 		</div>
 	</div>
 </div>
