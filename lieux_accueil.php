@@ -2,7 +2,7 @@
 
 <div class="bloc_lieux">
 	<div class="texte_lieux">
-		<h3 class="titre_lieux">Lieux d'accueil</h3>
+		<h3 class="titre_lieux">Nos lieux d'accueil</h3>
 		<h4>Un seul N° de téléphone 04 75 30 50 82 pour prendre rendez-vous dans les lieux suivants: </h4>
 		<ul>
 			<li><div class="stmartin"><strong>Saint Martin De Valamas </strong>(07310) Quartier le Pont (siège);</div></li>

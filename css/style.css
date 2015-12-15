@@ -120,23 +120,50 @@ a:hover {
 
 /*QUI SOMMES-NOUS ?*/
 
-.presentation_asso{
+.presentation_asso1{
 	display:flex;
 	flex-direction:row;
 	margin-top:15%;
 	margin-left: 3%;
 	width:100%;
+	height: 100%;
 }
 
 .texte_asso{
-	width:50%;
+	width:46%;
+	float:left;
 }
 
+
 .img_bureau{
-	width: 650px;
-	height:500px;
-	margin: auto; 
+	/*width: 650px;
+	height:500px;*/
+	width: 36%;
+	margin-right:3%;
+	margin:auto;
+	margin-bottom:2%;
+	float:right;
+}
+.presentation_asso2{
+	display:flex;
+	flex-direction:row;
+	margin-top:2%;
+	margin-bottom:2%;
+	margin-left: 3%;
+	width:100%;
+	height: 50%;
+}
+.texte_asso3{
+	width:46%;
+	margin-top: 5.1%;
+}
+
+.texte_asso2{
+	width:40%;
+	float:right;
+	margin-top: 10%;
 	margin-right: 5%;
+	margin-left: 5%;
 }
 
 /*EQUIPE*/
@@ -145,6 +172,7 @@ a:hover {
 	flex-direction:row;
 	margin-top: 15%;
 	margin-bottom: 156px;
+	width: 100%;
 }
 
 .texte_equipe{
@@ -157,6 +185,10 @@ a:hover {
 	width: 50%;
 	margin:auto;
 	text-align: center;
+}
+
+.equipe{
+	width: 90%;
 }
 
 /*PAGE LIEUX ACCUEIL*/
@@ -249,7 +281,7 @@ a:hover {
 	width: 100%;
 	justify-content:space-between;
 	margin-top: 5%;
- margin-right:3%;
+    margin-right:3%;
 	background-color: #f3f3f3;
 	padding-bottom: 3%;
 	padding-top: 3%;
